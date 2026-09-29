@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.pytest_cache/
+artifacts/*.npy
+artifacts/evaluation.json
+.DS_Store
