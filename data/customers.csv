@@ -1,0 +1,2501 @@
+customer_id,location,orders_count,avg_order_value,repeat_rate,category_preference,engagement_score
+C0001,Pune,3,1023.89,0.73,Beauty & Personal Care,0.774
+C0002,Bengaluru,1,604.57,0.381,Plant-Based Food,0.644
+C0003,Hyderabad,4,339.89,0.467,Health & Wellness,0.847
+C0004,Hyderabad,4,590.73,0.469,Health & Wellness,0.615
+C0005,Bengaluru,5,780.42,0.437,Dairy Alternatives,0.529
+C0006,Bengaluru,3,853.89,0.76,Health & Wellness,0.825
+C0007,Coimbatore,3,944.31,0.238,Beauty & Personal Care,0.423
+C0008,Hyderabad,3,590.12,0.835,Beauty & Personal Care,0.734
+C0009,Delhi,6,949.34,0.398,Dairy Alternatives,0.38
+C0010,Kochi,6,427.41,0.396,Eco-Friendly Home,0.867
+C0011,Kochi,7,282.79,0.493,Eco-Friendly Home,0.726
+C0012,Hyderabad,1,1090.52,0.594,Plant-Based Food,0.711
+C0013,Delhi,3,237.2,0.629,Health & Wellness,0.519
+C0014,Coimbatore,4,769.54,0.607,Eco-Friendly Home,0.658
+C0015,Mumbai,7,943.31,0.436,Health & Wellness,0.496
+C0016,Chennai,2,1055.46,0.308,Eco-Friendly Home,0.358
+C0017,Kochi,2,512.02,0.841,Health & Wellness,0.463
+C0018,Delhi,5,891.23,0.484,Plant-Based Food,0.678
+C0019,Bengaluru,2,751.85,0.385,Health & Wellness,0.244
+C0020,Delhi,1,1124.03,0.657,Eco-Friendly Home,0.759
+C0021,Hyderabad,3,775.06,0.725,Beauty & Personal Care,0.24
+C0022,Mumbai,4,653.0,0.473,Beauty & Personal Care,0.606
+C0023,Coimbatore,3,798.51,0.207,Plant-Based Food,0.703
+C0024,Bengaluru,2,965.67,0.561,Dairy Alternatives,0.484
+C0025,Chennai,2,762.92,0.577,Beauty & Personal Care,0.74
+C0026,Coimbatore,6,592.88,0.919,Health & Wellness,0.506
+C0027,Pune,3,981.1,0.592,Dairy Alternatives,0.569
+C0028,Delhi,2,682.08,0.403,Eco-Friendly Home,0.698
+C0029,Kochi,1,355.23,0.453,Health & Wellness,0.766
+C0030,Pune,2,707.79,0.574,Beauty & Personal Care,0.724
+C0031,Chennai,4,846.2,0.487,Beauty & Personal Care,0.594
+C0032,Pune,3,518.37,0.52,Dairy Alternatives,0.742
+C0033,Pune,2,778.34,0.698,Dairy Alternatives,0.517
+C0034,Pune,4,190.67,0.135,Eco-Friendly Home,0.363
+C0035,Delhi,5,1069.13,0.361,Eco-Friendly Home,0.21
+C0036,Kochi,2,1017.64,0.428,Eco-Friendly Home,0.689
+C0037,Hyderabad,5,1237.39,0.511,Health & Wellness,0.774
+C0038,Coimbatore,5,443.51,0.552,Health & Wellness,0.684
+C0039,Kochi,2,1218.91,0.472,Plant-Based Food,0.902
+C0040,Coimbatore,3,723.02,0.366,Eco-Friendly Home,0.597
+C0041,Chennai,6,724.14,0.365,Plant-Based Food,0.737
+C0042,Delhi,2,740.37,0.553,Dairy Alternatives,0.834
+C0043,Chennai,2,997.35,0.571,Dairy Alternatives,0.771
+C0044,Kochi,2,670.99,0.171,Beauty & Personal Care,0.729
+C0045,Delhi,7,817.22,0.41,Plant-Based Food,0.761
+C0046,Kochi,2,679.6,0.738,Dairy Alternatives,0.736
+C0047,Chennai,9,939.75,0.716,Dairy Alternatives,0.447
+C0048,Delhi,1,888.54,0.327,Plant-Based Food,0.482
+C0049,Pune,6,685.99,0.236,Eco-Friendly Home,0.417
+C0050,Bengaluru,4,378.89,0.379,Beauty & Personal Care,0.477
+C0051,Kochi,4,672.68,0.613,Health & Wellness,0.357
+C0052,Mumbai,6,792.3,0.748,Health & Wellness,0.769
+C0053,Mumbai,5,846.63,0.502,Health & Wellness,0.44
+C0054,Coimbatore,3,198.92,0.474,Dairy Alternatives,0.667
+C0055,Coimbatore,2,1214.58,0.5,Beauty & Personal Care,0.834
+C0056,Coimbatore,1,720.08,0.261,Dairy Alternatives,0.719
+C0057,Pune,3,490.73,0.245,Eco-Friendly Home,0.691
+C0058,Kochi,1,1537.2,0.7,Plant-Based Food,0.696
+C0059,Hyderabad,1,470.43,0.569,Beauty & Personal Care,0.39
+C0060,Bengaluru,4,671.84,0.354,Eco-Friendly Home,0.674
+C0061,Coimbatore,4,737.42,0.521,Beauty & Personal Care,0.647
+C0062,Bengaluru,3,1131.69,0.397,Beauty & Personal Care,0.759
+C0063,Coimbatore,6,910.21,0.767,Health & Wellness,0.298
+C0064,Coimbatore,1,1523.08,0.726,Health & Wellness,0.621
+C0065,Hyderabad,3,321.47,0.509,Health & Wellness,0.405
+C0066,Chennai,3,1101.37,0.327,Plant-Based Food,0.39
+C0067,Pune,1,716.69,0.464,Plant-Based Food,0.672
+C0068,Hyderabad,1,196.86,0.268,Beauty & Personal Care,0.601
+C0069,Bengaluru,1,150.0,0.637,Plant-Based Food,0.781
+C0070,Bengaluru,2,611.26,0.447,Plant-Based Food,0.424
+C0071,Kochi,2,732.89,0.719,Eco-Friendly Home,0.604
+C0072,Chennai,1,1057.72,0.647,Plant-Based Food,0.558
+C0073,Coimbatore,4,1272.86,0.496,Health & Wellness,0.63
+C0074,Delhi,2,490.72,0.296,Eco-Friendly Home,0.704
+C0075,Hyderabad,3,1132.08,0.605,Health & Wellness,0.445
+C0076,Bengaluru,6,862.59,0.357,Health & Wellness,0.622
+C0077,Mumbai,6,250.25,0.554,Health & Wellness,0.597
+C0078,Pune,2,1126.23,0.643,Dairy Alternatives,0.624
+C0079,Pune,1,938.68,0.321,Plant-Based Food,0.578
+C0080,Mumbai,5,422.36,0.661,Dairy Alternatives,0.568
+C0081,Hyderabad,1,1082.88,0.19,Eco-Friendly Home,0.576
+C0082,Pune,4,440.31,0.163,Plant-Based Food,0.696
+C0083,Kochi,3,393.5,0.512,Beauty & Personal Care,0.507
+C0084,Coimbatore,5,850.17,0.401,Dairy Alternatives,0.577
+C0085,Hyderabad,5,391.87,0.348,Eco-Friendly Home,0.747
+C0086,Pune,6,497.14,0.184,Dairy Alternatives,0.592
+C0087,Pune,1,837.81,0.37,Dairy Alternatives,0.371
+C0088,Mumbai,2,888.89,0.72,Health & Wellness,0.791
+C0089,Mumbai,2,1079.69,0.263,Beauty & Personal Care,0.687
+C0090,Bengaluru,3,685.83,0.372,Dairy Alternatives,0.826
+C0091,Mumbai,2,1134.22,0.228,Eco-Friendly Home,0.643
+C0092,Kochi,3,805.44,0.579,Beauty & Personal Care,0.555
+C0093,Kochi,2,245.67,0.509,Beauty & Personal Care,0.652
+C0094,Hyderabad,3,202.22,0.482,Health & Wellness,0.456
+C0095,Bengaluru,5,1025.92,0.703,Plant-Based Food,0.532
+C0096,Kochi,3,802.52,0.299,Beauty & Personal Care,0.466
+C0097,Chennai,1,1135.14,0.688,Plant-Based Food,0.636
+C0098,Mumbai,2,1161.42,0.219,Health & Wellness,0.653
+C0099,Chennai,1,378.66,0.404,Dairy Alternatives,0.691
+C0100,Kochi,4,775.68,0.532,Dairy Alternatives,0.764
+C0101,Coimbatore,3,581.75,0.756,Dairy Alternatives,0.45
+C0102,Mumbai,6,504.08,0.806,Beauty & Personal Care,0.823
+C0103,Coimbatore,4,1026.68,0.78,Beauty & Personal Care,0.466
+C0104,Mumbai,1,791.16,0.505,Dairy Alternatives,0.624
+C0105,Coimbatore,6,805.49,0.83,Eco-Friendly Home,0.735
+C0106,Bengaluru,4,655.07,0.543,Eco-Friendly Home,0.524
+C0107,Pune,2,794.18,0.369,Eco-Friendly Home,0.6
+C0108,Bengaluru,3,820.21,0.302,Health & Wellness,0.694
+C0109,Pune,5,235.69,0.397,Plant-Based Food,0.949
+C0110,Chennai,1,620.96,0.468,Beauty & Personal Care,0.574
+C0111,Coimbatore,3,971.42,0.734,Beauty & Personal Care,0.621
+C0112,Coimbatore,1,554.38,0.561,Dairy Alternatives,0.528
+C0113,Hyderabad,1,571.65,0.374,Plant-Based Food,0.877
+C0114,Delhi,4,849.59,0.398,Health & Wellness,0.267
+C0115,Kochi,9,648.38,0.602,Health & Wellness,0.589
+C0116,Bengaluru,2,859.07,0.905,Dairy Alternatives,0.887
+C0117,Chennai,5,725.72,0.677,Plant-Based Food,0.481
+C0118,Chennai,4,817.77,0.638,Health & Wellness,0.662
+C0119,Chennai,3,640.47,0.165,Health & Wellness,0.699
+C0120,Pune,1,541.34,0.591,Dairy Alternatives,0.556
+C0121,Coimbatore,7,819.72,0.476,Dairy Alternatives,0.389
+C0122,Mumbai,4,775.91,0.388,Eco-Friendly Home,0.524
+C0123,Chennai,1,615.52,0.485,Plant-Based Food,0.841
+C0124,Mumbai,1,616.96,0.456,Health & Wellness,0.405
+C0125,Delhi,4,744.64,0.442,Beauty & Personal Care,0.754
+C0126,Chennai,2,1035.72,0.509,Dairy Alternatives,0.895
+C0127,Delhi,3,744.81,0.671,Plant-Based Food,0.519
+C0128,Pune,4,698.9,0.467,Health & Wellness,0.882
+C0129,Delhi,7,735.27,0.715,Beauty & Personal Care,0.775
+C0130,Hyderabad,5,686.51,0.732,Beauty & Personal Care,0.444
+C0131,Hyderabad,5,586.22,0.458,Beauty & Personal Care,0.492
+C0132,Kochi,8,1148.03,0.337,Beauty & Personal Care,0.435
+C0133,Mumbai,1,595.39,0.567,Health & Wellness,0.759
+C0134,Delhi,5,1455.72,0.595,Eco-Friendly Home,0.658
+C0135,Mumbai,4,792.25,0.22,Eco-Friendly Home,0.497
+C0136,Pune,2,668.49,0.54,Eco-Friendly Home,0.667
+C0137,Hyderabad,2,245.75,0.711,Dairy Alternatives,0.543
+C0138,Hyderabad,1,413.06,0.545,Plant-Based Food,0.681
+C0139,Bengaluru,3,490.2,0.636,Beauty & Personal Care,0.769
+C0140,Pune,5,898.57,0.533,Eco-Friendly Home,0.523
+C0141,Delhi,3,1646.65,0.153,Plant-Based Food,0.737
+C0142,Hyderabad,1,586.63,0.695,Dairy Alternatives,0.894
+C0143,Pune,4,419.24,0.564,Dairy Alternatives,0.747
+C0144,Pune,4,1048.76,0.673,Beauty & Personal Care,0.296
+C0145,Bengaluru,4,757.29,0.393,Plant-Based Food,0.589
+C0146,Coimbatore,5,704.48,0.47,Eco-Friendly Home,0.809
+C0147,Delhi,2,150.0,0.448,Beauty & Personal Care,0.731
+C0148,Pune,3,905.64,0.245,Plant-Based Food,0.457
+C0149,Chennai,6,983.15,0.37,Plant-Based Food,0.668
+C0150,Bengaluru,2,820.74,0.803,Plant-Based Food,0.656
+C0151,Kochi,4,882.34,0.576,Plant-Based Food,0.757
+C0152,Mumbai,4,879.13,0.686,Beauty & Personal Care,0.478
+C0153,Mumbai,3,652.77,0.497,Plant-Based Food,0.489
+C0154,Coimbatore,5,1212.97,0.465,Beauty & Personal Care,0.717
+C0155,Delhi,3,739.91,0.415,Beauty & Personal Care,0.645
+C0156,Kochi,5,579.0,0.589,Plant-Based Food,0.606
+C0157,Chennai,1,1103.79,0.578,Health & Wellness,0.552
+C0158,Coimbatore,4,573.95,0.731,Beauty & Personal Care,0.837
+C0159,Hyderabad,1,914.59,0.623,Eco-Friendly Home,0.475
+C0160,Mumbai,5,637.28,0.346,Health & Wellness,0.813
+C0161,Delhi,3,1109.03,0.194,Dairy Alternatives,0.621
+C0162,Kochi,2,705.89,0.859,Health & Wellness,0.482
+C0163,Mumbai,4,919.45,0.335,Health & Wellness,0.399
+C0164,Chennai,2,553.62,0.545,Eco-Friendly Home,0.343
+C0165,Hyderabad,2,747.93,0.678,Eco-Friendly Home,0.603
+C0166,Mumbai,5,854.78,0.45,Dairy Alternatives,0.614
+C0167,Kochi,6,365.88,0.689,Plant-Based Food,0.423
+C0168,Chennai,2,710.15,0.496,Dairy Alternatives,0.807
+C0169,Kochi,4,903.2,0.233,Eco-Friendly Home,0.63
+C0170,Delhi,6,558.9,0.501,Health & Wellness,0.683
+C0171,Chennai,1,645.49,0.717,Health & Wellness,0.76
+C0172,Coimbatore,4,745.45,0.476,Plant-Based Food,0.717
+C0173,Kochi,1,378.01,0.491,Eco-Friendly Home,0.518
+C0174,Hyderabad,3,979.4,0.538,Beauty & Personal Care,0.457
+C0175,Bengaluru,3,1043.91,0.837,Eco-Friendly Home,0.655
+C0176,Pune,3,297.53,0.32,Beauty & Personal Care,0.545
+C0177,Pune,2,719.37,0.673,Plant-Based Food,0.599
+C0178,Delhi,2,380.71,0.841,Dairy Alternatives,0.864
+C0179,Mumbai,6,793.76,0.591,Beauty & Personal Care,0.34
+C0180,Bengaluru,4,1111.93,0.74,Health & Wellness,0.834
+C0181,Delhi,1,720.93,0.592,Plant-Based Food,0.436
+C0182,Pune,5,978.25,0.645,Eco-Friendly Home,0.476
+C0183,Pune,8,1266.97,0.255,Beauty & Personal Care,0.65
+C0184,Coimbatore,3,209.83,0.693,Dairy Alternatives,0.771
+C0185,Mumbai,7,862.83,0.453,Plant-Based Food,0.793
+C0186,Chennai,7,541.54,0.694,Dairy Alternatives,0.616
+C0187,Coimbatore,4,883.9,0.188,Health & Wellness,0.598
+C0188,Coimbatore,4,707.82,0.798,Health & Wellness,0.808
+C0189,Coimbatore,8,677.53,0.525,Dairy Alternatives,0.855
+C0190,Delhi,3,347.86,0.255,Health & Wellness,0.556
+C0191,Pune,4,680.89,0.324,Health & Wellness,0.545
+C0192,Hyderabad,3,1059.18,0.206,Dairy Alternatives,0.68
+C0193,Delhi,5,881.43,0.741,Dairy Alternatives,0.793
+C0194,Bengaluru,4,364.18,0.252,Beauty & Personal Care,0.466
+C0195,Chennai,3,716.5,0.345,Health & Wellness,0.655
+C0196,Bengaluru,1,681.48,0.29,Eco-Friendly Home,0.412
+C0197,Delhi,5,150.0,0.339,Health & Wellness,0.771
+C0198,Chennai,4,570.78,0.203,Beauty & Personal Care,0.383
+C0199,Pune,3,545.66,0.745,Plant-Based Food,0.396
+C0200,Kochi,3,425.66,0.453,Eco-Friendly Home,0.729
+C0201,Pune,3,815.76,0.389,Health & Wellness,0.476
+C0202,Coimbatore,3,729.04,0.55,Beauty & Personal Care,0.424
+C0203,Chennai,8,1023.35,0.643,Beauty & Personal Care,0.675
+C0204,Coimbatore,1,630.96,0.602,Dairy Alternatives,0.635
+C0205,Mumbai,6,458.35,0.343,Plant-Based Food,0.621
+C0206,Chennai,4,926.15,0.665,Plant-Based Food,0.649
+C0207,Chennai,6,778.96,0.266,Eco-Friendly Home,0.593
+C0208,Delhi,4,415.22,0.296,Beauty & Personal Care,0.464
+C0209,Chennai,3,803.74,0.504,Eco-Friendly Home,0.387
+C0210,Bengaluru,1,809.08,0.283,Beauty & Personal Care,0.824
+C0211,Kochi,4,925.48,0.559,Plant-Based Food,0.379
+C0212,Mumbai,4,663.9,0.388,Dairy Alternatives,0.822
+C0213,Coimbatore,1,989.88,0.673,Eco-Friendly Home,0.657
+C0214,Pune,4,981.71,0.451,Dairy Alternatives,0.781
+C0215,Bengaluru,5,625.73,0.696,Plant-Based Food,0.572
+C0216,Kochi,1,721.15,0.583,Dairy Alternatives,0.402
+C0217,Bengaluru,8,913.23,0.456,Plant-Based Food,0.434
+C0218,Hyderabad,1,842.83,0.088,Eco-Friendly Home,0.383
+C0219,Pune,3,280.74,0.385,Plant-Based Food,0.582
+C0220,Mumbai,2,578.07,0.704,Health & Wellness,0.518
+C0221,Pune,2,750.98,0.375,Beauty & Personal Care,0.466
+C0222,Pune,2,718.3,0.472,Dairy Alternatives,0.557
+C0223,Delhi,5,150.0,0.529,Beauty & Personal Care,0.778
+C0224,Mumbai,4,966.59,0.681,Beauty & Personal Care,0.682
+C0225,Coimbatore,8,281.94,0.604,Beauty & Personal Care,0.602
+C0226,Mumbai,6,517.18,0.508,Eco-Friendly Home,0.48
+C0227,Pune,8,1164.14,0.39,Eco-Friendly Home,0.804
+C0228,Pune,3,568.89,0.406,Dairy Alternatives,0.478
+C0229,Coimbatore,6,580.48,0.805,Eco-Friendly Home,0.508
+C0230,Delhi,6,1064.34,0.501,Health & Wellness,0.743
+C0231,Pune,4,150.0,0.451,Dairy Alternatives,0.569
+C0232,Bengaluru,8,552.28,0.752,Dairy Alternatives,0.173
+C0233,Bengaluru,1,415.56,0.489,Beauty & Personal Care,0.738
+C0234,Bengaluru,1,693.34,0.569,Eco-Friendly Home,0.663
+C0235,Pune,3,459.08,0.609,Plant-Based Food,0.524
+C0236,Pune,4,892.87,0.633,Plant-Based Food,0.555
+C0237,Mumbai,4,583.3,0.25,Health & Wellness,0.732
+C0238,Bengaluru,5,680.07,0.199,Dairy Alternatives,0.367
+C0239,Chennai,2,861.66,0.232,Plant-Based Food,0.464
+C0240,Coimbatore,3,1540.33,0.487,Health & Wellness,0.754
+C0241,Chennai,3,566.27,0.35,Eco-Friendly Home,0.739
+C0242,Hyderabad,2,902.29,0.553,Dairy Alternatives,0.492
+C0243,Delhi,3,732.91,0.433,Dairy Alternatives,0.783
+C0244,Coimbatore,4,1136.28,0.325,Beauty & Personal Care,0.34
+C0245,Hyderabad,6,499.15,0.683,Health & Wellness,0.386
+C0246,Coimbatore,5,457.75,0.378,Health & Wellness,0.261
+C0247,Coimbatore,8,1130.01,0.572,Health & Wellness,0.858
+C0248,Kochi,5,348.43,0.359,Dairy Alternatives,0.849
+C0249,Delhi,3,1038.38,0.596,Beauty & Personal Care,0.643
+C0250,Chennai,6,529.3,0.786,Health & Wellness,0.641
+C0251,Pune,5,1032.32,0.304,Eco-Friendly Home,0.173
+C0252,Coimbatore,2,956.53,0.449,Plant-Based Food,0.639
+C0253,Pune,3,150.0,0.732,Dairy Alternatives,0.321
+C0254,Pune,3,881.1,0.418,Dairy Alternatives,0.721
+C0255,Pune,4,786.07,0.391,Dairy Alternatives,0.375
+C0256,Delhi,6,640.0,0.479,Beauty & Personal Care,0.735
+C0257,Kochi,2,549.94,0.231,Beauty & Personal Care,0.752
+C0258,Pune,2,876.16,0.343,Beauty & Personal Care,0.412
+C0259,Coimbatore,3,743.39,0.631,Plant-Based Food,0.579
+C0260,Mumbai,3,951.72,0.501,Health & Wellness,0.317
+C0261,Hyderabad,4,317.36,0.568,Health & Wellness,0.373
+C0262,Hyderabad,3,184.42,0.329,Dairy Alternatives,0.662
+C0263,Hyderabad,2,364.72,0.48,Plant-Based Food,0.644
+C0264,Bengaluru,2,1055.12,0.487,Eco-Friendly Home,0.461
+C0265,Hyderabad,3,188.52,0.269,Health & Wellness,0.504
+C0266,Kochi,7,637.44,0.642,Plant-Based Food,0.504
+C0267,Coimbatore,6,657.97,0.259,Plant-Based Food,0.705
+C0268,Chennai,1,753.74,0.288,Plant-Based Food,0.755
+C0269,Mumbai,5,823.9,0.183,Beauty & Personal Care,0.392
+C0270,Pune,5,1001.73,0.648,Dairy Alternatives,0.701
+C0271,Bengaluru,4,1072.42,0.262,Eco-Friendly Home,0.681
+C0272,Delhi,4,1043.34,0.177,Plant-Based Food,0.705
+C0273,Bengaluru,2,1154.73,0.215,Beauty & Personal Care,0.767
+C0274,Hyderabad,2,450.16,0.274,Health & Wellness,0.355
+C0275,Chennai,3,676.51,0.448,Beauty & Personal Care,0.851
+C0276,Chennai,4,1014.1,0.545,Beauty & Personal Care,0.607
+C0277,Delhi,5,1098.26,0.442,Beauty & Personal Care,0.386
+C0278,Coimbatore,2,559.0,0.605,Plant-Based Food,0.513
+C0279,Coimbatore,3,957.86,0.462,Health & Wellness,0.636
+C0280,Hyderabad,2,990.73,0.403,Eco-Friendly Home,0.611
+C0281,Mumbai,4,1163.67,0.288,Eco-Friendly Home,0.623
+C0282,Coimbatore,1,658.89,0.333,Eco-Friendly Home,0.742
+C0283,Hyderabad,5,899.74,0.265,Eco-Friendly Home,0.484
+C0284,Delhi,5,815.56,0.655,Dairy Alternatives,0.81
+C0285,Delhi,1,1323.28,0.784,Health & Wellness,0.511
+C0286,Chennai,4,847.53,0.198,Plant-Based Food,0.406
+C0287,Mumbai,4,307.06,0.149,Eco-Friendly Home,0.703
+C0288,Chennai,2,887.52,0.497,Eco-Friendly Home,0.596
+C0289,Coimbatore,4,244.68,0.546,Plant-Based Food,0.656
+C0290,Kochi,2,759.84,0.486,Beauty & Personal Care,0.696
+C0291,Pune,3,1178.87,0.353,Health & Wellness,0.725
+C0292,Bengaluru,2,1103.54,0.343,Dairy Alternatives,0.685
+C0293,Chennai,4,468.01,0.485,Dairy Alternatives,0.575
+C0294,Delhi,1,994.48,0.691,Dairy Alternatives,0.413
+C0295,Bengaluru,8,473.96,0.547,Plant-Based Food,0.897
+C0296,Pune,5,150.0,0.307,Health & Wellness,0.85
+C0297,Mumbai,6,1051.55,0.23,Health & Wellness,0.444
+C0298,Mumbai,1,682.73,0.211,Dairy Alternatives,0.494
+C0299,Kochi,4,778.28,0.774,Eco-Friendly Home,0.818
+C0300,Mumbai,1,561.14,0.507,Beauty & Personal Care,0.775
+C0301,Bengaluru,4,938.02,0.369,Beauty & Personal Care,0.779
+C0302,Chennai,1,1269.39,0.729,Eco-Friendly Home,0.454
+C0303,Pune,3,1200.49,0.662,Eco-Friendly Home,0.669
+C0304,Coimbatore,4,1115.26,0.666,Eco-Friendly Home,0.441
+C0305,Kochi,1,657.67,0.178,Health & Wellness,0.724
+C0306,Pune,2,609.57,0.349,Plant-Based Food,0.756
+C0307,Mumbai,5,699.48,0.749,Dairy Alternatives,0.625
+C0308,Kochi,4,1018.83,0.325,Eco-Friendly Home,0.57
+C0309,Bengaluru,1,1140.98,0.514,Health & Wellness,0.46
+C0310,Coimbatore,2,150.0,0.502,Plant-Based Food,0.776
+C0311,Bengaluru,4,464.41,0.386,Plant-Based Food,0.875
+C0312,Coimbatore,1,880.63,0.593,Eco-Friendly Home,0.672
+C0313,Mumbai,3,816.57,0.626,Beauty & Personal Care,0.444
+C0314,Coimbatore,5,645.61,0.323,Beauty & Personal Care,0.493
+C0315,Mumbai,4,679.93,0.596,Eco-Friendly Home,0.568
+C0316,Chennai,6,997.85,0.384,Eco-Friendly Home,0.884
+C0317,Hyderabad,5,488.87,0.304,Health & Wellness,0.855
+C0318,Bengaluru,6,689.91,0.401,Eco-Friendly Home,0.712
+C0319,Hyderabad,2,864.47,0.632,Dairy Alternatives,0.396
+C0320,Hyderabad,4,489.81,0.339,Eco-Friendly Home,0.588
+C0321,Delhi,4,852.01,0.726,Plant-Based Food,0.737
+C0322,Kochi,4,846.88,0.59,Plant-Based Food,0.701
+C0323,Hyderabad,3,583.71,0.632,Eco-Friendly Home,0.745
+C0324,Mumbai,5,910.61,0.561,Plant-Based Food,0.454
+C0325,Kochi,3,150.0,0.27,Dairy Alternatives,0.658
+C0326,Kochi,4,485.54,0.118,Beauty & Personal Care,0.689
+C0327,Mumbai,5,682.35,0.809,Health & Wellness,0.762
+C0328,Pune,2,740.53,0.252,Health & Wellness,0.874
+C0329,Pune,2,615.17,0.512,Beauty & Personal Care,0.465
+C0330,Mumbai,6,1208.72,0.683,Plant-Based Food,0.898
+C0331,Pune,5,1137.06,0.664,Dairy Alternatives,0.92
+C0332,Pune,3,1146.04,0.242,Plant-Based Food,0.454
+C0333,Mumbai,1,592.78,0.411,Beauty & Personal Care,0.5
+C0334,Pune,4,990.37,0.607,Eco-Friendly Home,0.737
+C0335,Delhi,3,765.95,0.513,Plant-Based Food,0.663
+C0336,Hyderabad,4,1169.62,0.368,Eco-Friendly Home,0.748
+C0337,Bengaluru,4,1077.55,0.425,Health & Wellness,0.578
+C0338,Bengaluru,3,430.01,0.402,Beauty & Personal Care,0.68
+C0339,Chennai,2,1285.31,0.459,Beauty & Personal Care,0.604
+C0340,Bengaluru,3,794.85,0.474,Eco-Friendly Home,0.303
+C0341,Mumbai,3,991.06,0.259,Eco-Friendly Home,0.682
+C0342,Chennai,5,328.94,0.261,Dairy Alternatives,0.636
+C0343,Bengaluru,1,833.97,0.521,Health & Wellness,0.694
+C0344,Delhi,1,710.72,0.276,Plant-Based Food,0.481
+C0345,Delhi,2,1045.63,0.625,Health & Wellness,0.753
+C0346,Chennai,2,660.44,0.675,Eco-Friendly Home,0.784
+C0347,Hyderabad,6,1059.59,0.424,Eco-Friendly Home,0.446
+C0348,Kochi,1,779.31,0.346,Dairy Alternatives,0.745
+C0349,Chennai,6,633.73,0.422,Plant-Based Food,0.548
+C0350,Mumbai,7,938.82,0.594,Dairy Alternatives,0.531
+C0351,Kochi,5,896.28,0.594,Health & Wellness,0.578
+C0352,Pune,2,578.76,0.595,Eco-Friendly Home,0.443
+C0353,Pune,1,877.21,0.411,Health & Wellness,0.804
+C0354,Hyderabad,1,1007.13,0.365,Dairy Alternatives,0.655
+C0355,Coimbatore,4,555.7,0.362,Beauty & Personal Care,0.858
+C0356,Bengaluru,6,769.06,0.688,Beauty & Personal Care,0.561
+C0357,Kochi,5,463.15,0.334,Dairy Alternatives,0.779
+C0358,Chennai,5,497.19,0.416,Beauty & Personal Care,0.646
+C0359,Hyderabad,5,240.78,0.503,Eco-Friendly Home,0.424
+C0360,Bengaluru,6,894.85,0.647,Dairy Alternatives,0.755
+C0361,Delhi,4,1304.32,0.403,Eco-Friendly Home,0.541
+C0362,Delhi,6,718.08,0.761,Health & Wellness,0.507
+C0363,Coimbatore,1,1068.99,0.566,Beauty & Personal Care,0.422
+C0364,Coimbatore,2,843.94,0.395,Dairy Alternatives,0.73
+C0365,Kochi,2,1111.84,0.479,Health & Wellness,0.803
+C0366,Coimbatore,3,1110.02,0.623,Dairy Alternatives,0.479
+C0367,Kochi,1,722.14,0.443,Plant-Based Food,0.896
+C0368,Mumbai,5,494.12,0.466,Beauty & Personal Care,0.499
+C0369,Kochi,5,1185.08,0.734,Beauty & Personal Care,0.628
+C0370,Coimbatore,6,621.94,0.386,Eco-Friendly Home,0.756
+C0371,Chennai,3,150.0,0.606,Dairy Alternatives,0.63
+C0372,Mumbai,2,1114.75,0.424,Dairy Alternatives,0.463
+C0373,Mumbai,4,748.7,0.545,Eco-Friendly Home,0.627
+C0374,Kochi,3,636.33,0.574,Health & Wellness,0.641
+C0375,Pune,1,518.36,0.552,Eco-Friendly Home,0.436
+C0376,Kochi,3,547.91,0.581,Dairy Alternatives,0.792
+C0377,Coimbatore,1,660.36,0.329,Beauty & Personal Care,0.712
+C0378,Kochi,3,217.44,0.584,Health & Wellness,0.882
+C0379,Hyderabad,5,276.08,0.419,Health & Wellness,0.641
+C0380,Bengaluru,1,597.25,0.589,Dairy Alternatives,0.595
+C0381,Bengaluru,3,1017.71,0.218,Eco-Friendly Home,0.742
+C0382,Delhi,4,509.37,0.234,Beauty & Personal Care,0.774
+C0383,Mumbai,5,666.99,0.226,Dairy Alternatives,0.609
+C0384,Coimbatore,8,993.18,0.093,Eco-Friendly Home,0.65
+C0385,Mumbai,7,501.77,0.501,Beauty & Personal Care,0.717
+C0386,Hyderabad,6,650.39,0.638,Health & Wellness,0.836
+C0387,Bengaluru,5,998.14,0.657,Plant-Based Food,0.616
+C0388,Pune,4,651.25,0.241,Health & Wellness,0.69
+C0389,Hyderabad,1,786.72,0.506,Dairy Alternatives,0.742
+C0390,Delhi,4,357.13,0.252,Beauty & Personal Care,0.537
+C0391,Chennai,2,357.18,0.62,Eco-Friendly Home,0.764
+C0392,Kochi,4,1152.26,0.865,Plant-Based Food,0.923
+C0393,Hyderabad,4,787.8,0.529,Plant-Based Food,0.683
+C0394,Bengaluru,2,771.49,0.373,Beauty & Personal Care,0.788
+C0395,Delhi,4,920.82,0.733,Health & Wellness,0.818
+C0396,Kochi,5,762.96,0.633,Dairy Alternatives,0.475
+C0397,Delhi,5,230.93,0.204,Dairy Alternatives,0.809
+C0398,Kochi,3,787.93,0.497,Dairy Alternatives,0.496
+C0399,Hyderabad,5,1250.56,0.635,Health & Wellness,0.599
+C0400,Mumbai,2,687.04,0.408,Eco-Friendly Home,0.494
+C0401,Chennai,3,580.24,0.712,Health & Wellness,0.907
+C0402,Delhi,5,471.43,0.667,Eco-Friendly Home,0.871
+C0403,Pune,5,658.57,0.606,Eco-Friendly Home,0.451
+C0404,Mumbai,11,819.29,0.496,Plant-Based Food,0.642
+C0405,Chennai,4,661.33,0.59,Health & Wellness,0.348
+C0406,Kochi,6,853.92,0.651,Plant-Based Food,0.531
+C0407,Delhi,4,665.32,0.415,Plant-Based Food,0.615
+C0408,Mumbai,1,685.26,0.351,Eco-Friendly Home,0.572
+C0409,Delhi,5,912.7,0.514,Eco-Friendly Home,0.411
+C0410,Bengaluru,3,951.69,0.445,Dairy Alternatives,0.593
+C0411,Delhi,3,383.51,0.434,Plant-Based Food,0.578
+C0412,Delhi,4,279.07,0.55,Health & Wellness,0.774
+C0413,Mumbai,2,1135.35,0.458,Health & Wellness,0.61
+C0414,Hyderabad,2,680.07,0.627,Beauty & Personal Care,0.567
+C0415,Bengaluru,4,818.94,0.609,Health & Wellness,0.771
+C0416,Pune,2,750.28,0.645,Dairy Alternatives,0.397
+C0417,Pune,1,372.83,0.11,Dairy Alternatives,0.702
+C0418,Pune,6,670.86,0.705,Eco-Friendly Home,0.592
+C0419,Mumbai,8,678.09,0.57,Plant-Based Food,0.55
+C0420,Coimbatore,1,608.39,0.317,Plant-Based Food,0.667
+C0421,Hyderabad,1,1107.49,0.474,Beauty & Personal Care,0.604
+C0422,Hyderabad,1,579.01,0.766,Eco-Friendly Home,0.814
+C0423,Coimbatore,4,780.35,0.163,Plant-Based Food,0.73
+C0424,Pune,1,690.88,0.717,Dairy Alternatives,0.354
+C0425,Chennai,3,517.57,0.331,Beauty & Personal Care,0.767
+C0426,Pune,1,1039.91,0.456,Eco-Friendly Home,0.648
+C0427,Hyderabad,4,471.61,0.483,Dairy Alternatives,0.367
+C0428,Delhi,3,1053.16,0.515,Eco-Friendly Home,0.896
+C0429,Coimbatore,8,150.0,0.741,Dairy Alternatives,0.553
+C0430,Bengaluru,3,150.0,0.563,Beauty & Personal Care,0.816
+C0431,Chennai,5,746.83,0.716,Dairy Alternatives,0.602
+C0432,Delhi,4,850.19,0.711,Dairy Alternatives,0.686
+C0433,Hyderabad,3,387.59,0.394,Eco-Friendly Home,0.623
+C0434,Coimbatore,6,1100.13,0.495,Beauty & Personal Care,0.406
+C0435,Coimbatore,6,385.96,0.418,Dairy Alternatives,0.468
+C0436,Delhi,9,826.88,0.336,Plant-Based Food,0.867
+C0437,Bengaluru,4,981.74,0.443,Dairy Alternatives,0.891
+C0438,Pune,4,774.79,0.567,Beauty & Personal Care,0.251
+C0439,Mumbai,6,1035.14,0.416,Health & Wellness,0.848
+C0440,Mumbai,6,1104.9,0.378,Plant-Based Food,0.506
+C0441,Kochi,6,466.27,0.433,Dairy Alternatives,0.813
+C0442,Bengaluru,1,705.76,0.523,Beauty & Personal Care,0.524
+C0443,Delhi,2,599.03,0.347,Health & Wellness,0.674
+C0444,Hyderabad,2,1045.22,0.613,Health & Wellness,0.656
+C0445,Mumbai,5,823.93,0.346,Beauty & Personal Care,0.667
+C0446,Delhi,3,1030.75,0.577,Dairy Alternatives,0.723
+C0447,Kochi,1,721.99,0.484,Dairy Alternatives,0.449
+C0448,Hyderabad,2,819.93,0.517,Plant-Based Food,0.517
+C0449,Kochi,8,1074.71,0.511,Dairy Alternatives,0.416
+C0450,Pune,3,667.35,0.649,Beauty & Personal Care,0.738
+C0451,Hyderabad,4,807.76,0.676,Dairy Alternatives,0.758
+C0452,Kochi,7,1208.56,0.336,Dairy Alternatives,0.798
+C0453,Hyderabad,5,559.69,0.582,Eco-Friendly Home,0.84
+C0454,Delhi,2,158.59,0.619,Plant-Based Food,0.386
+C0455,Kochi,5,1017.8,0.65,Beauty & Personal Care,0.775
+C0456,Coimbatore,5,377.26,0.542,Health & Wellness,0.665
+C0457,Bengaluru,5,1350.66,0.281,Beauty & Personal Care,0.48
+C0458,Kochi,3,520.1,0.368,Plant-Based Food,0.846
+C0459,Coimbatore,6,840.91,0.597,Health & Wellness,0.622
+C0460,Pune,8,748.38,0.536,Eco-Friendly Home,0.795
+C0461,Chennai,6,1051.13,0.546,Dairy Alternatives,0.602
+C0462,Hyderabad,6,150.0,0.519,Plant-Based Food,0.614
+C0463,Hyderabad,7,520.43,0.102,Health & Wellness,0.459
+C0464,Hyderabad,4,748.77,0.663,Health & Wellness,0.713
+C0465,Pune,4,1051.25,0.09,Plant-Based Food,0.817
+C0466,Delhi,3,920.78,0.387,Plant-Based Food,0.32
+C0467,Pune,6,854.9,0.567,Beauty & Personal Care,0.518
+C0468,Bengaluru,8,871.83,0.7,Health & Wellness,0.899
+C0469,Pune,1,498.13,0.731,Plant-Based Food,0.604
+C0470,Coimbatore,2,681.63,0.546,Beauty & Personal Care,0.51
+C0471,Delhi,2,675.76,0.24,Plant-Based Food,0.704
+C0472,Mumbai,3,492.19,0.386,Beauty & Personal Care,0.194
+C0473,Bengaluru,2,1068.48,0.121,Health & Wellness,0.712
+C0474,Delhi,1,756.56,0.289,Dairy Alternatives,0.206
+C0475,Chennai,2,917.34,0.77,Eco-Friendly Home,0.733
+C0476,Chennai,5,805.56,0.514,Plant-Based Food,0.291
+C0477,Bengaluru,3,891.61,0.685,Plant-Based Food,0.564
+C0478,Chennai,6,727.42,0.363,Beauty & Personal Care,0.53
+C0479,Delhi,8,1435.06,0.257,Eco-Friendly Home,0.187
+C0480,Bengaluru,3,862.33,0.203,Beauty & Personal Care,0.442
+C0481,Kochi,2,723.54,0.403,Dairy Alternatives,0.51
+C0482,Mumbai,4,451.24,0.454,Plant-Based Food,0.607
+C0483,Mumbai,3,875.5,0.172,Dairy Alternatives,0.853
+C0484,Delhi,2,959.54,0.42,Eco-Friendly Home,0.688
+C0485,Bengaluru,2,626.04,0.561,Beauty & Personal Care,0.662
+C0486,Chennai,3,576.37,0.437,Plant-Based Food,0.644
+C0487,Coimbatore,5,1358.56,0.798,Health & Wellness,0.607
+C0488,Hyderabad,2,1114.84,0.481,Health & Wellness,0.637
+C0489,Kochi,5,658.13,0.593,Dairy Alternatives,0.686
+C0490,Bengaluru,6,759.4,0.523,Beauty & Personal Care,0.629
+C0491,Bengaluru,5,565.98,0.187,Health & Wellness,0.347
+C0492,Pune,9,455.97,0.582,Health & Wellness,0.776
+C0493,Pune,6,623.23,0.643,Dairy Alternatives,0.546
+C0494,Chennai,1,858.86,0.4,Health & Wellness,0.467
+C0495,Bengaluru,5,684.47,0.41,Health & Wellness,0.733
+C0496,Coimbatore,5,767.94,0.416,Dairy Alternatives,0.557
+C0497,Kochi,2,861.16,0.392,Beauty & Personal Care,0.744
+C0498,Pune,5,701.06,0.678,Eco-Friendly Home,0.615
+C0499,Bengaluru,5,1025.76,0.551,Plant-Based Food,0.953
+C0500,Coimbatore,2,258.21,0.503,Plant-Based Food,0.712
+C0501,Bengaluru,1,150.0,0.653,Health & Wellness,0.54
+C0502,Bengaluru,1,811.48,0.267,Health & Wellness,0.655
+C0503,Bengaluru,2,879.97,0.624,Beauty & Personal Care,0.645
+C0504,Coimbatore,6,939.14,0.223,Dairy Alternatives,0.837
+C0505,Mumbai,6,627.37,0.5,Health & Wellness,0.588
+C0506,Pune,8,150.0,0.506,Beauty & Personal Care,0.732
+C0507,Coimbatore,6,1034.32,0.669,Eco-Friendly Home,0.769
+C0508,Mumbai,3,966.31,0.502,Beauty & Personal Care,0.446
+C0509,Mumbai,4,959.43,0.767,Dairy Alternatives,0.597
+C0510,Hyderabad,2,703.1,0.679,Beauty & Personal Care,0.623
+C0511,Coimbatore,5,776.33,0.131,Plant-Based Food,0.167
+C0512,Pune,2,795.29,0.564,Beauty & Personal Care,0.511
+C0513,Chennai,8,250.11,0.499,Dairy Alternatives,0.89
+C0514,Pune,4,973.98,0.441,Plant-Based Food,0.665
+C0515,Pune,4,806.79,0.514,Health & Wellness,0.418
+C0516,Delhi,3,951.11,0.481,Eco-Friendly Home,0.57
+C0517,Chennai,5,914.89,0.176,Plant-Based Food,0.501
+C0518,Pune,2,556.26,0.555,Dairy Alternatives,0.215
+C0519,Chennai,2,757.31,0.621,Plant-Based Food,0.624
+C0520,Kochi,5,990.5,0.403,Plant-Based Food,0.909
+C0521,Hyderabad,2,545.11,0.366,Beauty & Personal Care,0.616
+C0522,Coimbatore,5,725.37,0.161,Dairy Alternatives,0.825
+C0523,Kochi,2,1120.47,0.437,Dairy Alternatives,0.426
+C0524,Coimbatore,5,460.9,0.288,Beauty & Personal Care,0.604
+C0525,Mumbai,5,706.24,0.405,Plant-Based Food,0.757
+C0526,Mumbai,3,465.54,0.273,Eco-Friendly Home,0.732
+C0527,Chennai,3,563.01,0.541,Health & Wellness,0.809
+C0528,Pune,2,1366.75,0.492,Plant-Based Food,0.681
+C0529,Kochi,3,1264.73,0.612,Dairy Alternatives,0.407
+C0530,Coimbatore,3,906.26,0.286,Eco-Friendly Home,0.666
+C0531,Hyderabad,3,826.88,0.799,Health & Wellness,0.405
+C0532,Kochi,2,297.03,0.364,Plant-Based Food,0.349
+C0533,Hyderabad,3,407.9,0.5,Dairy Alternatives,0.741
+C0534,Pune,3,451.63,0.785,Eco-Friendly Home,0.859
+C0535,Hyderabad,4,924.22,0.143,Health & Wellness,0.521
+C0536,Bengaluru,2,554.37,0.482,Beauty & Personal Care,0.75
+C0537,Mumbai,5,591.18,0.694,Eco-Friendly Home,0.982
+C0538,Bengaluru,5,1128.53,0.605,Plant-Based Food,0.391
+C0539,Chennai,2,525.62,0.741,Eco-Friendly Home,0.9
+C0540,Delhi,2,746.86,0.742,Eco-Friendly Home,0.813
+C0541,Hyderabad,3,1109.4,0.327,Beauty & Personal Care,0.6
+C0542,Coimbatore,4,1031.43,0.671,Beauty & Personal Care,0.488
+C0543,Pune,3,560.67,0.382,Health & Wellness,0.614
+C0544,Delhi,2,661.55,0.525,Beauty & Personal Care,0.678
+C0545,Kochi,6,609.37,0.544,Plant-Based Food,0.685
+C0546,Chennai,5,454.96,0.557,Eco-Friendly Home,0.214
+C0547,Kochi,2,530.65,0.681,Health & Wellness,0.328
+C0548,Bengaluru,2,789.99,0.806,Dairy Alternatives,0.671
+C0549,Chennai,4,959.72,0.478,Eco-Friendly Home,0.966
+C0550,Bengaluru,1,1025.01,0.643,Health & Wellness,0.262
+C0551,Mumbai,5,786.09,0.43,Beauty & Personal Care,0.684
+C0552,Pune,4,652.41,0.494,Eco-Friendly Home,0.587
+C0553,Delhi,5,648.08,0.769,Plant-Based Food,0.521
+C0554,Pune,5,1377.29,0.567,Eco-Friendly Home,0.71
+C0555,Coimbatore,2,965.52,0.559,Eco-Friendly Home,0.263
+C0556,Bengaluru,2,742.05,0.471,Plant-Based Food,0.608
+C0557,Bengaluru,2,872.69,0.507,Dairy Alternatives,0.816
+C0558,Bengaluru,4,1495.22,0.294,Eco-Friendly Home,0.601
+C0559,Mumbai,1,658.31,0.589,Beauty & Personal Care,0.896
+C0560,Coimbatore,3,1018.18,0.306,Plant-Based Food,0.352
+C0561,Delhi,2,996.65,0.605,Dairy Alternatives,0.73
+C0562,Chennai,3,562.73,0.784,Health & Wellness,0.845
+C0563,Bengaluru,5,555.07,0.506,Plant-Based Food,0.616
+C0564,Mumbai,3,770.2,0.317,Dairy Alternatives,0.73
+C0565,Delhi,4,150.0,0.445,Eco-Friendly Home,0.743
+C0566,Chennai,6,816.68,0.737,Health & Wellness,0.494
+C0567,Pune,5,648.55,0.33,Dairy Alternatives,0.726
+C0568,Kochi,6,150.0,0.54,Plant-Based Food,0.845
+C0569,Hyderabad,5,1099.72,0.63,Plant-Based Food,0.749
+C0570,Hyderabad,3,453.34,0.483,Health & Wellness,0.479
+C0571,Pune,3,857.93,0.563,Dairy Alternatives,0.724
+C0572,Pune,5,693.26,0.57,Beauty & Personal Care,0.49
+C0573,Delhi,4,737.91,0.484,Beauty & Personal Care,0.853
+C0574,Bengaluru,5,1132.89,0.722,Plant-Based Food,0.47
+C0575,Chennai,1,458.06,0.282,Health & Wellness,0.777
+C0576,Mumbai,1,559.93,0.57,Health & Wellness,0.412
+C0577,Pune,3,962.75,0.607,Eco-Friendly Home,0.785
+C0578,Bengaluru,1,890.47,0.53,Health & Wellness,0.784
+C0579,Kochi,4,994.14,0.753,Eco-Friendly Home,0.335
+C0580,Bengaluru,2,558.21,0.469,Health & Wellness,0.795
+C0581,Pune,4,864.19,0.612,Health & Wellness,0.819
+C0582,Chennai,1,893.35,0.313,Eco-Friendly Home,0.652
+C0583,Hyderabad,2,688.31,0.494,Plant-Based Food,0.668
+C0584,Kochi,5,524.27,0.756,Health & Wellness,0.509
+C0585,Kochi,1,982.7,0.251,Beauty & Personal Care,0.841
+C0586,Delhi,1,636.84,0.215,Eco-Friendly Home,0.53
+C0587,Bengaluru,6,900.24,0.346,Health & Wellness,0.817
+C0588,Kochi,4,776.14,0.553,Eco-Friendly Home,0.663
+C0589,Mumbai,2,857.91,0.694,Dairy Alternatives,0.899
+C0590,Kochi,3,305.99,0.585,Dairy Alternatives,0.66
+C0591,Hyderabad,2,737.28,0.561,Health & Wellness,0.713
+C0592,Kochi,5,355.63,0.551,Health & Wellness,0.873
+C0593,Mumbai,2,745.18,0.3,Beauty & Personal Care,0.649
+C0594,Kochi,2,617.56,0.807,Beauty & Personal Care,0.253
+C0595,Kochi,5,613.27,0.115,Eco-Friendly Home,0.709
+C0596,Coimbatore,4,925.88,0.453,Eco-Friendly Home,0.577
+C0597,Bengaluru,6,455.95,0.456,Health & Wellness,0.56
+C0598,Chennai,2,664.22,0.682,Health & Wellness,0.958
+C0599,Coimbatore,2,631.66,0.603,Health & Wellness,0.867
+C0600,Bengaluru,5,562.59,0.758,Health & Wellness,0.588
+C0601,Kochi,6,1133.12,0.157,Plant-Based Food,0.649
+C0602,Bengaluru,2,771.25,0.491,Dairy Alternatives,0.649
+C0603,Chennai,8,758.48,0.548,Eco-Friendly Home,0.589
+C0604,Bengaluru,5,686.21,0.803,Health & Wellness,0.298
+C0605,Coimbatore,5,1029.17,0.767,Plant-Based Food,0.612
+C0606,Bengaluru,3,1036.22,0.599,Health & Wellness,0.486
+C0607,Chennai,7,741.64,0.835,Beauty & Personal Care,0.742
+C0608,Chennai,4,819.84,0.661,Dairy Alternatives,0.717
+C0609,Mumbai,2,603.65,0.617,Dairy Alternatives,0.586
+C0610,Coimbatore,3,444.47,0.392,Eco-Friendly Home,0.732
+C0611,Delhi,4,921.18,0.42,Beauty & Personal Care,0.781
+C0612,Kochi,3,382.61,0.254,Plant-Based Food,0.695
+C0613,Bengaluru,8,850.51,0.74,Plant-Based Food,0.786
+C0614,Kochi,4,638.31,0.643,Eco-Friendly Home,0.887
+C0615,Hyderabad,1,1467.24,0.477,Plant-Based Food,0.702
+C0616,Delhi,5,1071.74,0.795,Dairy Alternatives,0.861
+C0617,Chennai,3,436.44,0.849,Health & Wellness,0.552
+C0618,Bengaluru,7,598.27,0.447,Plant-Based Food,0.716
+C0619,Kochi,6,541.15,0.78,Beauty & Personal Care,0.438
+C0620,Kochi,2,492.15,0.828,Eco-Friendly Home,0.358
+C0621,Chennai,8,1049.05,0.56,Dairy Alternatives,0.351
+C0622,Pune,2,493.25,0.314,Dairy Alternatives,0.605
+C0623,Coimbatore,4,1078.66,0.197,Dairy Alternatives,0.852
+C0624,Bengaluru,4,930.42,0.35,Health & Wellness,0.542
+C0625,Kochi,1,700.91,0.353,Plant-Based Food,0.763
+C0626,Delhi,1,860.27,0.594,Eco-Friendly Home,0.724
+C0627,Delhi,2,216.52,0.924,Plant-Based Food,0.743
+C0628,Chennai,4,659.08,0.428,Health & Wellness,0.679
+C0629,Delhi,7,457.06,0.799,Eco-Friendly Home,0.771
+C0630,Delhi,2,414.72,0.356,Beauty & Personal Care,0.721
+C0631,Bengaluru,4,381.62,0.564,Dairy Alternatives,0.621
+C0632,Pune,1,625.21,0.615,Health & Wellness,0.504
+C0633,Pune,3,1071.42,0.449,Eco-Friendly Home,0.753
+C0634,Mumbai,3,562.12,0.332,Dairy Alternatives,0.691
+C0635,Coimbatore,4,379.59,0.302,Plant-Based Food,0.626
+C0636,Delhi,2,807.41,0.281,Eco-Friendly Home,0.658
+C0637,Hyderabad,6,491.81,0.774,Plant-Based Food,0.784
+C0638,Chennai,2,278.67,0.666,Plant-Based Food,0.758
+C0639,Hyderabad,2,1017.56,0.338,Dairy Alternatives,0.524
+C0640,Chennai,3,506.57,0.679,Beauty & Personal Care,0.866
+C0641,Hyderabad,5,668.51,0.536,Beauty & Personal Care,0.507
+C0642,Hyderabad,4,1034.48,0.492,Beauty & Personal Care,0.581
+C0643,Coimbatore,3,547.79,0.685,Dairy Alternatives,0.822
+C0644,Pune,4,906.92,0.449,Eco-Friendly Home,0.404
+C0645,Coimbatore,2,1150.43,0.756,Eco-Friendly Home,0.788
+C0646,Kochi,4,988.34,0.654,Dairy Alternatives,0.825
+C0647,Mumbai,5,993.54,0.366,Beauty & Personal Care,0.813
+C0648,Chennai,5,1358.33,0.177,Eco-Friendly Home,0.313
+C0649,Chennai,5,150.0,0.084,Plant-Based Food,0.541
+C0650,Pune,6,374.69,0.586,Plant-Based Food,0.412
+C0651,Delhi,1,603.86,0.614,Plant-Based Food,0.742
+C0652,Mumbai,1,574.36,0.475,Eco-Friendly Home,0.494
+C0653,Coimbatore,4,823.86,0.489,Eco-Friendly Home,0.632
+C0654,Coimbatore,5,938.47,0.527,Eco-Friendly Home,0.679
+C0655,Kochi,1,878.52,0.598,Health & Wellness,0.417
+C0656,Coimbatore,6,321.73,0.623,Eco-Friendly Home,0.496
+C0657,Mumbai,5,657.74,0.63,Plant-Based Food,0.601
+C0658,Hyderabad,3,600.68,0.567,Dairy Alternatives,0.749
+C0659,Chennai,1,589.09,0.451,Beauty & Personal Care,0.55
+C0660,Hyderabad,2,824.45,0.427,Eco-Friendly Home,0.402
+C0661,Chennai,2,1091.54,0.566,Plant-Based Food,0.792
+C0662,Delhi,5,841.73,0.567,Plant-Based Food,0.599
+C0663,Delhi,5,1546.12,0.733,Dairy Alternatives,0.698
+C0664,Kochi,3,953.59,0.55,Plant-Based Food,0.76
+C0665,Hyderabad,5,548.78,0.369,Dairy Alternatives,0.66
+C0666,Hyderabad,3,600.39,0.205,Health & Wellness,0.764
+C0667,Delhi,2,736.24,0.355,Eco-Friendly Home,0.467
+C0668,Bengaluru,2,618.29,0.627,Dairy Alternatives,0.619
+C0669,Mumbai,5,1020.15,0.493,Dairy Alternatives,0.327
+C0670,Delhi,3,602.4,0.55,Plant-Based Food,0.47
+C0671,Mumbai,2,663.19,0.341,Eco-Friendly Home,0.594
+C0672,Hyderabad,2,994.37,0.439,Dairy Alternatives,0.55
+C0673,Chennai,1,863.59,0.403,Dairy Alternatives,0.312
+C0674,Bengaluru,6,899.13,0.53,Dairy Alternatives,0.848
+C0675,Mumbai,4,642.08,0.759,Plant-Based Food,0.659
+C0676,Bengaluru,3,933.28,0.404,Plant-Based Food,0.634
+C0677,Coimbatore,2,1093.68,0.542,Dairy Alternatives,0.707
+C0678,Hyderabad,4,369.73,0.482,Beauty & Personal Care,0.643
+C0679,Hyderabad,6,1474.36,0.375,Eco-Friendly Home,0.668
+C0680,Hyderabad,1,679.39,0.294,Beauty & Personal Care,0.463
+C0681,Bengaluru,4,429.46,0.699,Health & Wellness,0.564
+C0682,Coimbatore,2,915.59,0.615,Plant-Based Food,0.865
+C0683,Mumbai,2,975.68,0.665,Dairy Alternatives,0.733
+C0684,Hyderabad,5,450.71,0.558,Eco-Friendly Home,0.451
+C0685,Chennai,3,1220.37,0.559,Health & Wellness,0.748
+C0686,Chennai,2,1020.81,0.817,Eco-Friendly Home,0.378
+C0687,Chennai,3,532.23,0.29,Plant-Based Food,0.377
+C0688,Hyderabad,6,613.2,0.679,Dairy Alternatives,0.776
+C0689,Coimbatore,2,645.22,0.42,Plant-Based Food,0.429
+C0690,Chennai,6,868.85,0.552,Health & Wellness,0.81
+C0691,Hyderabad,3,469.9,0.655,Health & Wellness,0.642
+C0692,Delhi,5,1012.19,0.27,Beauty & Personal Care,0.87
+C0693,Coimbatore,2,1114.63,0.567,Plant-Based Food,0.753
+C0694,Bengaluru,7,1190.27,0.569,Eco-Friendly Home,0.863
+C0695,Hyderabad,3,790.1,0.381,Health & Wellness,0.213
+C0696,Delhi,1,997.34,0.428,Plant-Based Food,0.5
+C0697,Coimbatore,3,1045.23,0.641,Dairy Alternatives,0.491
+C0698,Mumbai,1,1064.37,0.224,Eco-Friendly Home,0.532
+C0699,Hyderabad,3,940.32,0.556,Dairy Alternatives,0.583
+C0700,Delhi,4,1033.8,0.29,Dairy Alternatives,0.851
+C0701,Hyderabad,4,971.23,0.522,Health & Wellness,0.587
+C0702,Kochi,6,633.96,0.693,Eco-Friendly Home,0.53
+C0703,Chennai,2,325.41,0.246,Eco-Friendly Home,0.566
+C0704,Chennai,1,701.77,0.436,Dairy Alternatives,0.696
+C0705,Hyderabad,2,1049.36,0.675,Plant-Based Food,0.381
+C0706,Chennai,4,386.95,0.382,Beauty & Personal Care,0.485
+C0707,Kochi,6,1146.09,0.226,Plant-Based Food,0.766
+C0708,Bengaluru,2,719.53,0.549,Eco-Friendly Home,0.507
+C0709,Pune,4,1100.31,0.566,Dairy Alternatives,0.647
+C0710,Chennai,3,790.47,0.505,Beauty & Personal Care,0.699
+C0711,Mumbai,4,1340.24,0.495,Plant-Based Food,0.666
+C0712,Pune,4,701.47,0.158,Plant-Based Food,0.291
+C0713,Kochi,1,918.67,0.481,Eco-Friendly Home,0.958
+C0714,Chennai,3,565.36,0.291,Health & Wellness,0.627
+C0715,Delhi,6,902.45,0.616,Dairy Alternatives,0.638
+C0716,Delhi,3,754.98,0.593,Beauty & Personal Care,0.547
+C0717,Coimbatore,4,1182.65,0.452,Dairy Alternatives,0.497
+C0718,Coimbatore,2,568.82,0.535,Plant-Based Food,0.962
+C0719,Kochi,7,886.97,0.492,Dairy Alternatives,0.258
+C0720,Kochi,2,962.84,0.758,Health & Wellness,0.8
+C0721,Kochi,6,1061.22,0.506,Plant-Based Food,0.49
+C0722,Bengaluru,1,1022.48,0.317,Health & Wellness,0.83
+C0723,Hyderabad,1,1099.06,0.268,Health & Wellness,0.365
+C0724,Mumbai,7,752.67,0.219,Dairy Alternatives,0.611
+C0725,Pune,2,500.54,0.388,Dairy Alternatives,0.82
+C0726,Mumbai,3,542.09,0.301,Eco-Friendly Home,0.811
+C0727,Kochi,3,702.28,0.511,Dairy Alternatives,0.669
+C0728,Pune,5,586.85,0.569,Plant-Based Food,0.643
+C0729,Kochi,5,1295.42,0.455,Beauty & Personal Care,0.671
+C0730,Pune,3,688.79,0.319,Plant-Based Food,0.885
+C0731,Delhi,2,283.03,0.599,Beauty & Personal Care,0.743
+C0732,Bengaluru,4,721.21,0.601,Eco-Friendly Home,0.692
+C0733,Coimbatore,3,1135.49,0.689,Dairy Alternatives,0.495
+C0734,Kochi,4,1036.55,0.57,Eco-Friendly Home,0.597
+C0735,Mumbai,3,709.17,0.546,Eco-Friendly Home,0.353
+C0736,Coimbatore,5,719.9,0.447,Beauty & Personal Care,0.767
+C0737,Chennai,1,977.89,0.311,Eco-Friendly Home,0.633
+C0738,Chennai,4,482.97,0.553,Plant-Based Food,0.401
+C0739,Delhi,4,1013.99,0.431,Health & Wellness,0.688
+C0740,Kochi,3,818.34,0.436,Dairy Alternatives,0.407
+C0741,Chennai,2,611.27,0.639,Health & Wellness,0.757
+C0742,Chennai,3,821.92,0.356,Plant-Based Food,0.56
+C0743,Chennai,1,903.61,0.668,Dairy Alternatives,0.752
+C0744,Bengaluru,5,166.1,0.506,Beauty & Personal Care,0.302
+C0745,Coimbatore,4,657.08,0.496,Dairy Alternatives,0.704
+C0746,Kochi,1,860.77,0.762,Dairy Alternatives,0.787
+C0747,Delhi,5,993.54,0.551,Beauty & Personal Care,0.566
+C0748,Kochi,3,939.85,0.673,Eco-Friendly Home,0.575
+C0749,Coimbatore,9,624.84,0.463,Plant-Based Food,0.582
+C0750,Hyderabad,2,1023.87,0.648,Dairy Alternatives,0.376
+C0751,Kochi,1,383.07,0.386,Dairy Alternatives,0.599
+C0752,Pune,3,861.26,0.501,Beauty & Personal Care,0.787
+C0753,Pune,2,481.86,0.197,Dairy Alternatives,0.302
+C0754,Bengaluru,3,707.41,0.191,Beauty & Personal Care,0.668
+C0755,Hyderabad,3,318.6,0.544,Eco-Friendly Home,0.747
+C0756,Kochi,5,849.35,0.767,Health & Wellness,0.769
+C0757,Hyderabad,3,822.42,0.767,Dairy Alternatives,0.61
+C0758,Hyderabad,4,232.26,0.427,Dairy Alternatives,0.767
+C0759,Chennai,3,333.49,0.406,Plant-Based Food,0.833
+C0760,Bengaluru,6,630.03,0.603,Health & Wellness,0.624
+C0761,Hyderabad,5,773.07,0.415,Eco-Friendly Home,0.268
+C0762,Bengaluru,4,743.96,0.404,Plant-Based Food,0.638
+C0763,Hyderabad,3,1059.83,0.836,Dairy Alternatives,0.913
+C0764,Chennai,4,1095.8,0.177,Dairy Alternatives,0.652
+C0765,Mumbai,4,355.11,0.453,Eco-Friendly Home,0.667
+C0766,Kochi,6,978.57,0.263,Health & Wellness,0.67
+C0767,Coimbatore,3,725.23,0.496,Eco-Friendly Home,0.438
+C0768,Coimbatore,1,904.29,0.427,Eco-Friendly Home,0.757
+C0769,Pune,4,1203.04,0.446,Health & Wellness,0.448
+C0770,Delhi,3,717.62,0.474,Health & Wellness,0.489
+C0771,Hyderabad,3,832.92,0.201,Plant-Based Food,0.706
+C0772,Mumbai,6,356.61,0.556,Eco-Friendly Home,0.705
+C0773,Kochi,3,1236.94,0.218,Dairy Alternatives,0.474
+C0774,Hyderabad,3,403.84,0.702,Dairy Alternatives,0.802
+C0775,Delhi,1,1125.08,0.547,Dairy Alternatives,0.792
+C0776,Kochi,3,961.19,0.515,Health & Wellness,0.476
+C0777,Hyderabad,2,1031.52,0.28,Eco-Friendly Home,0.596
+C0778,Mumbai,4,1303.42,0.386,Dairy Alternatives,0.897
+C0779,Bengaluru,1,597.83,0.252,Beauty & Personal Care,0.747
+C0780,Coimbatore,1,741.49,0.49,Beauty & Personal Care,0.646
+C0781,Coimbatore,4,354.69,0.459,Beauty & Personal Care,0.772
+C0782,Chennai,2,913.19,0.17,Health & Wellness,0.812
+C0783,Hyderabad,2,841.47,0.424,Health & Wellness,0.562
+C0784,Chennai,1,535.06,0.548,Plant-Based Food,0.7
+C0785,Pune,2,1084.79,0.241,Health & Wellness,0.552
+C0786,Bengaluru,6,381.11,0.704,Beauty & Personal Care,0.47
+C0787,Chennai,3,988.64,0.697,Health & Wellness,0.473
+C0788,Hyderabad,2,938.09,0.605,Eco-Friendly Home,0.791
+C0789,Pune,4,866.22,0.57,Plant-Based Food,0.475
+C0790,Mumbai,3,558.25,0.442,Dairy Alternatives,0.866
+C0791,Coimbatore,4,704.65,0.29,Beauty & Personal Care,0.4
+C0792,Coimbatore,3,293.84,0.403,Plant-Based Food,0.534
+C0793,Bengaluru,5,1045.12,0.69,Eco-Friendly Home,0.509
+C0794,Bengaluru,1,871.31,0.267,Eco-Friendly Home,0.521
+C0795,Hyderabad,3,781.99,0.779,Plant-Based Food,0.859
+C0796,Coimbatore,4,764.59,0.456,Plant-Based Food,0.627
+C0797,Kochi,3,363.63,0.6,Plant-Based Food,0.398
+C0798,Delhi,2,1084.85,0.282,Beauty & Personal Care,0.589
+C0799,Mumbai,3,305.53,0.702,Eco-Friendly Home,0.287
+C0800,Mumbai,6,1081.4,0.557,Dairy Alternatives,0.429
+C0801,Coimbatore,3,989.61,0.413,Beauty & Personal Care,0.894
+C0802,Bengaluru,7,1076.59,0.516,Dairy Alternatives,0.533
+C0803,Delhi,4,1215.56,0.452,Dairy Alternatives,0.698
+C0804,Hyderabad,3,877.84,0.731,Health & Wellness,0.729
+C0805,Pune,1,798.76,0.245,Beauty & Personal Care,0.624
+C0806,Pune,5,751.46,0.633,Eco-Friendly Home,0.655
+C0807,Mumbai,4,290.93,0.626,Dairy Alternatives,0.705
+C0808,Chennai,5,1027.87,0.737,Dairy Alternatives,0.901
+C0809,Coimbatore,3,753.57,0.371,Dairy Alternatives,0.756
+C0810,Kochi,1,879.9,0.638,Health & Wellness,0.676
+C0811,Coimbatore,4,440.13,0.426,Eco-Friendly Home,0.663
+C0812,Delhi,3,996.0,0.611,Dairy Alternatives,0.736
+C0813,Hyderabad,5,938.18,0.544,Beauty & Personal Care,0.746
+C0814,Kochi,1,277.22,0.693,Health & Wellness,0.765
+C0815,Mumbai,1,935.31,0.645,Dairy Alternatives,0.677
+C0816,Bengaluru,2,572.38,0.25,Eco-Friendly Home,0.738
+C0817,Pune,1,633.36,0.592,Dairy Alternatives,0.547
+C0818,Kochi,4,417.25,0.564,Dairy Alternatives,0.747
+C0819,Hyderabad,2,572.43,0.495,Beauty & Personal Care,0.54
+C0820,Coimbatore,6,458.61,0.513,Dairy Alternatives,0.493
+C0821,Hyderabad,2,504.86,0.436,Plant-Based Food,0.525
+C0822,Pune,6,403.1,0.718,Beauty & Personal Care,0.827
+C0823,Mumbai,7,1053.13,0.56,Dairy Alternatives,0.909
+C0824,Coimbatore,5,447.19,0.405,Health & Wellness,0.76
+C0825,Mumbai,6,919.34,0.548,Health & Wellness,0.732
+C0826,Mumbai,4,1266.21,0.573,Beauty & Personal Care,0.69
+C0827,Kochi,3,667.71,0.127,Plant-Based Food,0.675
+C0828,Coimbatore,2,476.68,0.579,Plant-Based Food,0.746
+C0829,Bengaluru,1,655.53,0.557,Beauty & Personal Care,0.649
+C0830,Pune,5,705.94,0.416,Dairy Alternatives,0.514
+C0831,Coimbatore,6,1025.17,0.334,Beauty & Personal Care,0.408
+C0832,Kochi,4,1009.58,0.717,Beauty & Personal Care,0.218
+C0833,Coimbatore,2,1169.16,0.419,Beauty & Personal Care,0.386
+C0834,Bengaluru,4,1033.57,0.458,Health & Wellness,0.727
+C0835,Delhi,3,559.59,0.312,Dairy Alternatives,0.236
+C0836,Hyderabad,3,1050.66,0.579,Plant-Based Food,0.795
+C0837,Mumbai,6,560.74,0.133,Eco-Friendly Home,0.788
+C0838,Pune,4,1227.07,0.665,Eco-Friendly Home,0.654
+C0839,Kochi,4,947.97,0.511,Dairy Alternatives,0.685
+C0840,Chennai,2,713.84,0.633,Eco-Friendly Home,0.794
+C0841,Delhi,3,691.21,0.405,Health & Wellness,0.521
+C0842,Kochi,1,829.53,0.464,Beauty & Personal Care,0.75
+C0843,Pune,4,604.55,0.556,Plant-Based Food,0.767
+C0844,Hyderabad,6,685.41,0.283,Plant-Based Food,0.726
+C0845,Chennai,8,823.35,0.385,Beauty & Personal Care,0.56
+C0846,Bengaluru,3,878.73,0.468,Plant-Based Food,0.854
+C0847,Mumbai,5,820.84,0.841,Dairy Alternatives,0.587
+C0848,Delhi,3,747.44,0.838,Dairy Alternatives,0.708
+C0849,Chennai,3,747.98,0.461,Health & Wellness,0.857
+C0850,Delhi,4,1096.93,0.618,Plant-Based Food,0.612
+C0851,Delhi,1,708.25,0.397,Plant-Based Food,0.778
+C0852,Chennai,3,1131.62,0.715,Beauty & Personal Care,0.417
+C0853,Mumbai,2,157.23,0.545,Eco-Friendly Home,0.669
+C0854,Bengaluru,3,228.31,0.29,Dairy Alternatives,0.434
+C0855,Bengaluru,3,752.91,0.454,Dairy Alternatives,0.859
+C0856,Delhi,3,711.94,0.433,Dairy Alternatives,0.746
+C0857,Kochi,3,1365.75,0.539,Dairy Alternatives,0.737
+C0858,Coimbatore,5,617.96,0.734,Beauty & Personal Care,0.408
+C0859,Delhi,7,1182.9,0.653,Dairy Alternatives,0.304
+C0860,Hyderabad,5,548.31,0.437,Health & Wellness,0.482
+C0861,Chennai,2,743.02,0.473,Dairy Alternatives,0.751
+C0862,Delhi,7,1114.88,0.417,Plant-Based Food,0.67
+C0863,Pune,2,565.04,0.55,Beauty & Personal Care,0.931
+C0864,Hyderabad,4,471.61,0.465,Eco-Friendly Home,0.696
+C0865,Coimbatore,1,1045.86,0.606,Eco-Friendly Home,0.393
+C0866,Chennai,2,469.58,0.744,Plant-Based Food,0.654
+C0867,Coimbatore,5,329.39,0.542,Beauty & Personal Care,0.372
+C0868,Hyderabad,2,1181.39,0.326,Eco-Friendly Home,0.629
+C0869,Hyderabad,3,576.03,0.709,Health & Wellness,0.89
+C0870,Chennai,1,1292.02,0.525,Plant-Based Food,0.758
+C0871,Mumbai,5,616.45,0.495,Health & Wellness,0.722
+C0872,Bengaluru,3,280.12,0.547,Dairy Alternatives,0.418
+C0873,Kochi,2,1282.79,0.301,Plant-Based Food,0.683
+C0874,Chennai,2,1245.07,0.429,Plant-Based Food,0.752
+C0875,Chennai,5,892.91,0.619,Eco-Friendly Home,0.544
+C0876,Chennai,8,827.67,0.208,Health & Wellness,0.299
+C0877,Hyderabad,2,651.8,0.35,Dairy Alternatives,0.732
+C0878,Kochi,1,706.39,0.577,Plant-Based Food,0.782
+C0879,Delhi,3,364.68,0.378,Health & Wellness,0.972
+C0880,Pune,5,1235.05,0.688,Beauty & Personal Care,0.724
+C0881,Mumbai,3,1184.6,0.33,Eco-Friendly Home,0.782
+C0882,Coimbatore,4,150.0,0.596,Eco-Friendly Home,0.855
+C0883,Hyderabad,3,950.51,0.43,Beauty & Personal Care,0.953
+C0884,Mumbai,4,1019.62,0.139,Beauty & Personal Care,0.66
+C0885,Chennai,1,703.93,0.319,Beauty & Personal Care,0.843
+C0886,Hyderabad,3,619.5,0.808,Health & Wellness,0.406
+C0887,Delhi,2,391.63,0.812,Eco-Friendly Home,0.535
+C0888,Kochi,6,575.1,0.664,Health & Wellness,0.827
+C0889,Kochi,3,1183.81,0.781,Eco-Friendly Home,0.438
+C0890,Hyderabad,4,743.03,0.47,Eco-Friendly Home,0.785
+C0891,Bengaluru,3,293.84,0.468,Health & Wellness,0.661
+C0892,Bengaluru,5,622.0,0.413,Beauty & Personal Care,0.574
+C0893,Chennai,3,733.96,0.513,Dairy Alternatives,0.627
+C0894,Chennai,1,730.45,0.612,Dairy Alternatives,0.827
+C0895,Pune,3,685.84,0.43,Health & Wellness,0.543
+C0896,Chennai,1,854.55,0.814,Health & Wellness,0.625
+C0897,Delhi,4,1171.92,0.326,Beauty & Personal Care,0.804
+C0898,Coimbatore,5,1091.47,0.295,Health & Wellness,0.462
+C0899,Hyderabad,1,631.31,0.522,Plant-Based Food,0.486
+C0900,Chennai,5,563.97,0.443,Plant-Based Food,0.552
+C0901,Pune,2,267.25,0.373,Health & Wellness,0.755
+C0902,Coimbatore,6,414.61,0.323,Beauty & Personal Care,0.785
+C0903,Bengaluru,4,449.07,0.296,Eco-Friendly Home,0.798
+C0904,Mumbai,1,639.42,0.255,Dairy Alternatives,0.506
+C0905,Coimbatore,3,885.41,0.594,Plant-Based Food,0.77
+C0906,Delhi,2,759.49,0.38,Health & Wellness,0.56
+C0907,Hyderabad,10,1105.44,0.441,Beauty & Personal Care,0.909
+C0908,Bengaluru,7,632.48,0.624,Plant-Based Food,0.652
+C0909,Pune,7,727.93,0.641,Dairy Alternatives,0.462
+C0910,Delhi,2,932.21,0.426,Plant-Based Food,0.619
+C0911,Coimbatore,3,798.41,0.358,Plant-Based Food,0.616
+C0912,Coimbatore,8,763.46,0.49,Plant-Based Food,0.677
+C0913,Chennai,2,996.25,0.506,Plant-Based Food,0.631
+C0914,Coimbatore,3,671.8,0.575,Health & Wellness,0.587
+C0915,Pune,4,572.52,0.603,Health & Wellness,0.676
+C0916,Mumbai,2,709.02,0.502,Beauty & Personal Care,0.758
+C0917,Kochi,2,803.59,0.263,Health & Wellness,0.839
+C0918,Hyderabad,4,710.6,0.574,Plant-Based Food,0.898
+C0919,Bengaluru,1,722.57,0.306,Plant-Based Food,0.449
+C0920,Chennai,3,880.75,0.681,Health & Wellness,0.731
+C0921,Hyderabad,1,1269.77,0.682,Plant-Based Food,0.626
+C0922,Coimbatore,8,781.02,0.757,Health & Wellness,0.734
+C0923,Kochi,2,873.49,0.423,Plant-Based Food,0.703
+C0924,Pune,4,793.27,0.213,Beauty & Personal Care,0.73
+C0925,Mumbai,1,1068.71,0.283,Eco-Friendly Home,0.546
+C0926,Pune,4,525.29,0.863,Health & Wellness,0.753
+C0927,Bengaluru,6,802.72,0.402,Health & Wellness,0.71
+C0928,Chennai,5,701.59,0.43,Plant-Based Food,0.786
+C0929,Delhi,3,658.33,0.327,Plant-Based Food,0.716
+C0930,Kochi,6,346.19,0.409,Health & Wellness,0.693
+C0931,Chennai,5,730.98,0.667,Beauty & Personal Care,0.818
+C0932,Chennai,1,823.57,0.682,Beauty & Personal Care,0.85
+C0933,Hyderabad,4,974.06,0.705,Dairy Alternatives,0.852
+C0934,Bengaluru,2,730.88,0.35,Eco-Friendly Home,0.747
+C0935,Delhi,6,765.24,0.66,Dairy Alternatives,0.468
+C0936,Kochi,4,1096.36,0.761,Health & Wellness,0.755
+C0937,Kochi,4,828.68,0.446,Dairy Alternatives,0.58
+C0938,Coimbatore,1,817.43,0.475,Beauty & Personal Care,0.491
+C0939,Coimbatore,6,997.27,0.409,Beauty & Personal Care,0.738
+C0940,Chennai,1,241.52,0.407,Dairy Alternatives,0.567
+C0941,Chennai,3,1012.15,0.589,Beauty & Personal Care,0.513
+C0942,Delhi,4,256.01,0.477,Health & Wellness,0.645
+C0943,Mumbai,2,1080.53,0.424,Dairy Alternatives,0.568
+C0944,Chennai,2,632.13,0.411,Eco-Friendly Home,0.66
+C0945,Delhi,6,692.94,0.783,Eco-Friendly Home,0.47
+C0946,Pune,3,1218.64,0.39,Beauty & Personal Care,0.443
+C0947,Delhi,3,777.76,0.572,Health & Wellness,0.322
+C0948,Bengaluru,5,499.3,0.478,Beauty & Personal Care,0.485
+C0949,Mumbai,3,459.61,0.501,Health & Wellness,0.957
+C0950,Kochi,4,789.96,0.27,Dairy Alternatives,0.722
+C0951,Bengaluru,4,682.13,0.795,Eco-Friendly Home,0.268
+C0952,Coimbatore,8,812.75,0.776,Plant-Based Food,0.794
+C0953,Kochi,5,1479.49,0.635,Eco-Friendly Home,0.69
+C0954,Pune,2,216.76,0.522,Dairy Alternatives,0.852
+C0955,Hyderabad,2,348.98,0.386,Plant-Based Food,0.813
+C0956,Delhi,8,295.54,0.434,Eco-Friendly Home,0.656
+C0957,Hyderabad,4,783.49,0.481,Beauty & Personal Care,0.391
+C0958,Hyderabad,2,680.37,0.14,Dairy Alternatives,0.565
+C0959,Pune,2,719.03,0.557,Eco-Friendly Home,0.684
+C0960,Pune,3,821.18,0.7,Dairy Alternatives,0.636
+C0961,Kochi,1,988.49,0.501,Health & Wellness,0.666
+C0962,Chennai,3,611.02,0.34,Dairy Alternatives,0.261
+C0963,Hyderabad,3,171.56,0.726,Plant-Based Food,0.662
+C0964,Delhi,1,201.42,0.453,Eco-Friendly Home,0.562
+C0965,Chennai,3,808.59,0.536,Eco-Friendly Home,0.685
+C0966,Bengaluru,3,921.09,0.665,Eco-Friendly Home,0.633
+C0967,Coimbatore,8,578.9,0.436,Beauty & Personal Care,0.681
+C0968,Chennai,1,1074.86,0.56,Beauty & Personal Care,0.79
+C0969,Hyderabad,3,464.88,0.435,Eco-Friendly Home,0.565
+C0970,Hyderabad,1,931.2,0.53,Health & Wellness,0.82
+C0971,Hyderabad,2,749.29,0.382,Eco-Friendly Home,0.819
+C0972,Pune,2,728.09,0.298,Eco-Friendly Home,0.918
+C0973,Pune,5,652.7,0.424,Dairy Alternatives,0.608
+C0974,Hyderabad,6,480.39,0.618,Beauty & Personal Care,0.819
+C0975,Pune,4,439.68,0.541,Dairy Alternatives,0.892
+C0976,Kochi,5,1264.41,0.316,Beauty & Personal Care,0.456
+C0977,Chennai,4,925.98,0.521,Plant-Based Food,0.231
+C0978,Coimbatore,1,789.33,0.447,Eco-Friendly Home,0.502
+C0979,Coimbatore,4,719.43,0.59,Beauty & Personal Care,0.474
+C0980,Mumbai,3,1057.31,0.207,Health & Wellness,0.469
+C0981,Kochi,3,1214.41,0.602,Plant-Based Food,0.366
+C0982,Chennai,2,150.0,0.511,Health & Wellness,0.426
+C0983,Coimbatore,2,557.96,0.358,Eco-Friendly Home,0.789
+C0984,Hyderabad,7,458.09,0.626,Beauty & Personal Care,0.458
+C0985,Bengaluru,2,1081.97,0.627,Beauty & Personal Care,0.66
+C0986,Hyderabad,4,663.69,0.543,Health & Wellness,0.648
+C0987,Mumbai,2,1380.99,0.443,Plant-Based Food,0.73
+C0988,Pune,3,1442.17,0.539,Dairy Alternatives,0.799
+C0989,Kochi,5,480.03,0.504,Plant-Based Food,0.563
+C0990,Hyderabad,6,560.53,0.266,Dairy Alternatives,0.891
+C0991,Kochi,3,398.37,0.516,Beauty & Personal Care,0.502
+C0992,Chennai,3,635.66,0.74,Dairy Alternatives,0.684
+C0993,Kochi,7,372.15,0.436,Plant-Based Food,0.624
+C0994,Pune,1,1347.11,0.433,Plant-Based Food,0.524
+C0995,Delhi,2,887.65,0.303,Plant-Based Food,0.812
+C0996,Mumbai,4,832.42,0.519,Dairy Alternatives,0.451
+C0997,Delhi,3,761.51,0.361,Health & Wellness,0.577
+C0998,Mumbai,7,361.88,0.774,Beauty & Personal Care,0.626
+C0999,Chennai,3,854.24,0.487,Health & Wellness,0.523
+C1000,Pune,2,595.79,0.288,Beauty & Personal Care,0.537
+C1001,Mumbai,3,1003.55,0.773,Eco-Friendly Home,0.595
+C1002,Coimbatore,3,1466.74,0.15,Plant-Based Food,0.946
+C1003,Bengaluru,5,546.79,0.521,Dairy Alternatives,0.716
+C1004,Hyderabad,2,1279.31,0.418,Beauty & Personal Care,0.411
+C1005,Kochi,4,787.61,0.634,Health & Wellness,0.795
+C1006,Coimbatore,4,403.12,0.115,Dairy Alternatives,0.751
+C1007,Mumbai,9,1155.06,0.695,Dairy Alternatives,0.403
+C1008,Coimbatore,4,667.07,0.541,Beauty & Personal Care,0.511
+C1009,Pune,4,1193.69,0.496,Eco-Friendly Home,0.763
+C1010,Delhi,5,715.81,0.351,Plant-Based Food,0.633
+C1011,Kochi,1,476.93,0.55,Plant-Based Food,0.43
+C1012,Bengaluru,3,1143.0,0.307,Eco-Friendly Home,0.717
+C1013,Delhi,1,958.58,0.683,Beauty & Personal Care,0.454
+C1014,Bengaluru,3,1122.58,0.56,Eco-Friendly Home,0.837
+C1015,Kochi,3,338.59,0.271,Plant-Based Food,0.55
+C1016,Kochi,4,913.3,0.795,Beauty & Personal Care,0.566
+C1017,Delhi,2,801.51,0.515,Beauty & Personal Care,0.617
+C1018,Delhi,5,309.86,0.631,Eco-Friendly Home,0.411
+C1019,Mumbai,3,390.6,0.551,Eco-Friendly Home,0.628
+C1020,Delhi,3,926.91,0.185,Eco-Friendly Home,0.678
+C1021,Mumbai,3,560.71,0.634,Dairy Alternatives,0.748
+C1022,Chennai,2,833.97,0.323,Plant-Based Food,0.475
+C1023,Coimbatore,6,417.35,0.649,Eco-Friendly Home,0.876
+C1024,Pune,4,448.43,0.699,Plant-Based Food,0.792
+C1025,Chennai,2,462.75,0.168,Plant-Based Food,0.268
+C1026,Delhi,1,497.75,0.603,Eco-Friendly Home,0.665
+C1027,Mumbai,4,604.08,0.709,Beauty & Personal Care,0.567
+C1028,Hyderabad,1,583.44,0.457,Dairy Alternatives,0.781
+C1029,Mumbai,2,896.58,0.264,Plant-Based Food,0.843
+C1030,Coimbatore,1,1307.83,0.428,Health & Wellness,0.781
+C1031,Kochi,4,843.3,0.58,Plant-Based Food,0.365
+C1032,Hyderabad,4,701.93,0.481,Plant-Based Food,0.548
+C1033,Delhi,1,549.21,0.608,Health & Wellness,0.662
+C1034,Bengaluru,2,529.79,0.742,Eco-Friendly Home,0.69
+C1035,Bengaluru,2,569.33,0.633,Health & Wellness,0.715
+C1036,Kochi,1,509.57,0.603,Beauty & Personal Care,0.789
+C1037,Hyderabad,7,892.19,0.575,Health & Wellness,0.329
+C1038,Coimbatore,2,900.24,0.334,Dairy Alternatives,0.558
+C1039,Kochi,4,639.8,0.489,Health & Wellness,0.532
+C1040,Bengaluru,2,394.6,0.497,Eco-Friendly Home,0.782
+C1041,Coimbatore,3,971.17,0.257,Health & Wellness,0.762
+C1042,Hyderabad,2,938.62,0.222,Plant-Based Food,0.732
+C1043,Bengaluru,1,847.39,0.598,Health & Wellness,0.631
+C1044,Bengaluru,1,1054.3,0.511,Dairy Alternatives,0.315
+C1045,Mumbai,1,697.09,0.279,Eco-Friendly Home,0.517
+C1046,Mumbai,2,281.8,0.42,Beauty & Personal Care,0.598
+C1047,Delhi,6,412.95,0.484,Beauty & Personal Care,0.63
+C1048,Kochi,3,953.98,0.458,Health & Wellness,0.708
+C1049,Coimbatore,6,615.85,0.088,Beauty & Personal Care,0.8
+C1050,Hyderabad,10,671.43,0.546,Dairy Alternatives,0.859
+C1051,Pune,5,870.91,0.407,Dairy Alternatives,0.703
+C1052,Mumbai,5,254.68,0.113,Health & Wellness,0.477
+C1053,Mumbai,7,1130.05,0.637,Beauty & Personal Care,0.532
+C1054,Delhi,4,589.12,0.582,Health & Wellness,0.869
+C1055,Mumbai,3,1311.98,0.229,Beauty & Personal Care,0.654
+C1056,Coimbatore,4,579.3,0.747,Health & Wellness,0.696
+C1057,Bengaluru,2,749.88,0.433,Plant-Based Food,0.669
+C1058,Kochi,5,596.55,0.428,Health & Wellness,0.709
+C1059,Chennai,1,677.55,0.927,Eco-Friendly Home,0.778
+C1060,Hyderabad,3,865.72,0.38,Dairy Alternatives,0.746
+C1061,Hyderabad,4,1088.06,0.325,Beauty & Personal Care,0.764
+C1062,Bengaluru,5,926.43,0.493,Eco-Friendly Home,0.888
+C1063,Chennai,5,519.39,0.598,Eco-Friendly Home,0.717
+C1064,Kochi,4,732.53,0.467,Health & Wellness,0.817
+C1065,Bengaluru,6,775.16,0.382,Eco-Friendly Home,0.48
+C1066,Pune,1,227.14,0.583,Health & Wellness,0.583
+C1067,Delhi,4,1114.41,0.712,Health & Wellness,0.586
+C1068,Delhi,2,747.57,0.5,Health & Wellness,0.848
+C1069,Hyderabad,7,967.49,0.34,Dairy Alternatives,0.412
+C1070,Hyderabad,1,235.87,0.105,Beauty & Personal Care,0.651
+C1071,Delhi,7,150.0,0.58,Beauty & Personal Care,0.807
+C1072,Mumbai,1,774.98,0.682,Beauty & Personal Care,0.799
+C1073,Chennai,6,582.04,0.49,Beauty & Personal Care,0.56
+C1074,Pune,4,590.42,0.607,Beauty & Personal Care,0.707
+C1075,Kochi,1,1240.6,0.544,Plant-Based Food,0.575
+C1076,Kochi,5,329.24,0.757,Plant-Based Food,0.311
+C1077,Kochi,4,731.03,0.31,Plant-Based Food,0.766
+C1078,Kochi,7,465.13,0.33,Beauty & Personal Care,0.422
+C1079,Hyderabad,4,979.51,0.745,Eco-Friendly Home,0.418
+C1080,Kochi,2,382.56,0.85,Eco-Friendly Home,0.676
+C1081,Pune,5,928.66,0.334,Eco-Friendly Home,0.625
+C1082,Coimbatore,7,1054.82,0.627,Dairy Alternatives,0.623
+C1083,Chennai,2,1203.19,0.557,Eco-Friendly Home,0.409
+C1084,Delhi,8,943.22,0.534,Beauty & Personal Care,0.822
+C1085,Bengaluru,6,768.56,0.775,Plant-Based Food,0.594
+C1086,Mumbai,5,684.03,0.776,Plant-Based Food,0.617
+C1087,Coimbatore,6,495.53,0.862,Beauty & Personal Care,0.687
+C1088,Bengaluru,6,957.15,0.377,Eco-Friendly Home,0.312
+C1089,Delhi,5,489.09,0.36,Health & Wellness,0.798
+C1090,Bengaluru,6,1020.59,0.415,Beauty & Personal Care,0.885
+C1091,Coimbatore,1,785.8,0.584,Health & Wellness,0.786
+C1092,Kochi,5,1267.67,0.497,Health & Wellness,0.825
+C1093,Chennai,4,707.22,0.328,Plant-Based Food,0.56
+C1094,Pune,2,791.01,0.456,Beauty & Personal Care,0.572
+C1095,Chennai,1,941.17,0.441,Dairy Alternatives,0.423
+C1096,Chennai,5,580.11,0.385,Beauty & Personal Care,0.492
+C1097,Kochi,5,641.56,0.393,Health & Wellness,0.65
+C1098,Pune,4,745.8,0.486,Health & Wellness,0.833
+C1099,Chennai,3,150.0,0.409,Health & Wellness,0.786
+C1100,Pune,5,1080.29,0.253,Plant-Based Food,0.556
+C1101,Chennai,3,814.04,0.37,Beauty & Personal Care,0.474
+C1102,Coimbatore,1,170.03,0.354,Beauty & Personal Care,0.619
+C1103,Delhi,2,788.14,0.623,Health & Wellness,0.558
+C1104,Kochi,6,872.33,0.446,Eco-Friendly Home,0.63
+C1105,Coimbatore,4,995.15,0.522,Health & Wellness,0.381
+C1106,Hyderabad,4,890.87,0.506,Plant-Based Food,0.83
+C1107,Coimbatore,3,947.99,0.424,Beauty & Personal Care,0.655
+C1108,Bengaluru,2,1302.41,0.299,Health & Wellness,0.609
+C1109,Kochi,5,651.18,0.871,Beauty & Personal Care,0.767
+C1110,Bengaluru,4,719.91,0.279,Beauty & Personal Care,0.484
+C1111,Mumbai,3,627.72,0.53,Eco-Friendly Home,0.58
+C1112,Kochi,2,860.44,0.418,Beauty & Personal Care,0.908
+C1113,Delhi,3,818.48,0.549,Health & Wellness,0.498
+C1114,Hyderabad,3,773.99,0.47,Dairy Alternatives,0.681
+C1115,Kochi,3,928.02,0.558,Eco-Friendly Home,0.265
+C1116,Chennai,2,738.32,0.161,Eco-Friendly Home,0.575
+C1117,Pune,3,871.05,0.789,Dairy Alternatives,0.646
+C1118,Mumbai,2,739.86,0.669,Dairy Alternatives,0.412
+C1119,Bengaluru,2,796.8,0.339,Eco-Friendly Home,0.448
+C1120,Delhi,2,1300.41,0.568,Plant-Based Food,0.746
+C1121,Hyderabad,2,1040.56,0.258,Beauty & Personal Care,0.793
+C1122,Delhi,8,1007.84,0.449,Beauty & Personal Care,0.514
+C1123,Kochi,7,821.69,0.747,Health & Wellness,0.348
+C1124,Pune,6,703.7,0.45,Plant-Based Food,0.416
+C1125,Bengaluru,3,655.63,0.551,Plant-Based Food,0.872
+C1126,Pune,2,631.24,0.258,Plant-Based Food,0.665
+C1127,Pune,3,771.14,0.379,Dairy Alternatives,0.894
+C1128,Mumbai,9,410.6,0.509,Beauty & Personal Care,0.799
+C1129,Pune,2,271.0,0.5,Plant-Based Food,0.718
+C1130,Coimbatore,1,519.77,0.667,Plant-Based Food,0.821
+C1131,Mumbai,3,450.12,0.234,Beauty & Personal Care,0.774
+C1132,Pune,2,995.41,0.721,Dairy Alternatives,0.754
+C1133,Bengaluru,6,307.57,0.312,Eco-Friendly Home,0.428
+C1134,Mumbai,2,203.12,0.342,Eco-Friendly Home,0.588
+C1135,Mumbai,5,320.68,0.153,Dairy Alternatives,0.725
+C1136,Kochi,3,638.58,0.457,Eco-Friendly Home,0.768
+C1137,Pune,3,664.0,0.352,Beauty & Personal Care,0.589
+C1138,Pune,3,1029.74,0.563,Dairy Alternatives,0.739
+C1139,Mumbai,3,856.11,0.473,Plant-Based Food,0.628
+C1140,Kochi,2,917.85,0.414,Health & Wellness,0.724
+C1141,Kochi,6,931.9,0.31,Eco-Friendly Home,0.675
+C1142,Hyderabad,4,913.3,0.281,Health & Wellness,0.255
+C1143,Pune,2,901.56,0.365,Dairy Alternatives,0.825
+C1144,Chennai,3,815.67,0.57,Plant-Based Food,0.382
+C1145,Hyderabad,6,946.26,0.57,Dairy Alternatives,0.602
+C1146,Hyderabad,1,271.71,0.436,Eco-Friendly Home,0.847
+C1147,Kochi,8,511.02,0.437,Eco-Friendly Home,0.853
+C1148,Bengaluru,8,865.9,0.788,Dairy Alternatives,0.823
+C1149,Bengaluru,4,710.92,0.637,Plant-Based Food,0.625
+C1150,Chennai,3,777.04,0.617,Beauty & Personal Care,0.555
+C1151,Kochi,3,875.29,0.567,Plant-Based Food,0.788
+C1152,Coimbatore,2,435.72,0.394,Beauty & Personal Care,0.395
+C1153,Pune,4,505.92,0.74,Plant-Based Food,0.317
+C1154,Pune,5,395.46,0.391,Eco-Friendly Home,0.58
+C1155,Kochi,4,937.88,0.176,Beauty & Personal Care,0.776
+C1156,Hyderabad,5,789.24,0.709,Eco-Friendly Home,0.53
+C1157,Kochi,3,648.29,0.345,Dairy Alternatives,0.408
+C1158,Kochi,3,668.55,0.438,Beauty & Personal Care,0.817
+C1159,Coimbatore,4,667.5,0.588,Plant-Based Food,0.44
+C1160,Hyderabad,2,813.24,0.389,Beauty & Personal Care,0.662
+C1161,Chennai,1,828.14,0.409,Health & Wellness,0.616
+C1162,Mumbai,2,150.0,0.866,Dairy Alternatives,0.469
+C1163,Mumbai,3,848.79,0.473,Beauty & Personal Care,0.705
+C1164,Coimbatore,4,471.65,0.416,Beauty & Personal Care,0.854
+C1165,Pune,3,709.27,0.113,Eco-Friendly Home,0.698
+C1166,Pune,3,792.94,0.168,Health & Wellness,0.805
+C1167,Coimbatore,4,174.0,0.45,Health & Wellness,0.542
+C1168,Mumbai,5,610.79,0.565,Dairy Alternatives,0.481
+C1169,Bengaluru,5,499.53,0.787,Health & Wellness,0.925
+C1170,Hyderabad,2,603.71,0.801,Beauty & Personal Care,0.754
+C1171,Bengaluru,4,473.68,0.581,Health & Wellness,0.766
+C1172,Coimbatore,4,808.85,0.494,Dairy Alternatives,0.496
+C1173,Bengaluru,5,736.74,0.357,Plant-Based Food,0.81
+C1174,Chennai,2,868.84,0.424,Health & Wellness,0.251
+C1175,Chennai,5,1383.45,0.777,Beauty & Personal Care,0.609
+C1176,Mumbai,4,517.14,0.26,Beauty & Personal Care,0.7
+C1177,Hyderabad,4,846.59,0.446,Beauty & Personal Care,0.684
+C1178,Mumbai,5,855.77,0.508,Beauty & Personal Care,0.651
+C1179,Mumbai,4,682.39,0.752,Beauty & Personal Care,0.813
+C1180,Bengaluru,3,930.78,0.446,Health & Wellness,0.574
+C1181,Bengaluru,2,697.59,0.34,Eco-Friendly Home,0.626
+C1182,Coimbatore,1,1022.21,0.43,Dairy Alternatives,0.55
+C1183,Chennai,5,591.45,0.333,Beauty & Personal Care,0.392
+C1184,Mumbai,4,583.52,0.634,Plant-Based Food,0.432
+C1185,Chennai,1,394.75,0.324,Plant-Based Food,0.784
+C1186,Chennai,1,816.33,0.25,Beauty & Personal Care,0.643
+C1187,Mumbai,1,829.03,0.631,Health & Wellness,0.755
+C1188,Hyderabad,3,727.71,0.819,Plant-Based Food,0.767
+C1189,Kochi,2,528.34,0.361,Beauty & Personal Care,0.708
+C1190,Coimbatore,2,1113.19,0.635,Beauty & Personal Care,0.647
+C1191,Coimbatore,5,1434.88,0.233,Health & Wellness,0.641
+C1192,Pune,3,794.73,0.546,Beauty & Personal Care,0.315
+C1193,Coimbatore,1,728.15,0.682,Health & Wellness,0.494
+C1194,Bengaluru,4,786.3,0.168,Health & Wellness,0.595
+C1195,Hyderabad,5,878.53,0.256,Eco-Friendly Home,0.381
+C1196,Mumbai,2,1013.09,0.533,Beauty & Personal Care,0.614
+C1197,Coimbatore,1,404.3,0.52,Eco-Friendly Home,0.654
+C1198,Mumbai,8,646.77,0.306,Beauty & Personal Care,0.67
+C1199,Kochi,5,895.18,0.514,Health & Wellness,0.586
+C1200,Kochi,3,883.95,0.603,Plant-Based Food,0.629
+C1201,Coimbatore,3,410.31,0.443,Plant-Based Food,0.794
+C1202,Delhi,4,1020.98,0.41,Plant-Based Food,0.474
+C1203,Kochi,8,996.79,0.68,Dairy Alternatives,0.643
+C1204,Hyderabad,4,734.92,0.616,Beauty & Personal Care,0.704
+C1205,Delhi,5,519.74,0.362,Health & Wellness,0.606
+C1206,Kochi,2,763.8,0.288,Eco-Friendly Home,0.569
+C1207,Pune,2,814.64,0.407,Dairy Alternatives,0.58
+C1208,Hyderabad,3,1044.01,0.673,Eco-Friendly Home,0.505
+C1209,Bengaluru,4,150.0,0.332,Beauty & Personal Care,0.395
+C1210,Pune,1,601.69,0.721,Health & Wellness,0.652
+C1211,Coimbatore,3,1092.67,0.216,Eco-Friendly Home,0.577
+C1212,Kochi,4,879.68,0.433,Eco-Friendly Home,0.717
+C1213,Pune,2,707.29,0.346,Dairy Alternatives,0.693
+C1214,Mumbai,5,1084.25,0.641,Beauty & Personal Care,0.705
+C1215,Delhi,4,620.88,0.323,Beauty & Personal Care,0.274
+C1216,Mumbai,1,398.11,0.3,Health & Wellness,0.47
+C1217,Delhi,3,1102.17,0.537,Beauty & Personal Care,0.444
+C1218,Pune,3,815.97,0.686,Health & Wellness,0.669
+C1219,Bengaluru,4,659.2,0.46,Health & Wellness,0.811
+C1220,Pune,4,801.47,0.744,Dairy Alternatives,0.81
+C1221,Bengaluru,7,904.46,0.415,Plant-Based Food,0.604
+C1222,Coimbatore,1,566.89,0.649,Dairy Alternatives,0.695
+C1223,Delhi,2,1298.33,0.422,Dairy Alternatives,0.577
+C1224,Delhi,1,593.34,0.802,Plant-Based Food,0.664
+C1225,Pune,5,612.77,0.608,Health & Wellness,0.794
+C1226,Mumbai,4,788.7,0.405,Eco-Friendly Home,0.486
+C1227,Kochi,4,610.16,0.416,Plant-Based Food,0.779
+C1228,Hyderabad,5,788.8,0.67,Eco-Friendly Home,0.328
+C1229,Kochi,2,631.6,0.4,Dairy Alternatives,0.45
+C1230,Mumbai,4,766.13,0.613,Plant-Based Food,0.778
+C1231,Hyderabad,3,1020.28,0.44,Health & Wellness,0.808
+C1232,Kochi,2,640.8,0.347,Beauty & Personal Care,0.962
+C1233,Hyderabad,2,866.08,0.555,Plant-Based Food,0.842
+C1234,Bengaluru,2,575.57,0.18,Health & Wellness,0.734
+C1235,Bengaluru,2,600.48,0.744,Plant-Based Food,0.862
+C1236,Pune,4,951.93,0.665,Health & Wellness,0.812
+C1237,Coimbatore,6,739.07,0.815,Health & Wellness,0.59
+C1238,Hyderabad,7,756.64,0.491,Eco-Friendly Home,0.512
+C1239,Kochi,2,683.48,0.731,Health & Wellness,0.842
+C1240,Delhi,4,505.46,0.497,Eco-Friendly Home,0.719
+C1241,Hyderabad,3,843.22,0.322,Plant-Based Food,0.612
+C1242,Pune,3,447.06,0.35,Eco-Friendly Home,0.827
+C1243,Coimbatore,6,524.35,0.442,Eco-Friendly Home,0.602
+C1244,Mumbai,2,1031.15,0.083,Eco-Friendly Home,0.478
+C1245,Mumbai,5,150.0,0.231,Plant-Based Food,0.51
+C1246,Delhi,1,874.27,0.716,Plant-Based Food,0.577
+C1247,Hyderabad,3,662.64,0.349,Eco-Friendly Home,0.521
+C1248,Chennai,6,611.76,0.546,Dairy Alternatives,0.808
+C1249,Kochi,4,691.98,0.485,Beauty & Personal Care,0.674
+C1250,Chennai,2,637.05,0.404,Dairy Alternatives,0.613
+C1251,Mumbai,4,1139.08,0.401,Eco-Friendly Home,0.562
+C1252,Hyderabad,4,332.44,0.857,Plant-Based Food,0.772
+C1253,Coimbatore,3,411.06,0.335,Health & Wellness,0.697
+C1254,Chennai,3,1054.72,0.382,Plant-Based Food,0.255
+C1255,Hyderabad,4,1032.31,0.654,Beauty & Personal Care,0.694
+C1256,Kochi,7,1056.01,0.456,Eco-Friendly Home,0.31
+C1257,Mumbai,3,583.62,0.466,Eco-Friendly Home,0.589
+C1258,Chennai,6,414.35,0.351,Eco-Friendly Home,0.837
+C1259,Coimbatore,1,757.46,0.381,Dairy Alternatives,0.717
+C1260,Mumbai,4,785.28,0.42,Plant-Based Food,0.793
+C1261,Bengaluru,6,628.49,0.802,Eco-Friendly Home,0.427
+C1262,Chennai,7,304.34,0.281,Health & Wellness,0.435
+C1263,Bengaluru,4,808.1,0.157,Health & Wellness,0.634
+C1264,Hyderabad,1,239.1,0.784,Health & Wellness,0.76
+C1265,Chennai,2,828.84,0.482,Beauty & Personal Care,0.644
+C1266,Delhi,3,392.11,0.461,Health & Wellness,0.673
+C1267,Kochi,6,676.94,0.248,Eco-Friendly Home,0.593
+C1268,Coimbatore,4,750.76,0.354,Beauty & Personal Care,0.72
+C1269,Mumbai,6,798.36,0.303,Plant-Based Food,0.74
+C1270,Mumbai,3,430.44,0.503,Health & Wellness,0.771
+C1271,Hyderabad,4,738.18,0.272,Plant-Based Food,0.528
+C1272,Bengaluru,1,864.76,0.408,Eco-Friendly Home,0.845
+C1273,Pune,1,930.44,0.477,Health & Wellness,0.745
+C1274,Delhi,4,1124.53,0.616,Health & Wellness,0.658
+C1275,Mumbai,3,527.9,0.603,Health & Wellness,0.791
+C1276,Bengaluru,2,809.93,0.609,Beauty & Personal Care,0.546
+C1277,Coimbatore,2,270.51,0.434,Health & Wellness,0.472
+C1278,Kochi,6,661.42,0.559,Dairy Alternatives,0.596
+C1279,Kochi,6,620.71,0.353,Eco-Friendly Home,0.574
+C1280,Hyderabad,5,729.66,0.499,Dairy Alternatives,0.845
+C1281,Hyderabad,2,845.18,0.459,Beauty & Personal Care,0.711
+C1282,Bengaluru,3,855.99,0.513,Health & Wellness,0.493
+C1283,Coimbatore,3,150.0,0.741,Dairy Alternatives,0.411
+C1284,Bengaluru,4,300.8,0.469,Dairy Alternatives,0.804
+C1285,Bengaluru,6,763.12,0.246,Beauty & Personal Care,0.736
+C1286,Coimbatore,5,877.88,0.288,Beauty & Personal Care,0.597
+C1287,Delhi,5,1245.83,0.623,Health & Wellness,0.484
+C1288,Pune,1,430.73,0.222,Beauty & Personal Care,0.691
+C1289,Delhi,6,1168.3,0.262,Plant-Based Food,0.537
+C1290,Delhi,4,277.13,0.646,Health & Wellness,0.369
+C1291,Hyderabad,6,887.27,0.688,Health & Wellness,0.8
+C1292,Bengaluru,7,454.6,0.571,Beauty & Personal Care,0.399
+C1293,Coimbatore,5,705.26,0.632,Eco-Friendly Home,0.489
+C1294,Coimbatore,5,515.13,0.636,Eco-Friendly Home,0.551
+C1295,Chennai,2,330.11,0.392,Dairy Alternatives,0.175
+C1296,Coimbatore,6,269.95,0.39,Eco-Friendly Home,0.603
+C1297,Pune,3,1178.83,0.662,Beauty & Personal Care,0.47
+C1298,Coimbatore,8,541.13,0.684,Dairy Alternatives,0.536
+C1299,Chennai,1,655.7,0.212,Health & Wellness,0.535
+C1300,Hyderabad,6,268.07,0.685,Beauty & Personal Care,0.573
+C1301,Mumbai,4,1229.28,0.434,Dairy Alternatives,0.475
+C1302,Chennai,2,750.39,0.157,Eco-Friendly Home,0.334
+C1303,Mumbai,2,984.06,0.511,Beauty & Personal Care,0.796
+C1304,Hyderabad,2,1029.19,0.332,Eco-Friendly Home,0.68
+C1305,Coimbatore,1,505.37,0.518,Dairy Alternatives,0.719
+C1306,Bengaluru,3,583.71,0.653,Beauty & Personal Care,0.523
+C1307,Pune,1,978.25,0.66,Beauty & Personal Care,0.704
+C1308,Pune,4,651.64,0.521,Beauty & Personal Care,0.592
+C1309,Coimbatore,4,1050.25,0.483,Beauty & Personal Care,0.657
+C1310,Mumbai,5,422.0,0.65,Dairy Alternatives,0.528
+C1311,Hyderabad,1,715.08,0.429,Health & Wellness,0.493
+C1312,Hyderabad,4,602.11,0.764,Plant-Based Food,0.706
+C1313,Pune,4,594.06,0.558,Plant-Based Food,0.417
+C1314,Kochi,2,772.77,0.725,Plant-Based Food,0.816
+C1315,Coimbatore,2,839.3,0.595,Health & Wellness,0.244
+C1316,Chennai,4,693.82,0.468,Plant-Based Food,0.906
+C1317,Bengaluru,5,431.6,0.472,Beauty & Personal Care,0.799
+C1318,Pune,4,762.71,0.498,Beauty & Personal Care,0.776
+C1319,Chennai,1,715.68,0.696,Eco-Friendly Home,0.569
+C1320,Pune,2,659.03,0.216,Health & Wellness,0.319
+C1321,Delhi,2,564.3,0.571,Plant-Based Food,0.464
+C1322,Mumbai,2,782.45,0.537,Beauty & Personal Care,0.901
+C1323,Delhi,5,582.01,0.367,Plant-Based Food,0.618
+C1324,Coimbatore,8,879.15,0.217,Beauty & Personal Care,0.742
+C1325,Mumbai,8,578.69,0.538,Eco-Friendly Home,0.626
+C1326,Mumbai,7,489.73,0.592,Plant-Based Food,0.559
+C1327,Pune,2,687.94,0.346,Dairy Alternatives,0.703
+C1328,Kochi,6,1255.04,0.416,Eco-Friendly Home,0.382
+C1329,Bengaluru,2,766.77,0.478,Dairy Alternatives,0.784
+C1330,Mumbai,6,1085.82,0.642,Dairy Alternatives,0.588
+C1331,Kochi,5,952.4,0.352,Beauty & Personal Care,0.59
+C1332,Kochi,2,1008.17,0.214,Eco-Friendly Home,0.468
+C1333,Kochi,4,711.91,0.627,Beauty & Personal Care,0.55
+C1334,Kochi,3,1032.19,0.64,Health & Wellness,0.681
+C1335,Bengaluru,2,690.71,0.783,Beauty & Personal Care,0.146
+C1336,Kochi,5,918.3,0.363,Eco-Friendly Home,0.682
+C1337,Hyderabad,1,855.68,0.327,Health & Wellness,0.805
+C1338,Chennai,3,644.0,0.514,Health & Wellness,0.794
+C1339,Chennai,3,502.02,0.374,Plant-Based Food,0.678
+C1340,Pune,1,574.61,0.44,Beauty & Personal Care,0.623
+C1341,Chennai,3,1306.78,0.573,Dairy Alternatives,0.476
+C1342,Mumbai,4,835.53,0.425,Dairy Alternatives,0.773
+C1343,Delhi,3,704.42,0.313,Eco-Friendly Home,0.594
+C1344,Chennai,2,757.36,0.43,Beauty & Personal Care,0.692
+C1345,Coimbatore,3,591.69,0.609,Beauty & Personal Care,0.79
+C1346,Chennai,5,582.59,0.382,Health & Wellness,0.708
+C1347,Coimbatore,5,598.45,0.674,Dairy Alternatives,0.711
+C1348,Delhi,1,581.55,0.722,Plant-Based Food,0.633
+C1349,Kochi,2,1009.09,0.465,Plant-Based Food,0.669
+C1350,Mumbai,3,583.11,0.237,Health & Wellness,0.815
+C1351,Chennai,1,540.65,0.711,Beauty & Personal Care,0.34
+C1352,Chennai,4,776.68,0.839,Beauty & Personal Care,0.476
+C1353,Delhi,2,396.14,0.52,Dairy Alternatives,0.548
+C1354,Bengaluru,2,896.26,0.634,Health & Wellness,0.92
+C1355,Coimbatore,2,486.94,0.82,Beauty & Personal Care,0.344
+C1356,Delhi,2,1090.54,0.572,Beauty & Personal Care,0.484
+C1357,Pune,1,773.45,0.41,Dairy Alternatives,0.672
+C1358,Hyderabad,6,595.85,0.414,Eco-Friendly Home,0.71
+C1359,Delhi,2,728.12,0.754,Beauty & Personal Care,0.878
+C1360,Delhi,1,391.22,0.468,Plant-Based Food,0.928
+C1361,Delhi,4,973.35,0.597,Beauty & Personal Care,0.566
+C1362,Kochi,5,150.0,0.232,Dairy Alternatives,0.394
+C1363,Bengaluru,2,438.54,0.517,Beauty & Personal Care,0.708
+C1364,Chennai,5,1132.04,0.464,Beauty & Personal Care,0.846
+C1365,Hyderabad,2,705.44,0.359,Beauty & Personal Care,0.539
+C1366,Bengaluru,2,723.39,0.658,Plant-Based Food,0.526
+C1367,Delhi,3,715.03,0.54,Plant-Based Food,0.678
+C1368,Coimbatore,4,993.38,0.428,Eco-Friendly Home,0.795
+C1369,Mumbai,6,444.8,0.627,Health & Wellness,0.578
+C1370,Chennai,5,817.49,0.38,Eco-Friendly Home,0.454
+C1371,Delhi,5,519.76,0.652,Eco-Friendly Home,0.482
+C1372,Delhi,1,590.29,0.531,Health & Wellness,0.542
+C1373,Bengaluru,5,563.35,0.829,Eco-Friendly Home,0.789
+C1374,Chennai,2,1318.25,0.629,Eco-Friendly Home,0.289
+C1375,Pune,4,282.35,0.555,Plant-Based Food,0.577
+C1376,Coimbatore,6,878.66,0.361,Beauty & Personal Care,0.425
+C1377,Hyderabad,1,471.79,0.59,Eco-Friendly Home,0.84
+C1378,Delhi,5,801.25,0.845,Health & Wellness,0.703
+C1379,Hyderabad,4,966.93,0.548,Beauty & Personal Care,0.729
+C1380,Delhi,3,529.04,0.308,Dairy Alternatives,0.819
+C1381,Delhi,1,841.27,0.349,Beauty & Personal Care,0.791
+C1382,Chennai,2,716.84,0.169,Health & Wellness,0.746
+C1383,Delhi,1,502.35,0.587,Health & Wellness,0.532
+C1384,Hyderabad,2,789.53,0.399,Dairy Alternatives,0.616
+C1385,Bengaluru,3,1397.81,0.584,Plant-Based Food,0.391
+C1386,Kochi,4,778.63,0.591,Plant-Based Food,0.884
+C1387,Kochi,5,993.48,0.286,Beauty & Personal Care,0.513
+C1388,Delhi,5,1017.93,0.575,Health & Wellness,0.65
+C1389,Pune,3,538.55,0.443,Dairy Alternatives,0.7
+C1390,Pune,1,737.89,0.147,Beauty & Personal Care,0.64
+C1391,Mumbai,3,1008.26,0.41,Dairy Alternatives,0.845
+C1392,Chennai,5,618.26,0.59,Dairy Alternatives,0.635
+C1393,Hyderabad,3,876.49,0.368,Plant-Based Food,0.687
+C1394,Delhi,5,682.69,0.386,Beauty & Personal Care,0.642
+C1395,Hyderabad,3,682.98,0.743,Eco-Friendly Home,0.871
+C1396,Pune,6,575.34,0.345,Plant-Based Food,0.771
+C1397,Kochi,2,1101.75,0.259,Health & Wellness,0.431
+C1398,Mumbai,6,161.05,0.548,Eco-Friendly Home,0.632
+C1399,Coimbatore,4,478.89,0.73,Beauty & Personal Care,0.6
+C1400,Delhi,4,816.94,0.677,Eco-Friendly Home,0.76
+C1401,Pune,6,238.07,0.453,Eco-Friendly Home,0.397
+C1402,Pune,6,886.48,0.48,Plant-Based Food,0.365
+C1403,Delhi,2,1154.57,0.453,Plant-Based Food,0.459
+C1404,Mumbai,3,798.56,0.604,Eco-Friendly Home,0.598
+C1405,Pune,2,150.0,0.58,Health & Wellness,0.63
+C1406,Coimbatore,3,288.55,0.427,Plant-Based Food,0.542
+C1407,Mumbai,4,450.6,0.53,Health & Wellness,0.636
+C1408,Mumbai,4,284.53,0.35,Plant-Based Food,0.392
+C1409,Pune,3,705.86,0.425,Dairy Alternatives,0.698
+C1410,Delhi,1,811.53,0.605,Health & Wellness,0.688
+C1411,Mumbai,5,362.3,0.357,Dairy Alternatives,0.692
+C1412,Kochi,2,878.16,0.431,Eco-Friendly Home,0.689
+C1413,Hyderabad,3,741.46,0.105,Health & Wellness,0.471
+C1414,Bengaluru,6,682.28,0.351,Plant-Based Food,0.482
+C1415,Kochi,3,1113.82,0.545,Beauty & Personal Care,0.325
+C1416,Pune,7,719.62,0.389,Plant-Based Food,0.771
+C1417,Coimbatore,5,789.4,0.503,Beauty & Personal Care,0.907
+C1418,Pune,5,1410.91,0.314,Plant-Based Food,0.752
+C1419,Hyderabad,2,795.31,0.658,Eco-Friendly Home,0.829
+C1420,Coimbatore,4,1145.86,0.602,Health & Wellness,0.748
+C1421,Mumbai,6,962.73,0.532,Health & Wellness,0.876
+C1422,Chennai,5,783.25,0.332,Plant-Based Food,0.513
+C1423,Bengaluru,3,975.0,0.378,Plant-Based Food,0.566
+C1424,Delhi,6,969.84,0.338,Health & Wellness,0.839
+C1425,Coimbatore,6,150.0,0.572,Dairy Alternatives,0.469
+C1426,Delhi,6,830.99,0.744,Eco-Friendly Home,0.819
+C1427,Chennai,1,874.46,0.681,Beauty & Personal Care,0.696
+C1428,Bengaluru,3,700.5,0.48,Dairy Alternatives,0.43
+C1429,Hyderabad,3,770.02,0.573,Health & Wellness,0.588
+C1430,Kochi,3,1175.02,0.474,Beauty & Personal Care,0.727
+C1431,Chennai,4,491.7,0.38,Plant-Based Food,0.521
+C1432,Kochi,6,1050.68,0.962,Dairy Alternatives,0.551
+C1433,Pune,3,874.16,0.237,Beauty & Personal Care,0.583
+C1434,Chennai,6,433.08,0.512,Beauty & Personal Care,0.412
+C1435,Hyderabad,3,222.23,0.34,Eco-Friendly Home,0.357
+C1436,Bengaluru,1,348.21,0.436,Beauty & Personal Care,0.692
+C1437,Hyderabad,4,657.78,0.275,Plant-Based Food,0.577
+C1438,Pune,4,640.87,0.166,Eco-Friendly Home,0.759
+C1439,Chennai,5,1319.02,0.575,Dairy Alternatives,0.565
+C1440,Kochi,1,628.39,0.689,Eco-Friendly Home,0.65
+C1441,Chennai,4,836.21,0.447,Plant-Based Food,0.774
+C1442,Chennai,3,469.83,0.604,Health & Wellness,0.907
+C1443,Bengaluru,4,216.3,0.434,Plant-Based Food,0.484
+C1444,Delhi,5,508.74,0.36,Dairy Alternatives,0.717
+C1445,Kochi,4,1181.3,0.367,Plant-Based Food,0.817
+C1446,Delhi,4,1333.28,0.374,Beauty & Personal Care,0.632
+C1447,Kochi,2,379.35,0.601,Eco-Friendly Home,0.441
+C1448,Delhi,6,946.63,0.602,Health & Wellness,0.512
+C1449,Chennai,5,1037.41,0.525,Eco-Friendly Home,0.639
+C1450,Coimbatore,5,802.9,0.653,Beauty & Personal Care,0.614
+C1451,Bengaluru,3,822.95,0.662,Beauty & Personal Care,0.807
+C1452,Mumbai,2,343.79,0.304,Beauty & Personal Care,0.529
+C1453,Kochi,3,1102.15,0.464,Health & Wellness,0.821
+C1454,Pune,3,917.52,0.405,Eco-Friendly Home,0.719
+C1455,Kochi,3,638.5,0.482,Health & Wellness,0.632
+C1456,Pune,4,1043.29,0.454,Dairy Alternatives,0.573
+C1457,Coimbatore,4,231.82,0.57,Eco-Friendly Home,0.784
+C1458,Delhi,3,1196.59,0.262,Plant-Based Food,0.683
+C1459,Bengaluru,3,716.86,0.244,Eco-Friendly Home,0.355
+C1460,Chennai,5,442.0,0.249,Plant-Based Food,0.718
+C1461,Kochi,2,596.59,0.587,Plant-Based Food,0.743
+C1462,Bengaluru,4,150.0,0.581,Beauty & Personal Care,0.387
+C1463,Chennai,3,1014.76,0.38,Health & Wellness,0.559
+C1464,Mumbai,4,676.68,0.715,Dairy Alternatives,0.649
+C1465,Hyderabad,6,387.46,0.283,Eco-Friendly Home,0.752
+C1466,Hyderabad,2,687.28,0.107,Beauty & Personal Care,0.809
+C1467,Kochi,2,902.18,0.511,Plant-Based Food,0.669
+C1468,Kochi,2,732.42,0.62,Plant-Based Food,0.712
+C1469,Delhi,5,1013.84,0.855,Dairy Alternatives,0.782
+C1470,Delhi,4,490.65,0.643,Health & Wellness,0.902
+C1471,Delhi,3,903.87,0.487,Health & Wellness,0.79
+C1472,Mumbai,5,673.35,0.426,Beauty & Personal Care,0.692
+C1473,Hyderabad,2,765.06,0.617,Plant-Based Food,0.322
+C1474,Pune,1,1050.82,0.589,Dairy Alternatives,0.89
+C1475,Pune,2,743.67,0.47,Plant-Based Food,0.571
+C1476,Kochi,4,1153.25,0.405,Eco-Friendly Home,0.775
+C1477,Hyderabad,5,613.13,0.646,Beauty & Personal Care,0.669
+C1478,Kochi,7,772.55,0.322,Health & Wellness,0.705
+C1479,Hyderabad,1,549.35,0.32,Health & Wellness,0.663
+C1480,Kochi,2,862.81,0.387,Plant-Based Food,0.851
+C1481,Hyderabad,2,658.55,0.608,Eco-Friendly Home,0.651
+C1482,Coimbatore,7,728.59,0.471,Health & Wellness,0.645
+C1483,Kochi,4,767.18,0.477,Beauty & Personal Care,0.761
+C1484,Mumbai,3,1053.68,0.443,Plant-Based Food,0.482
+C1485,Pune,2,745.69,0.48,Plant-Based Food,0.781
+C1486,Chennai,4,471.37,0.575,Beauty & Personal Care,0.6
+C1487,Kochi,1,986.92,0.817,Plant-Based Food,0.66
+C1488,Kochi,8,1194.35,0.406,Dairy Alternatives,0.521
+C1489,Kochi,4,859.26,0.444,Eco-Friendly Home,0.643
+C1490,Mumbai,3,1049.62,0.461,Beauty & Personal Care,0.646
+C1491,Bengaluru,5,939.21,0.825,Plant-Based Food,0.366
+C1492,Bengaluru,4,783.42,0.528,Health & Wellness,0.738
+C1493,Kochi,4,782.57,0.66,Dairy Alternatives,0.803
+C1494,Hyderabad,1,921.96,0.794,Beauty & Personal Care,0.868
+C1495,Mumbai,6,1114.89,0.552,Eco-Friendly Home,0.487
+C1496,Kochi,3,689.24,0.364,Beauty & Personal Care,0.487
+C1497,Bengaluru,1,261.79,0.53,Plant-Based Food,0.931
+C1498,Hyderabad,3,488.94,0.263,Beauty & Personal Care,0.34
+C1499,Chennai,5,623.04,0.575,Eco-Friendly Home,0.955
+C1500,Bengaluru,6,802.57,0.57,Health & Wellness,0.811
+C1501,Kochi,2,1235.63,0.444,Plant-Based Food,0.593
+C1502,Delhi,4,468.01,0.534,Health & Wellness,0.696
+C1503,Pune,5,337.15,0.517,Dairy Alternatives,0.862
+C1504,Chennai,3,695.09,0.254,Dairy Alternatives,0.909
+C1505,Hyderabad,2,937.27,0.445,Plant-Based Food,0.574
+C1506,Chennai,4,1023.52,0.76,Dairy Alternatives,0.43
+C1507,Kochi,5,868.37,0.798,Beauty & Personal Care,0.895
+C1508,Hyderabad,2,676.98,0.609,Health & Wellness,0.814
+C1509,Bengaluru,3,898.38,0.641,Dairy Alternatives,0.701
+C1510,Mumbai,4,864.98,0.519,Health & Wellness,0.718
+C1511,Pune,1,1124.58,0.634,Eco-Friendly Home,0.796
+C1512,Hyderabad,6,806.97,0.48,Beauty & Personal Care,0.615
+C1513,Bengaluru,3,767.56,0.687,Plant-Based Food,0.521
+C1514,Mumbai,1,773.25,0.24,Plant-Based Food,0.651
+C1515,Hyderabad,8,549.69,0.591,Dairy Alternatives,0.77
+C1516,Delhi,4,726.01,0.363,Dairy Alternatives,0.697
+C1517,Mumbai,1,829.74,0.617,Eco-Friendly Home,0.335
+C1518,Pune,2,565.83,0.604,Eco-Friendly Home,0.375
+C1519,Coimbatore,2,1408.36,0.486,Plant-Based Food,0.702
+C1520,Bengaluru,3,303.6,0.375,Beauty & Personal Care,0.377
+C1521,Kochi,6,710.29,0.586,Health & Wellness,0.835
+C1522,Mumbai,2,968.65,0.762,Health & Wellness,0.317
+C1523,Coimbatore,6,743.84,0.751,Health & Wellness,0.744
+C1524,Coimbatore,4,537.3,0.262,Eco-Friendly Home,0.706
+C1525,Bengaluru,2,768.25,0.578,Eco-Friendly Home,0.742
+C1526,Hyderabad,7,821.25,0.649,Eco-Friendly Home,0.689
+C1527,Hyderabad,4,957.81,0.287,Dairy Alternatives,0.623
+C1528,Coimbatore,2,661.92,0.734,Health & Wellness,0.593
+C1529,Hyderabad,10,371.35,0.48,Dairy Alternatives,0.558
+C1530,Mumbai,3,605.01,0.476,Dairy Alternatives,0.636
+C1531,Delhi,2,868.7,0.481,Plant-Based Food,0.259
+C1532,Coimbatore,2,1020.64,0.594,Plant-Based Food,0.709
+C1533,Hyderabad,5,536.6,0.537,Eco-Friendly Home,0.716
+C1534,Pune,5,817.73,0.507,Plant-Based Food,0.81
+C1535,Delhi,4,759.2,0.588,Dairy Alternatives,0.512
+C1536,Mumbai,2,753.48,0.667,Health & Wellness,0.76
+C1537,Delhi,2,777.97,0.398,Health & Wellness,0.926
+C1538,Chennai,3,677.84,0.51,Beauty & Personal Care,0.614
+C1539,Mumbai,3,636.74,0.618,Dairy Alternatives,0.708
+C1540,Chennai,6,1051.71,0.558,Health & Wellness,0.465
+C1541,Mumbai,3,828.38,0.31,Health & Wellness,0.626
+C1542,Bengaluru,2,632.73,0.753,Beauty & Personal Care,0.576
+C1543,Chennai,4,150.0,0.422,Eco-Friendly Home,0.876
+C1544,Delhi,6,948.51,0.278,Dairy Alternatives,0.68
+C1545,Coimbatore,3,757.2,0.63,Health & Wellness,0.724
+C1546,Hyderabad,5,844.01,0.468,Health & Wellness,0.626
+C1547,Bengaluru,2,521.28,0.697,Plant-Based Food,0.756
+C1548,Bengaluru,2,758.75,0.576,Eco-Friendly Home,0.327
+C1549,Mumbai,2,362.48,0.469,Beauty & Personal Care,0.555
+C1550,Mumbai,5,711.81,0.592,Dairy Alternatives,0.767
+C1551,Kochi,7,728.06,0.763,Beauty & Personal Care,0.594
+C1552,Chennai,2,705.28,0.281,Beauty & Personal Care,0.562
+C1553,Kochi,2,566.45,0.712,Eco-Friendly Home,0.863
+C1554,Coimbatore,4,913.53,0.67,Plant-Based Food,0.667
+C1555,Kochi,5,618.57,0.49,Plant-Based Food,0.626
+C1556,Hyderabad,3,622.75,0.693,Plant-Based Food,0.657
+C1557,Mumbai,3,291.04,0.69,Beauty & Personal Care,0.65
+C1558,Kochi,6,542.78,0.728,Eco-Friendly Home,0.338
+C1559,Delhi,7,576.97,0.633,Dairy Alternatives,0.565
+C1560,Coimbatore,2,671.81,0.465,Beauty & Personal Care,0.787
+C1561,Coimbatore,1,795.56,0.485,Plant-Based Food,0.762
+C1562,Coimbatore,3,905.53,0.517,Plant-Based Food,0.465
+C1563,Chennai,1,844.33,0.393,Health & Wellness,0.867
+C1564,Kochi,6,557.61,0.755,Eco-Friendly Home,0.516
+C1565,Hyderabad,1,574.0,0.57,Beauty & Personal Care,0.78
+C1566,Delhi,11,606.61,0.209,Eco-Friendly Home,0.507
+C1567,Delhi,3,887.95,0.644,Beauty & Personal Care,0.759
+C1568,Pune,4,1268.96,0.539,Plant-Based Food,0.778
+C1569,Kochi,2,1078.7,0.624,Eco-Friendly Home,0.364
+C1570,Delhi,2,1075.8,0.554,Plant-Based Food,0.717
+C1571,Delhi,6,937.43,0.525,Dairy Alternatives,0.777
+C1572,Mumbai,2,636.44,0.382,Eco-Friendly Home,0.726
+C1573,Hyderabad,5,454.4,0.227,Plant-Based Food,0.596
+C1574,Chennai,4,443.76,0.583,Dairy Alternatives,0.427
+C1575,Mumbai,3,920.31,0.278,Beauty & Personal Care,0.767
+C1576,Hyderabad,1,628.46,0.59,Dairy Alternatives,0.716
+C1577,Kochi,2,989.29,0.661,Beauty & Personal Care,0.642
+C1578,Coimbatore,5,812.52,0.655,Health & Wellness,0.604
+C1579,Chennai,2,608.68,0.591,Health & Wellness,0.489
+C1580,Coimbatore,4,606.31,0.675,Health & Wellness,0.883
+C1581,Chennai,3,290.66,0.455,Beauty & Personal Care,0.704
+C1582,Chennai,2,523.0,0.482,Plant-Based Food,0.423
+C1583,Coimbatore,3,926.63,0.528,Eco-Friendly Home,0.517
+C1584,Delhi,4,563.65,0.491,Eco-Friendly Home,0.676
+C1585,Hyderabad,2,872.89,0.713,Eco-Friendly Home,0.791
+C1586,Coimbatore,1,286.88,0.765,Eco-Friendly Home,0.437
+C1587,Bengaluru,5,693.35,0.386,Plant-Based Food,0.358
+C1588,Chennai,3,708.96,0.706,Beauty & Personal Care,0.456
+C1589,Coimbatore,3,517.3,0.699,Health & Wellness,0.466
+C1590,Kochi,1,692.12,0.653,Plant-Based Food,0.696
+C1591,Chennai,3,932.39,0.305,Dairy Alternatives,0.536
+C1592,Bengaluru,3,453.54,0.786,Beauty & Personal Care,0.704
+C1593,Kochi,5,1055.41,0.347,Dairy Alternatives,0.809
+C1594,Delhi,3,553.61,0.452,Eco-Friendly Home,0.708
+C1595,Bengaluru,2,362.98,0.398,Beauty & Personal Care,0.504
+C1596,Delhi,4,1004.51,0.472,Eco-Friendly Home,0.468
+C1597,Chennai,1,736.31,0.604,Health & Wellness,0.766
+C1598,Hyderabad,7,730.72,0.372,Health & Wellness,0.482
+C1599,Pune,4,964.62,0.798,Beauty & Personal Care,0.716
+C1600,Pune,3,1090.42,0.722,Beauty & Personal Care,0.432
+C1601,Hyderabad,7,545.68,0.415,Health & Wellness,0.669
+C1602,Chennai,3,505.29,0.494,Health & Wellness,0.649
+C1603,Delhi,5,870.61,0.588,Eco-Friendly Home,0.571
+C1604,Kochi,3,921.59,0.241,Eco-Friendly Home,0.548
+C1605,Bengaluru,3,644.66,0.707,Eco-Friendly Home,0.691
+C1606,Delhi,3,806.38,0.59,Dairy Alternatives,0.651
+C1607,Chennai,5,1453.65,0.648,Eco-Friendly Home,0.552
+C1608,Hyderabad,3,726.9,0.772,Plant-Based Food,0.5
+C1609,Delhi,4,307.89,0.633,Eco-Friendly Home,0.617
+C1610,Mumbai,2,637.85,0.329,Plant-Based Food,0.817
+C1611,Kochi,6,755.41,0.294,Health & Wellness,0.653
+C1612,Coimbatore,4,947.69,0.067,Dairy Alternatives,0.728
+C1613,Coimbatore,3,1025.04,0.427,Health & Wellness,0.551
+C1614,Chennai,2,875.38,0.691,Eco-Friendly Home,0.769
+C1615,Mumbai,1,668.84,0.512,Eco-Friendly Home,0.642
+C1616,Chennai,6,720.63,0.33,Beauty & Personal Care,0.632
+C1617,Pune,2,1093.43,0.322,Dairy Alternatives,0.835
+C1618,Mumbai,4,400.43,0.105,Dairy Alternatives,0.63
+C1619,Kochi,3,533.84,0.083,Beauty & Personal Care,0.664
+C1620,Bengaluru,4,349.73,0.12,Eco-Friendly Home,0.811
+C1621,Coimbatore,4,1103.11,0.623,Dairy Alternatives,0.6
+C1622,Bengaluru,3,759.88,0.409,Eco-Friendly Home,0.562
+C1623,Kochi,2,802.64,0.409,Health & Wellness,0.671
+C1624,Hyderabad,2,790.03,0.608,Dairy Alternatives,0.608
+C1625,Bengaluru,4,922.91,0.569,Eco-Friendly Home,0.663
+C1626,Coimbatore,1,726.25,0.617,Beauty & Personal Care,0.659
+C1627,Coimbatore,2,171.64,0.48,Dairy Alternatives,0.551
+C1628,Bengaluru,5,510.09,0.378,Plant-Based Food,0.622
+C1629,Bengaluru,2,693.69,0.346,Beauty & Personal Care,0.501
+C1630,Pune,3,687.29,0.408,Health & Wellness,0.603
+C1631,Bengaluru,4,633.61,0.621,Health & Wellness,0.788
+C1632,Mumbai,3,748.66,0.488,Dairy Alternatives,0.827
+C1633,Kochi,4,503.89,0.315,Health & Wellness,0.522
+C1634,Bengaluru,6,536.4,0.241,Eco-Friendly Home,0.404
+C1635,Chennai,2,671.09,0.606,Dairy Alternatives,0.782
+C1636,Coimbatore,7,712.88,0.268,Dairy Alternatives,0.512
+C1637,Coimbatore,5,934.18,0.613,Beauty & Personal Care,0.631
+C1638,Chennai,2,870.68,0.435,Eco-Friendly Home,0.662
+C1639,Hyderabad,2,887.91,0.328,Dairy Alternatives,0.825
+C1640,Hyderabad,4,332.77,0.592,Beauty & Personal Care,0.826
+C1641,Hyderabad,4,559.05,0.307,Plant-Based Food,0.289
+C1642,Pune,4,483.69,0.686,Health & Wellness,0.385
+C1643,Coimbatore,8,475.38,0.571,Health & Wellness,0.373
+C1644,Mumbai,3,790.77,0.551,Dairy Alternatives,0.535
+C1645,Mumbai,4,491.59,0.332,Dairy Alternatives,0.786
+C1646,Chennai,5,683.75,0.601,Beauty & Personal Care,0.494
+C1647,Delhi,5,1108.36,0.34,Beauty & Personal Care,0.945
+C1648,Mumbai,1,921.82,0.561,Eco-Friendly Home,0.727
+C1649,Delhi,3,396.81,0.571,Beauty & Personal Care,0.679
+C1650,Bengaluru,5,498.69,0.325,Beauty & Personal Care,0.859
+C1651,Mumbai,5,1033.37,0.736,Beauty & Personal Care,0.781
+C1652,Hyderabad,2,934.28,0.436,Dairy Alternatives,0.248
+C1653,Bengaluru,1,846.29,0.616,Health & Wellness,0.715
+C1654,Pune,5,627.28,0.368,Dairy Alternatives,0.788
+C1655,Pune,6,1081.17,0.376,Dairy Alternatives,0.78
+C1656,Hyderabad,1,767.6,0.815,Dairy Alternatives,0.715
+C1657,Chennai,6,1011.71,0.278,Beauty & Personal Care,0.792
+C1658,Hyderabad,5,1154.59,0.54,Eco-Friendly Home,0.858
+C1659,Hyderabad,2,553.47,0.825,Beauty & Personal Care,0.421
+C1660,Kochi,2,150.0,0.4,Beauty & Personal Care,0.792
+C1661,Coimbatore,4,938.74,0.584,Plant-Based Food,0.566
+C1662,Mumbai,5,929.15,0.752,Plant-Based Food,0.745
+C1663,Chennai,3,774.28,0.597,Eco-Friendly Home,0.842
+C1664,Delhi,6,1109.37,0.499,Eco-Friendly Home,0.411
+C1665,Mumbai,4,1290.3,0.488,Plant-Based Food,0.709
+C1666,Pune,4,572.41,0.213,Health & Wellness,0.833
+C1667,Mumbai,4,1025.21,0.36,Health & Wellness,0.603
+C1668,Chennai,4,1061.08,0.273,Dairy Alternatives,0.638
+C1669,Kochi,2,920.0,0.615,Plant-Based Food,0.38
+C1670,Bengaluru,5,1095.42,0.676,Health & Wellness,0.515
+C1671,Kochi,5,736.63,0.764,Health & Wellness,0.636
+C1672,Chennai,2,776.75,0.602,Dairy Alternatives,0.678
+C1673,Kochi,1,849.79,0.399,Plant-Based Food,0.672
+C1674,Bengaluru,1,871.3,0.677,Eco-Friendly Home,0.467
+C1675,Hyderabad,5,1242.09,0.443,Beauty & Personal Care,0.747
+C1676,Coimbatore,6,815.93,0.803,Dairy Alternatives,0.803
+C1677,Delhi,1,660.97,0.307,Health & Wellness,0.633
+C1678,Pune,3,533.77,0.345,Beauty & Personal Care,0.547
+C1679,Delhi,7,799.38,0.383,Beauty & Personal Care,0.481
+C1680,Coimbatore,8,624.48,0.782,Beauty & Personal Care,0.812
+C1681,Chennai,3,344.35,0.574,Eco-Friendly Home,0.766
+C1682,Delhi,2,1160.06,0.34,Beauty & Personal Care,0.716
+C1683,Kochi,8,1027.82,0.532,Eco-Friendly Home,0.593
+C1684,Hyderabad,3,660.46,0.365,Beauty & Personal Care,0.507
+C1685,Bengaluru,4,520.45,0.547,Dairy Alternatives,0.826
+C1686,Hyderabad,7,726.31,0.582,Health & Wellness,0.738
+C1687,Kochi,3,819.27,0.652,Eco-Friendly Home,0.681
+C1688,Coimbatore,4,668.74,0.417,Beauty & Personal Care,0.393
+C1689,Pune,6,1283.86,0.696,Beauty & Personal Care,0.25
+C1690,Hyderabad,5,1081.84,0.653,Eco-Friendly Home,0.634
+C1691,Hyderabad,4,1078.36,0.263,Health & Wellness,0.661
+C1692,Mumbai,5,426.22,0.382,Dairy Alternatives,0.897
+C1693,Chennai,1,903.04,0.868,Eco-Friendly Home,0.547
+C1694,Kochi,5,323.68,0.294,Beauty & Personal Care,0.534
+C1695,Mumbai,1,610.42,0.695,Health & Wellness,0.594
+C1696,Chennai,4,415.64,0.389,Health & Wellness,0.87
+C1697,Delhi,2,962.75,0.752,Eco-Friendly Home,0.403
+C1698,Bengaluru,4,631.92,0.395,Health & Wellness,0.54
+C1699,Chennai,2,958.45,0.63,Beauty & Personal Care,0.399
+C1700,Kochi,2,379.61,0.705,Health & Wellness,0.492
+C1701,Mumbai,1,393.33,0.856,Eco-Friendly Home,0.692
+C1702,Coimbatore,1,683.82,0.66,Plant-Based Food,0.648
+C1703,Bengaluru,1,1115.82,0.599,Health & Wellness,0.783
+C1704,Coimbatore,3,842.0,0.705,Beauty & Personal Care,0.622
+C1705,Mumbai,6,309.23,0.441,Eco-Friendly Home,0.776
+C1706,Pune,5,727.96,0.601,Beauty & Personal Care,0.857
+C1707,Kochi,4,533.71,0.547,Dairy Alternatives,0.378
+C1708,Pune,5,800.61,0.832,Dairy Alternatives,0.829
+C1709,Delhi,3,451.27,0.508,Eco-Friendly Home,0.67
+C1710,Delhi,1,574.15,0.468,Plant-Based Food,0.828
+C1711,Delhi,1,590.49,0.626,Dairy Alternatives,0.731
+C1712,Hyderabad,5,589.55,0.661,Dairy Alternatives,0.548
+C1713,Pune,5,834.74,0.419,Health & Wellness,0.416
+C1714,Bengaluru,3,1142.49,0.612,Plant-Based Food,0.845
+C1715,Bengaluru,1,1132.54,0.597,Health & Wellness,0.594
+C1716,Coimbatore,7,802.48,0.446,Beauty & Personal Care,0.761
+C1717,Hyderabad,3,769.08,0.743,Plant-Based Food,0.556
+C1718,Pune,4,743.23,0.601,Health & Wellness,0.569
+C1719,Chennai,3,1188.19,0.658,Dairy Alternatives,0.769
+C1720,Delhi,3,818.95,0.624,Eco-Friendly Home,0.822
+C1721,Bengaluru,1,836.66,0.688,Dairy Alternatives,0.711
+C1722,Chennai,6,706.05,0.41,Dairy Alternatives,0.72
+C1723,Bengaluru,3,632.0,0.493,Dairy Alternatives,0.707
+C1724,Coimbatore,3,544.32,0.78,Eco-Friendly Home,0.691
+C1725,Hyderabad,5,752.89,0.362,Beauty & Personal Care,0.642
+C1726,Hyderabad,4,593.73,0.593,Eco-Friendly Home,0.648
+C1727,Bengaluru,2,755.73,0.716,Plant-Based Food,0.737
+C1728,Coimbatore,5,346.35,0.392,Health & Wellness,0.832
+C1729,Delhi,4,490.28,0.346,Health & Wellness,0.189
+C1730,Mumbai,1,660.07,0.426,Dairy Alternatives,0.531
+C1731,Kochi,4,992.57,0.263,Dairy Alternatives,0.445
+C1732,Hyderabad,1,500.0,0.437,Eco-Friendly Home,0.852
+C1733,Kochi,1,1120.74,0.638,Health & Wellness,0.587
+C1734,Chennai,4,422.26,0.785,Plant-Based Food,0.849
+C1735,Mumbai,3,742.94,0.418,Eco-Friendly Home,0.443
+C1736,Bengaluru,3,654.51,0.41,Eco-Friendly Home,0.701
+C1737,Delhi,3,957.06,0.35,Health & Wellness,0.798
+C1738,Delhi,7,595.45,0.248,Plant-Based Food,0.616
+C1739,Hyderabad,2,648.62,0.475,Eco-Friendly Home,0.473
+C1740,Bengaluru,3,1247.42,0.644,Health & Wellness,0.666
+C1741,Pune,1,1319.3,0.256,Beauty & Personal Care,0.741
+C1742,Kochi,4,589.96,0.807,Dairy Alternatives,0.5
+C1743,Mumbai,5,937.71,0.579,Health & Wellness,0.605
+C1744,Kochi,4,543.28,0.678,Beauty & Personal Care,0.708
+C1745,Mumbai,3,1219.83,0.473,Eco-Friendly Home,0.716
+C1746,Chennai,4,1335.22,0.595,Plant-Based Food,0.588
+C1747,Hyderabad,7,1129.31,0.474,Dairy Alternatives,0.377
+C1748,Coimbatore,1,1074.8,0.27,Eco-Friendly Home,0.694
+C1749,Chennai,3,452.59,0.856,Beauty & Personal Care,0.419
+C1750,Pune,7,1190.95,0.462,Dairy Alternatives,0.515
+C1751,Delhi,2,486.57,0.728,Dairy Alternatives,0.536
+C1752,Hyderabad,6,1407.6,0.364,Eco-Friendly Home,0.785
+C1753,Pune,3,810.95,0.723,Health & Wellness,0.475
+C1754,Delhi,3,1167.35,0.805,Dairy Alternatives,0.378
+C1755,Chennai,5,709.96,0.441,Health & Wellness,0.573
+C1756,Kochi,6,506.68,0.779,Health & Wellness,0.54
+C1757,Coimbatore,3,802.66,0.5,Eco-Friendly Home,0.698
+C1758,Bengaluru,5,1022.79,0.281,Plant-Based Food,0.606
+C1759,Chennai,5,150.0,0.764,Dairy Alternatives,0.653
+C1760,Delhi,5,829.88,0.47,Plant-Based Food,0.704
+C1761,Coimbatore,4,593.32,0.642,Plant-Based Food,0.76
+C1762,Pune,3,332.08,0.445,Beauty & Personal Care,0.574
+C1763,Hyderabad,1,564.76,0.636,Health & Wellness,0.741
+C1764,Kochi,3,319.14,0.219,Plant-Based Food,0.473
+C1765,Kochi,9,1009.62,0.654,Dairy Alternatives,0.455
+C1766,Hyderabad,2,307.73,0.557,Eco-Friendly Home,0.528
+C1767,Mumbai,4,824.95,0.291,Eco-Friendly Home,0.558
+C1768,Bengaluru,4,277.89,0.182,Plant-Based Food,0.26
+C1769,Bengaluru,2,829.41,0.684,Plant-Based Food,0.684
+C1770,Chennai,1,688.07,0.537,Health & Wellness,0.62
+C1771,Delhi,2,955.63,0.739,Health & Wellness,0.558
+C1772,Coimbatore,3,419.25,0.584,Beauty & Personal Care,0.566
+C1773,Delhi,3,1286.74,0.656,Plant-Based Food,0.685
+C1774,Mumbai,1,682.31,0.588,Eco-Friendly Home,0.574
+C1775,Delhi,4,1153.32,0.403,Eco-Friendly Home,0.774
+C1776,Chennai,2,664.83,0.173,Health & Wellness,0.726
+C1777,Mumbai,3,342.95,0.572,Eco-Friendly Home,0.341
+C1778,Coimbatore,7,715.64,0.214,Health & Wellness,0.83
+C1779,Bengaluru,1,158.06,0.595,Beauty & Personal Care,0.865
+C1780,Chennai,5,1039.35,0.719,Dairy Alternatives,0.826
+C1781,Delhi,2,878.47,0.316,Dairy Alternatives,0.605
+C1782,Mumbai,2,1202.33,0.348,Beauty & Personal Care,0.667
+C1783,Chennai,4,785.22,0.372,Beauty & Personal Care,0.737
+C1784,Delhi,6,688.79,0.638,Beauty & Personal Care,0.689
+C1785,Delhi,6,764.29,0.763,Eco-Friendly Home,0.589
+C1786,Pune,2,343.04,0.57,Health & Wellness,0.815
+C1787,Chennai,3,647.07,0.676,Eco-Friendly Home,0.765
+C1788,Mumbai,3,619.26,0.356,Health & Wellness,0.823
+C1789,Hyderabad,2,534.64,0.468,Beauty & Personal Care,0.81
+C1790,Hyderabad,5,405.02,0.385,Plant-Based Food,0.326
+C1791,Delhi,3,718.13,0.735,Plant-Based Food,0.454
+C1792,Mumbai,4,782.52,0.337,Eco-Friendly Home,0.747
+C1793,Coimbatore,2,937.26,0.719,Health & Wellness,0.947
+C1794,Hyderabad,7,356.44,0.558,Beauty & Personal Care,0.509
+C1795,Delhi,2,927.71,0.388,Dairy Alternatives,0.662
+C1796,Delhi,3,848.61,0.274,Beauty & Personal Care,0.667
+C1797,Coimbatore,3,957.83,0.301,Plant-Based Food,0.682
+C1798,Delhi,5,1125.75,0.851,Health & Wellness,0.673
+C1799,Chennai,3,740.75,0.409,Dairy Alternatives,0.609
+C1800,Chennai,4,692.12,0.486,Beauty & Personal Care,0.287
+C1801,Mumbai,6,888.4,0.658,Health & Wellness,0.571
+C1802,Kochi,4,794.32,0.3,Plant-Based Food,0.327
+C1803,Bengaluru,2,637.68,0.465,Plant-Based Food,0.64
+C1804,Hyderabad,2,906.4,0.564,Plant-Based Food,0.608
+C1805,Kochi,3,416.8,0.442,Plant-Based Food,0.678
+C1806,Bengaluru,2,617.48,0.753,Eco-Friendly Home,0.46
+C1807,Delhi,4,414.43,0.607,Beauty & Personal Care,0.788
+C1808,Pune,1,1082.25,0.401,Dairy Alternatives,0.586
+C1809,Chennai,5,442.64,0.581,Health & Wellness,0.306
+C1810,Mumbai,6,901.43,0.493,Eco-Friendly Home,0.743
+C1811,Chennai,5,1055.04,0.371,Dairy Alternatives,0.77
+C1812,Kochi,1,901.36,0.817,Plant-Based Food,0.686
+C1813,Hyderabad,1,999.2,0.238,Dairy Alternatives,0.713
+C1814,Kochi,4,456.17,0.387,Health & Wellness,0.917
+C1815,Delhi,2,715.6,0.23,Dairy Alternatives,0.636
+C1816,Kochi,2,611.61,0.488,Eco-Friendly Home,0.407
+C1817,Kochi,3,344.99,0.511,Health & Wellness,0.86
+C1818,Chennai,3,467.71,0.197,Health & Wellness,0.774
+C1819,Pune,6,1187.45,0.375,Plant-Based Food,0.397
+C1820,Mumbai,2,928.35,0.605,Health & Wellness,0.585
+C1821,Delhi,6,453.27,0.875,Plant-Based Food,0.431
+C1822,Mumbai,4,960.05,0.586,Beauty & Personal Care,0.809
+C1823,Bengaluru,1,1011.15,0.199,Eco-Friendly Home,0.719
+C1824,Kochi,5,1015.61,0.39,Health & Wellness,0.625
+C1825,Chennai,3,1087.21,0.839,Plant-Based Food,0.499
+C1826,Chennai,2,298.57,0.496,Plant-Based Food,0.806
+C1827,Kochi,2,634.77,0.462,Health & Wellness,0.621
+C1828,Chennai,1,549.85,0.424,Plant-Based Food,0.78
+C1829,Kochi,4,378.56,0.584,Dairy Alternatives,0.798
+C1830,Coimbatore,6,500.71,0.23,Dairy Alternatives,0.421
+C1831,Delhi,3,371.08,0.522,Health & Wellness,0.54
+C1832,Coimbatore,4,655.92,0.525,Beauty & Personal Care,0.837
+C1833,Coimbatore,7,989.27,0.242,Plant-Based Food,0.75
+C1834,Mumbai,7,613.35,0.484,Beauty & Personal Care,0.456
+C1835,Delhi,5,329.03,0.379,Plant-Based Food,0.707
+C1836,Delhi,6,786.11,0.481,Plant-Based Food,0.457
+C1837,Delhi,4,240.89,0.462,Dairy Alternatives,0.614
+C1838,Delhi,3,681.83,0.85,Health & Wellness,0.802
+C1839,Chennai,2,917.87,0.354,Eco-Friendly Home,0.507
+C1840,Pune,5,515.05,0.769,Eco-Friendly Home,0.677
+C1841,Hyderabad,6,696.61,0.65,Plant-Based Food,0.467
+C1842,Delhi,6,505.66,0.676,Health & Wellness,0.557
+C1843,Kochi,7,150.0,0.598,Beauty & Personal Care,0.593
+C1844,Pune,3,1072.99,0.634,Eco-Friendly Home,0.7
+C1845,Chennai,3,496.72,0.762,Health & Wellness,0.497
+C1846,Coimbatore,6,792.9,0.448,Dairy Alternatives,0.948
+C1847,Kochi,5,345.23,0.377,Dairy Alternatives,0.64
+C1848,Delhi,1,720.53,0.656,Health & Wellness,0.847
+C1849,Kochi,3,526.42,0.546,Dairy Alternatives,0.753
+C1850,Hyderabad,1,769.93,0.29,Beauty & Personal Care,0.145
+C1851,Chennai,5,886.26,0.24,Beauty & Personal Care,0.581
+C1852,Delhi,1,1182.19,0.642,Beauty & Personal Care,0.696
+C1853,Bengaluru,2,572.52,0.82,Eco-Friendly Home,0.728
+C1854,Pune,3,1183.79,0.301,Eco-Friendly Home,0.593
+C1855,Pune,5,670.07,0.631,Beauty & Personal Care,0.508
+C1856,Pune,1,862.05,0.399,Dairy Alternatives,0.776
+C1857,Pune,3,613.7,0.61,Dairy Alternatives,0.777
+C1858,Kochi,4,1037.73,0.112,Beauty & Personal Care,0.661
+C1859,Mumbai,3,874.8,0.365,Dairy Alternatives,0.673
+C1860,Mumbai,6,1551.82,0.802,Health & Wellness,0.795
+C1861,Mumbai,6,696.72,0.577,Health & Wellness,0.32
+C1862,Delhi,2,271.98,0.429,Eco-Friendly Home,0.548
+C1863,Chennai,4,633.29,0.591,Health & Wellness,0.51
+C1864,Coimbatore,5,971.74,0.394,Health & Wellness,0.394
+C1865,Mumbai,4,603.37,0.62,Health & Wellness,0.578
+C1866,Hyderabad,4,777.22,0.507,Eco-Friendly Home,0.52
+C1867,Mumbai,3,676.23,0.468,Health & Wellness,0.798
+C1868,Pune,2,888.64,0.49,Health & Wellness,0.543
+C1869,Coimbatore,4,1112.7,0.424,Beauty & Personal Care,0.647
+C1870,Delhi,5,669.35,0.337,Eco-Friendly Home,0.692
+C1871,Bengaluru,2,1224.33,0.787,Beauty & Personal Care,0.558
+C1872,Mumbai,7,235.46,0.661,Dairy Alternatives,0.872
+C1873,Chennai,5,734.59,0.451,Health & Wellness,0.689
+C1874,Mumbai,2,699.58,0.385,Beauty & Personal Care,0.492
+C1875,Bengaluru,4,1354.02,0.505,Health & Wellness,0.68
+C1876,Pune,3,731.66,0.285,Dairy Alternatives,0.542
+C1877,Kochi,3,777.79,0.608,Health & Wellness,0.691
+C1878,Coimbatore,4,582.45,0.594,Eco-Friendly Home,0.683
+C1879,Hyderabad,5,599.69,0.332,Eco-Friendly Home,0.37
+C1880,Coimbatore,5,894.17,0.51,Plant-Based Food,0.67
+C1881,Pune,6,590.62,0.409,Health & Wellness,0.535
+C1882,Kochi,1,1008.82,0.676,Beauty & Personal Care,0.614
+C1883,Coimbatore,4,358.31,0.469,Health & Wellness,0.634
+C1884,Pune,3,574.83,0.536,Beauty & Personal Care,0.319
+C1885,Kochi,2,721.83,0.49,Plant-Based Food,0.535
+C1886,Mumbai,1,817.02,0.539,Plant-Based Food,0.712
+C1887,Hyderabad,3,601.27,0.654,Plant-Based Food,0.363
+C1888,Coimbatore,2,505.5,0.342,Eco-Friendly Home,0.65
+C1889,Delhi,3,741.42,0.548,Dairy Alternatives,0.736
+C1890,Pune,3,1020.1,0.299,Health & Wellness,0.727
+C1891,Kochi,2,579.82,0.617,Eco-Friendly Home,0.494
+C1892,Chennai,3,880.66,0.476,Dairy Alternatives,0.556
+C1893,Mumbai,5,1172.88,0.315,Health & Wellness,0.336
+C1894,Delhi,5,821.47,0.618,Plant-Based Food,0.706
+C1895,Mumbai,4,1255.3,0.471,Beauty & Personal Care,0.61
+C1896,Hyderabad,1,1007.67,0.54,Eco-Friendly Home,0.8
+C1897,Coimbatore,1,461.74,0.465,Beauty & Personal Care,0.686
+C1898,Hyderabad,6,500.43,0.299,Eco-Friendly Home,0.349
+C1899,Pune,1,638.88,0.696,Beauty & Personal Care,0.418
+C1900,Chennai,1,706.02,0.527,Plant-Based Food,0.703
+C1901,Delhi,1,176.26,0.157,Beauty & Personal Care,0.8
+C1902,Chennai,3,1044.6,0.273,Dairy Alternatives,0.49
+C1903,Mumbai,2,1074.36,0.41,Plant-Based Food,0.517
+C1904,Kochi,2,808.65,0.563,Health & Wellness,0.442
+C1905,Coimbatore,5,803.05,0.818,Health & Wellness,0.56
+C1906,Delhi,6,579.01,0.388,Health & Wellness,0.723
+C1907,Pune,6,287.85,0.237,Health & Wellness,0.807
+C1908,Pune,3,1188.93,0.465,Eco-Friendly Home,0.717
+C1909,Hyderabad,3,1000.69,0.71,Dairy Alternatives,0.86
+C1910,Bengaluru,5,855.87,0.337,Health & Wellness,0.664
+C1911,Delhi,7,552.69,0.462,Eco-Friendly Home,0.734
+C1912,Bengaluru,2,614.6,0.636,Eco-Friendly Home,0.702
+C1913,Mumbai,1,963.72,0.719,Plant-Based Food,0.457
+C1914,Bengaluru,5,150.0,0.554,Health & Wellness,0.643
+C1915,Bengaluru,8,1149.08,0.608,Beauty & Personal Care,0.746
+C1916,Chennai,1,1049.95,0.494,Dairy Alternatives,0.458
+C1917,Hyderabad,4,321.49,0.486,Plant-Based Food,0.894
+C1918,Mumbai,6,1113.47,0.451,Plant-Based Food,0.745
+C1919,Mumbai,5,462.92,0.603,Dairy Alternatives,0.906
+C1920,Chennai,6,599.88,0.483,Beauty & Personal Care,0.744
+C1921,Hyderabad,8,958.15,0.53,Health & Wellness,0.704
+C1922,Chennai,4,389.65,0.354,Dairy Alternatives,0.593
+C1923,Pune,3,150.0,0.321,Eco-Friendly Home,0.743
+C1924,Chennai,5,999.33,0.738,Eco-Friendly Home,0.607
+C1925,Hyderabad,3,1554.0,0.785,Eco-Friendly Home,0.608
+C1926,Coimbatore,5,905.03,0.437,Plant-Based Food,0.568
+C1927,Mumbai,3,738.0,0.279,Plant-Based Food,0.5
+C1928,Bengaluru,6,1012.31,0.493,Dairy Alternatives,0.735
+C1929,Bengaluru,8,543.71,0.254,Eco-Friendly Home,0.689
+C1930,Delhi,2,632.1,0.605,Health & Wellness,0.551
+C1931,Kochi,3,696.72,0.758,Beauty & Personal Care,0.781
+C1932,Mumbai,5,422.49,0.335,Dairy Alternatives,0.611
+C1933,Coimbatore,1,500.86,0.7,Dairy Alternatives,0.753
+C1934,Hyderabad,3,629.83,0.394,Beauty & Personal Care,0.659
+C1935,Hyderabad,7,635.83,0.31,Plant-Based Food,0.458
+C1936,Hyderabad,4,829.93,0.57,Beauty & Personal Care,0.439
+C1937,Bengaluru,6,1083.65,0.739,Beauty & Personal Care,0.362
+C1938,Bengaluru,2,645.61,0.379,Health & Wellness,0.772
+C1939,Pune,1,572.47,0.433,Health & Wellness,0.579
+C1940,Hyderabad,1,1024.17,0.396,Beauty & Personal Care,0.686
+C1941,Pune,6,511.34,0.572,Plant-Based Food,0.733
+C1942,Hyderabad,10,576.43,0.732,Health & Wellness,0.869
+C1943,Kochi,4,611.15,0.438,Plant-Based Food,0.714
+C1944,Mumbai,3,975.19,0.326,Plant-Based Food,0.944
+C1945,Delhi,4,867.15,0.636,Health & Wellness,0.754
+C1946,Hyderabad,5,871.94,0.786,Eco-Friendly Home,0.931
+C1947,Bengaluru,1,150.0,0.393,Health & Wellness,0.686
+C1948,Delhi,4,1192.22,0.794,Dairy Alternatives,0.751
+C1949,Hyderabad,7,1285.98,0.559,Health & Wellness,0.756
+C1950,Pune,2,857.15,0.396,Health & Wellness,0.809
+C1951,Pune,4,726.25,0.574,Plant-Based Food,0.572
+C1952,Bengaluru,4,711.28,0.808,Dairy Alternatives,0.576
+C1953,Hyderabad,1,628.14,0.425,Plant-Based Food,0.685
+C1954,Pune,3,180.18,0.259,Health & Wellness,0.501
+C1955,Coimbatore,5,798.08,0.27,Health & Wellness,0.394
+C1956,Mumbai,4,150.0,0.68,Dairy Alternatives,0.86
+C1957,Coimbatore,3,529.64,0.353,Dairy Alternatives,0.666
+C1958,Chennai,2,1123.65,0.655,Plant-Based Food,0.713
+C1959,Mumbai,3,810.13,0.432,Dairy Alternatives,0.61
+C1960,Chennai,1,1137.38,0.766,Health & Wellness,0.687
+C1961,Chennai,5,1794.47,0.424,Dairy Alternatives,0.635
+C1962,Coimbatore,5,882.25,0.814,Beauty & Personal Care,0.763
+C1963,Kochi,6,303.83,0.505,Health & Wellness,0.623
+C1964,Chennai,4,338.67,0.394,Beauty & Personal Care,0.747
+C1965,Bengaluru,2,932.86,0.472,Eco-Friendly Home,0.721
+C1966,Coimbatore,5,507.52,0.344,Beauty & Personal Care,0.301
+C1967,Delhi,4,575.12,0.701,Dairy Alternatives,0.609
+C1968,Mumbai,5,830.26,0.785,Health & Wellness,0.721
+C1969,Coimbatore,1,956.53,0.576,Eco-Friendly Home,0.173
+C1970,Hyderabad,3,736.6,0.525,Eco-Friendly Home,0.804
+C1971,Kochi,3,692.63,0.357,Health & Wellness,0.262
+C1972,Pune,4,803.67,0.767,Dairy Alternatives,0.62
+C1973,Coimbatore,4,319.63,0.359,Beauty & Personal Care,0.686
+C1974,Kochi,4,500.77,0.406,Dairy Alternatives,0.464
+C1975,Mumbai,4,879.35,0.267,Plant-Based Food,0.597
+C1976,Delhi,3,596.52,0.533,Dairy Alternatives,0.569
+C1977,Bengaluru,2,853.96,0.699,Health & Wellness,0.252
+C1978,Mumbai,2,852.13,0.811,Dairy Alternatives,0.668
+C1979,Pune,5,560.1,0.53,Plant-Based Food,0.411
+C1980,Delhi,6,982.61,0.691,Dairy Alternatives,0.746
+C1981,Kochi,4,838.4,0.328,Beauty & Personal Care,0.8
+C1982,Coimbatore,5,664.47,0.388,Beauty & Personal Care,0.692
+C1983,Chennai,3,657.39,0.432,Dairy Alternatives,0.622
+C1984,Hyderabad,1,528.96,0.412,Plant-Based Food,0.774
+C1985,Pune,4,199.59,0.352,Beauty & Personal Care,0.569
+C1986,Delhi,4,1119.76,0.326,Health & Wellness,0.86
+C1987,Chennai,6,659.02,0.686,Dairy Alternatives,0.842
+C1988,Delhi,5,578.79,0.439,Health & Wellness,0.865
+C1989,Delhi,3,540.5,0.392,Dairy Alternatives,0.567
+C1990,Coimbatore,2,848.34,0.599,Beauty & Personal Care,0.485
+C1991,Hyderabad,5,392.43,0.576,Beauty & Personal Care,0.527
+C1992,Mumbai,3,1212.78,0.643,Eco-Friendly Home,0.755
+C1993,Mumbai,2,350.67,0.397,Health & Wellness,0.832
+C1994,Hyderabad,2,999.36,0.513,Dairy Alternatives,0.472
+C1995,Hyderabad,6,1216.59,0.226,Dairy Alternatives,0.818
+C1996,Mumbai,3,830.46,0.34,Beauty & Personal Care,0.284
+C1997,Pune,1,709.52,0.383,Beauty & Personal Care,0.267
+C1998,Bengaluru,3,600.3,0.752,Eco-Friendly Home,0.279
+C1999,Bengaluru,6,964.55,0.595,Health & Wellness,0.629
+C2000,Hyderabad,1,946.51,0.309,Eco-Friendly Home,0.561
+C2001,Coimbatore,3,535.01,0.548,Plant-Based Food,0.695
+C2002,Chennai,1,615.37,0.243,Health & Wellness,0.772
+C2003,Delhi,6,831.8,0.69,Dairy Alternatives,0.54
+C2004,Mumbai,1,457.09,0.818,Plant-Based Food,0.909
+C2005,Chennai,5,863.08,0.664,Eco-Friendly Home,0.699
+C2006,Hyderabad,1,623.46,0.44,Beauty & Personal Care,0.704
+C2007,Bengaluru,1,540.98,0.374,Health & Wellness,0.546
+C2008,Coimbatore,2,793.2,0.737,Beauty & Personal Care,0.666
+C2009,Pune,6,946.43,0.482,Health & Wellness,0.756
+C2010,Pune,8,731.29,0.326,Dairy Alternatives,0.731
+C2011,Mumbai,2,621.1,0.5,Health & Wellness,0.522
+C2012,Chennai,3,554.72,0.507,Health & Wellness,0.722
+C2013,Bengaluru,1,690.61,0.524,Plant-Based Food,0.55
+C2014,Delhi,1,587.06,0.566,Health & Wellness,0.549
+C2015,Kochi,1,1237.39,0.429,Health & Wellness,0.554
+C2016,Kochi,5,665.82,0.682,Plant-Based Food,0.786
+C2017,Coimbatore,1,1066.81,0.371,Beauty & Personal Care,0.786
+C2018,Pune,4,163.34,0.402,Health & Wellness,0.511
+C2019,Kochi,3,577.36,0.282,Dairy Alternatives,0.746
+C2020,Pune,2,985.93,0.659,Health & Wellness,0.404
+C2021,Chennai,8,1270.16,0.77,Eco-Friendly Home,0.52
+C2022,Pune,3,651.24,0.368,Dairy Alternatives,0.631
+C2023,Hyderabad,5,993.49,0.402,Eco-Friendly Home,0.378
+C2024,Bengaluru,2,974.35,0.555,Plant-Based Food,0.605
+C2025,Kochi,4,1033.61,0.234,Eco-Friendly Home,0.692
+C2026,Coimbatore,2,387.77,0.683,Beauty & Personal Care,0.495
+C2027,Coimbatore,7,1088.25,0.578,Health & Wellness,0.47
+C2028,Pune,1,707.83,0.681,Health & Wellness,0.608
+C2029,Delhi,4,512.53,0.742,Beauty & Personal Care,0.295
+C2030,Delhi,8,1188.4,0.71,Plant-Based Food,0.707
+C2031,Coimbatore,2,692.96,0.539,Eco-Friendly Home,0.759
+C2032,Pune,2,1136.19,0.551,Health & Wellness,0.725
+C2033,Mumbai,2,549.57,0.527,Eco-Friendly Home,0.418
+C2034,Delhi,6,1067.29,0.65,Plant-Based Food,0.64
+C2035,Hyderabad,3,725.7,0.489,Plant-Based Food,0.406
+C2036,Mumbai,3,853.02,0.458,Eco-Friendly Home,0.507
+C2037,Kochi,3,567.2,0.343,Plant-Based Food,0.693
+C2038,Hyderabad,3,1097.83,0.33,Eco-Friendly Home,0.782
+C2039,Chennai,3,759.94,0.601,Beauty & Personal Care,0.847
+C2040,Mumbai,1,886.46,0.635,Plant-Based Food,0.359
+C2041,Bengaluru,3,1154.15,0.467,Health & Wellness,0.3
+C2042,Pune,2,715.59,0.299,Beauty & Personal Care,0.652
+C2043,Coimbatore,3,823.62,0.819,Beauty & Personal Care,0.464
+C2044,Pune,2,708.76,0.358,Eco-Friendly Home,0.405
+C2045,Pune,4,809.51,0.633,Plant-Based Food,0.85
+C2046,Chennai,4,978.22,0.75,Health & Wellness,0.47
+C2047,Bengaluru,5,716.26,0.174,Health & Wellness,0.618
+C2048,Kochi,1,710.48,0.452,Dairy Alternatives,0.656
+C2049,Chennai,4,1045.63,0.712,Health & Wellness,0.786
+C2050,Bengaluru,3,459.5,0.547,Beauty & Personal Care,0.213
+C2051,Chennai,1,902.89,0.367,Dairy Alternatives,0.617
+C2052,Delhi,5,855.74,0.312,Eco-Friendly Home,0.646
+C2053,Pune,3,921.64,0.326,Beauty & Personal Care,0.665
+C2054,Hyderabad,1,575.97,0.164,Health & Wellness,0.44
+C2055,Coimbatore,1,744.32,0.624,Beauty & Personal Care,0.816
+C2056,Coimbatore,5,918.67,0.336,Dairy Alternatives,0.476
+C2057,Bengaluru,4,940.36,0.453,Beauty & Personal Care,0.599
+C2058,Mumbai,2,952.1,0.506,Plant-Based Food,0.625
+C2059,Mumbai,4,311.12,0.509,Eco-Friendly Home,0.635
+C2060,Coimbatore,6,358.85,0.545,Dairy Alternatives,0.434
+C2061,Pune,1,1023.03,0.799,Dairy Alternatives,0.717
+C2062,Pune,3,654.17,0.514,Beauty & Personal Care,0.402
+C2063,Chennai,3,617.99,0.47,Beauty & Personal Care,0.797
+C2064,Kochi,4,712.93,0.521,Beauty & Personal Care,0.59
+C2065,Hyderabad,1,907.19,0.499,Eco-Friendly Home,0.655
+C2066,Delhi,1,700.69,0.587,Eco-Friendly Home,0.728
+C2067,Coimbatore,3,1180.16,0.806,Dairy Alternatives,0.579
+C2068,Pune,1,1004.44,0.307,Plant-Based Food,0.489
+C2069,Kochi,3,884.85,0.219,Beauty & Personal Care,0.778
+C2070,Bengaluru,3,323.23,0.452,Plant-Based Food,0.568
+C2071,Delhi,7,655.11,0.527,Health & Wellness,0.843
+C2072,Coimbatore,3,292.02,0.417,Eco-Friendly Home,0.433
+C2073,Bengaluru,3,583.18,0.437,Dairy Alternatives,0.523
+C2074,Pune,2,954.11,0.354,Plant-Based Food,0.628
+C2075,Hyderabad,6,662.94,0.441,Health & Wellness,0.439
+C2076,Pune,2,335.03,0.56,Dairy Alternatives,0.823
+C2077,Pune,3,418.03,0.787,Plant-Based Food,0.783
+C2078,Hyderabad,5,745.29,0.694,Health & Wellness,0.686
+C2079,Delhi,6,759.91,0.249,Beauty & Personal Care,0.583
+C2080,Coimbatore,2,520.14,0.35,Dairy Alternatives,0.776
+C2081,Mumbai,2,1251.56,0.472,Beauty & Personal Care,0.605
+C2082,Coimbatore,4,542.51,0.563,Dairy Alternatives,0.572
+C2083,Mumbai,2,652.38,0.36,Plant-Based Food,0.506
+C2084,Coimbatore,5,1036.47,0.503,Eco-Friendly Home,0.871
+C2085,Chennai,4,448.66,0.502,Eco-Friendly Home,0.355
+C2086,Pune,1,888.28,0.361,Health & Wellness,0.539
+C2087,Bengaluru,2,531.08,0.585,Health & Wellness,0.566
+C2088,Mumbai,6,1178.34,0.396,Dairy Alternatives,0.699
+C2089,Pune,1,740.98,0.418,Beauty & Personal Care,0.672
+C2090,Bengaluru,2,678.9,0.526,Plant-Based Food,0.724
+C2091,Coimbatore,3,475.54,0.676,Health & Wellness,0.403
+C2092,Kochi,5,308.87,0.376,Beauty & Personal Care,0.552
+C2093,Delhi,6,610.62,0.822,Eco-Friendly Home,0.277
+C2094,Kochi,3,688.89,0.86,Plant-Based Food,0.888
+C2095,Pune,4,544.25,0.611,Health & Wellness,0.708
+C2096,Hyderabad,2,606.47,0.683,Eco-Friendly Home,0.35
+C2097,Delhi,3,652.8,0.177,Plant-Based Food,0.291
+C2098,Mumbai,3,891.84,0.319,Health & Wellness,0.591
+C2099,Mumbai,5,514.23,0.333,Plant-Based Food,0.532
+C2100,Pune,6,898.03,0.518,Plant-Based Food,0.545
+C2101,Delhi,6,652.64,0.522,Beauty & Personal Care,0.856
+C2102,Bengaluru,2,1226.47,0.497,Eco-Friendly Home,0.652
+C2103,Bengaluru,3,196.93,0.73,Plant-Based Food,0.745
+C2104,Coimbatore,4,492.68,0.794,Health & Wellness,0.925
+C2105,Kochi,5,1020.37,0.366,Plant-Based Food,0.51
+C2106,Delhi,3,780.14,0.48,Beauty & Personal Care,0.622
+C2107,Chennai,1,660.88,0.582,Eco-Friendly Home,0.311
+C2108,Chennai,5,663.0,0.618,Beauty & Personal Care,0.495
+C2109,Bengaluru,4,330.07,0.907,Plant-Based Food,0.62
+C2110,Delhi,5,1185.96,0.653,Plant-Based Food,0.675
+C2111,Pune,5,937.07,0.312,Beauty & Personal Care,0.87
+C2112,Delhi,2,644.6,0.501,Health & Wellness,0.724
+C2113,Mumbai,2,488.33,0.68,Beauty & Personal Care,0.531
+C2114,Delhi,3,309.39,0.442,Eco-Friendly Home,0.798
+C2115,Chennai,2,765.98,0.448,Plant-Based Food,0.405
+C2116,Delhi,3,1395.83,0.517,Health & Wellness,0.515
+C2117,Delhi,3,696.87,0.437,Beauty & Personal Care,0.445
+C2118,Mumbai,4,553.23,0.543,Beauty & Personal Care,0.623
+C2119,Mumbai,2,811.46,0.588,Plant-Based Food,0.651
+C2120,Kochi,3,958.29,0.65,Health & Wellness,0.518
+C2121,Pune,5,643.37,0.194,Dairy Alternatives,0.667
+C2122,Kochi,2,544.05,0.392,Health & Wellness,0.665
+C2123,Delhi,5,980.8,0.488,Health & Wellness,0.713
+C2124,Pune,1,709.43,0.446,Eco-Friendly Home,0.414
+C2125,Pune,3,1115.42,0.468,Eco-Friendly Home,0.774
+C2126,Coimbatore,1,699.15,0.302,Health & Wellness,0.522
+C2127,Pune,5,1022.49,0.295,Dairy Alternatives,0.8
+C2128,Bengaluru,3,317.87,0.483,Health & Wellness,0.736
+C2129,Coimbatore,1,495.92,0.511,Dairy Alternatives,0.588
+C2130,Chennai,5,698.41,0.58,Dairy Alternatives,0.361
+C2131,Mumbai,4,637.25,0.334,Eco-Friendly Home,0.664
+C2132,Coimbatore,3,1333.91,0.392,Eco-Friendly Home,0.767
+C2133,Bengaluru,1,611.29,0.619,Dairy Alternatives,0.788
+C2134,Delhi,5,471.52,0.639,Plant-Based Food,0.478
+C2135,Chennai,1,749.09,0.48,Eco-Friendly Home,0.405
+C2136,Delhi,3,486.22,0.298,Dairy Alternatives,0.588
+C2137,Hyderabad,2,907.99,0.437,Dairy Alternatives,0.555
+C2138,Delhi,3,477.42,0.797,Eco-Friendly Home,0.533
+C2139,Bengaluru,3,792.68,0.583,Plant-Based Food,0.604
+C2140,Mumbai,4,814.04,0.483,Dairy Alternatives,0.416
+C2141,Chennai,5,959.13,0.5,Dairy Alternatives,0.573
+C2142,Kochi,2,623.61,0.37,Dairy Alternatives,0.637
+C2143,Kochi,6,845.66,0.714,Plant-Based Food,0.776
+C2144,Mumbai,3,1208.89,0.655,Health & Wellness,0.604
+C2145,Delhi,4,901.38,0.23,Eco-Friendly Home,0.74
+C2146,Pune,1,409.79,0.37,Beauty & Personal Care,0.421
+C2147,Mumbai,2,1088.99,0.817,Health & Wellness,0.45
+C2148,Hyderabad,5,966.54,0.509,Eco-Friendly Home,0.531
+C2149,Pune,5,584.74,0.702,Dairy Alternatives,0.348
+C2150,Bengaluru,3,1113.68,0.341,Eco-Friendly Home,0.53
+C2151,Mumbai,4,585.64,0.133,Dairy Alternatives,0.42
+C2152,Delhi,5,1073.0,0.413,Plant-Based Food,0.707
+C2153,Bengaluru,1,617.19,0.427,Plant-Based Food,0.455
+C2154,Bengaluru,3,150.0,0.38,Eco-Friendly Home,0.767
+C2155,Coimbatore,3,909.02,0.45,Plant-Based Food,0.701
+C2156,Chennai,3,1053.49,0.271,Beauty & Personal Care,0.691
+C2157,Kochi,6,779.19,0.537,Beauty & Personal Care,0.6
+C2158,Chennai,5,876.22,0.698,Dairy Alternatives,0.701
+C2159,Delhi,3,634.92,0.578,Health & Wellness,0.535
+C2160,Coimbatore,8,1172.77,0.667,Plant-Based Food,0.949
+C2161,Chennai,5,701.21,0.381,Beauty & Personal Care,0.445
+C2162,Coimbatore,4,676.2,0.725,Health & Wellness,0.392
+C2163,Kochi,4,769.18,0.224,Health & Wellness,0.477
+C2164,Mumbai,7,197.5,0.295,Dairy Alternatives,0.715
+C2165,Kochi,4,571.52,0.347,Plant-Based Food,0.52
+C2166,Coimbatore,1,871.88,0.52,Health & Wellness,0.618
+C2167,Pune,5,1463.6,0.33,Plant-Based Food,0.69
+C2168,Hyderabad,3,715.04,0.351,Plant-Based Food,0.584
+C2169,Pune,2,521.39,0.836,Dairy Alternatives,0.342
+C2170,Kochi,5,831.98,0.516,Health & Wellness,0.52
+C2171,Delhi,1,809.37,0.397,Eco-Friendly Home,0.6
+C2172,Mumbai,5,999.91,0.477,Plant-Based Food,0.458
+C2173,Coimbatore,4,459.41,0.632,Eco-Friendly Home,0.792
+C2174,Delhi,3,150.0,0.419,Eco-Friendly Home,0.873
+C2175,Kochi,2,430.02,0.486,Plant-Based Food,0.773
+C2176,Coimbatore,4,955.28,0.366,Dairy Alternatives,0.508
+C2177,Hyderabad,6,917.11,0.402,Health & Wellness,0.75
+C2178,Hyderabad,2,688.18,0.644,Health & Wellness,0.719
+C2179,Coimbatore,1,854.92,0.263,Health & Wellness,0.575
+C2180,Pune,1,824.9,0.508,Dairy Alternatives,0.781
+C2181,Mumbai,1,736.82,0.721,Dairy Alternatives,0.842
+C2182,Coimbatore,6,600.08,0.615,Health & Wellness,0.696
+C2183,Bengaluru,3,858.88,0.416,Plant-Based Food,0.614
+C2184,Bengaluru,6,705.29,0.453,Health & Wellness,0.667
+C2185,Hyderabad,3,251.98,0.157,Eco-Friendly Home,0.764
+C2186,Hyderabad,3,181.71,0.345,Health & Wellness,0.639
+C2187,Hyderabad,2,1051.38,0.685,Plant-Based Food,0.541
+C2188,Pune,4,978.77,0.449,Dairy Alternatives,0.574
+C2189,Kochi,1,664.29,0.49,Dairy Alternatives,0.363
+C2190,Coimbatore,3,293.55,0.289,Beauty & Personal Care,0.667
+C2191,Kochi,7,851.77,0.48,Beauty & Personal Care,0.647
+C2192,Chennai,1,183.29,0.379,Beauty & Personal Care,0.791
+C2193,Pune,3,344.82,0.41,Beauty & Personal Care,0.514
+C2194,Pune,2,797.24,0.318,Eco-Friendly Home,0.854
+C2195,Chennai,4,475.66,0.572,Eco-Friendly Home,0.679
+C2196,Kochi,1,1083.5,0.244,Dairy Alternatives,0.579
+C2197,Pune,3,647.08,0.583,Eco-Friendly Home,0.427
+C2198,Chennai,4,360.87,0.142,Beauty & Personal Care,0.646
+C2199,Delhi,5,150.0,0.443,Health & Wellness,0.555
+C2200,Hyderabad,4,634.6,0.901,Plant-Based Food,0.689
+C2201,Hyderabad,1,1046.62,0.78,Health & Wellness,0.709
+C2202,Pune,3,654.75,0.634,Beauty & Personal Care,0.578
+C2203,Chennai,6,799.83,0.357,Eco-Friendly Home,0.633
+C2204,Kochi,1,763.02,0.585,Health & Wellness,0.793
+C2205,Mumbai,6,980.15,0.728,Health & Wellness,0.392
+C2206,Kochi,2,234.34,0.615,Plant-Based Food,0.395
+C2207,Delhi,4,531.83,0.545,Dairy Alternatives,0.399
+C2208,Hyderabad,3,400.3,0.493,Eco-Friendly Home,0.663
+C2209,Bengaluru,3,928.08,0.303,Beauty & Personal Care,0.478
+C2210,Kochi,9,645.39,0.537,Eco-Friendly Home,0.831
+C2211,Coimbatore,2,726.22,0.465,Health & Wellness,0.701
+C2212,Delhi,6,625.02,0.659,Health & Wellness,0.975
+C2213,Mumbai,3,997.98,0.478,Beauty & Personal Care,0.619
+C2214,Mumbai,7,701.68,0.357,Beauty & Personal Care,0.579
+C2215,Coimbatore,5,717.87,0.62,Health & Wellness,0.78
+C2216,Hyderabad,2,597.96,0.697,Plant-Based Food,0.439
+C2217,Chennai,2,1192.49,0.856,Eco-Friendly Home,0.795
+C2218,Bengaluru,2,1114.45,0.607,Plant-Based Food,0.547
+C2219,Hyderabad,7,609.0,0.59,Eco-Friendly Home,0.708
+C2220,Delhi,4,853.53,0.574,Beauty & Personal Care,0.63
+C2221,Chennai,1,495.09,0.488,Beauty & Personal Care,0.545
+C2222,Chennai,3,984.85,0.446,Eco-Friendly Home,0.355
+C2223,Bengaluru,4,652.95,0.612,Dairy Alternatives,0.766
+C2224,Hyderabad,5,743.12,0.434,Plant-Based Food,0.158
+C2225,Coimbatore,8,739.12,0.495,Beauty & Personal Care,0.61
+C2226,Kochi,2,729.01,0.9,Beauty & Personal Care,0.72
+C2227,Chennai,2,514.94,0.193,Health & Wellness,0.448
+C2228,Chennai,2,779.14,0.724,Health & Wellness,0.662
+C2229,Pune,2,1061.63,0.454,Eco-Friendly Home,0.877
+C2230,Kochi,1,478.1,0.558,Eco-Friendly Home,0.463
+C2231,Chennai,4,565.5,0.58,Dairy Alternatives,0.587
+C2232,Chennai,3,1270.72,0.434,Plant-Based Food,0.561
+C2233,Kochi,1,575.12,0.479,Plant-Based Food,0.61
+C2234,Chennai,1,1023.34,0.618,Eco-Friendly Home,0.33
+C2235,Chennai,6,695.62,0.739,Beauty & Personal Care,0.676
+C2236,Kochi,1,1104.8,0.331,Eco-Friendly Home,0.515
+C2237,Coimbatore,3,496.03,0.55,Health & Wellness,0.405
+C2238,Pune,3,495.85,0.394,Eco-Friendly Home,0.355
+C2239,Mumbai,2,508.76,0.226,Health & Wellness,0.688
+C2240,Delhi,6,872.23,0.616,Beauty & Personal Care,0.554
+C2241,Coimbatore,4,911.75,0.538,Health & Wellness,0.85
+C2242,Mumbai,1,472.98,0.452,Plant-Based Food,0.838
+C2243,Pune,8,865.82,0.392,Plant-Based Food,0.691
+C2244,Hyderabad,3,788.3,0.694,Eco-Friendly Home,0.886
+C2245,Kochi,2,719.72,0.504,Beauty & Personal Care,0.394
+C2246,Kochi,4,1192.94,0.548,Dairy Alternatives,0.477
+C2247,Delhi,4,623.82,0.501,Plant-Based Food,0.445
+C2248,Pune,3,1052.49,0.691,Health & Wellness,0.893
+C2249,Pune,6,1157.83,0.727,Dairy Alternatives,0.6
+C2250,Coimbatore,1,344.53,0.429,Beauty & Personal Care,0.385
+C2251,Chennai,3,691.72,0.576,Health & Wellness,0.69
+C2252,Pune,1,1018.9,0.487,Health & Wellness,0.575
+C2253,Mumbai,1,789.74,0.5,Eco-Friendly Home,0.726
+C2254,Coimbatore,6,357.48,0.354,Plant-Based Food,0.871
+C2255,Bengaluru,2,838.32,0.519,Eco-Friendly Home,0.525
+C2256,Bengaluru,3,675.51,0.144,Dairy Alternatives,0.637
+C2257,Pune,2,812.22,0.498,Dairy Alternatives,0.87
+C2258,Hyderabad,4,1366.73,0.515,Dairy Alternatives,0.683
+C2259,Delhi,3,382.49,0.355,Plant-Based Food,0.408
+C2260,Kochi,3,997.7,0.536,Eco-Friendly Home,0.499
+C2261,Coimbatore,3,788.64,0.283,Beauty & Personal Care,0.645
+C2262,Kochi,6,504.17,0.552,Beauty & Personal Care,0.522
+C2263,Bengaluru,2,775.99,0.343,Plant-Based Food,0.489
+C2264,Chennai,7,1019.9,0.516,Health & Wellness,0.6
+C2265,Mumbai,3,235.96,0.418,Dairy Alternatives,0.399
+C2266,Pune,2,592.59,0.643,Health & Wellness,0.505
+C2267,Kochi,4,820.62,0.385,Health & Wellness,0.706
+C2268,Coimbatore,3,281.5,0.58,Health & Wellness,0.504
+C2269,Coimbatore,2,839.44,0.195,Beauty & Personal Care,0.683
+C2270,Chennai,5,954.33,0.584,Dairy Alternatives,0.669
+C2271,Pune,3,503.53,0.389,Beauty & Personal Care,0.645
+C2272,Kochi,2,1114.16,0.333,Beauty & Personal Care,0.795
+C2273,Delhi,6,1343.7,0.604,Plant-Based Food,0.746
+C2274,Bengaluru,4,694.84,0.634,Dairy Alternatives,0.722
+C2275,Mumbai,5,411.49,0.12,Beauty & Personal Care,0.578
+C2276,Mumbai,6,868.08,0.336,Dairy Alternatives,0.863
+C2277,Hyderabad,5,548.18,0.249,Dairy Alternatives,0.563
+C2278,Kochi,3,997.97,0.308,Eco-Friendly Home,0.63
+C2279,Mumbai,4,942.3,0.621,Beauty & Personal Care,0.655
+C2280,Bengaluru,5,818.7,0.349,Eco-Friendly Home,0.377
+C2281,Kochi,2,724.9,0.267,Beauty & Personal Care,0.593
+C2282,Bengaluru,4,913.9,0.312,Eco-Friendly Home,0.331
+C2283,Bengaluru,4,457.97,0.492,Health & Wellness,0.566
+C2284,Pune,1,836.55,0.273,Dairy Alternatives,0.645
+C2285,Mumbai,5,840.32,0.486,Beauty & Personal Care,0.811
+C2286,Hyderabad,5,1030.54,0.705,Health & Wellness,0.698
+C2287,Coimbatore,4,930.1,0.537,Beauty & Personal Care,0.615
+C2288,Hyderabad,7,1076.77,0.352,Plant-Based Food,0.77
+C2289,Kochi,8,827.02,0.39,Health & Wellness,0.466
+C2290,Hyderabad,2,1016.2,0.519,Dairy Alternatives,0.74
+C2291,Delhi,4,1099.87,0.534,Plant-Based Food,0.802
+C2292,Coimbatore,2,729.63,0.525,Dairy Alternatives,0.528
+C2293,Mumbai,3,645.72,0.408,Eco-Friendly Home,0.572
+C2294,Pune,1,274.03,0.439,Beauty & Personal Care,0.619
+C2295,Hyderabad,5,853.34,0.449,Eco-Friendly Home,0.348
+C2296,Coimbatore,3,806.13,0.375,Beauty & Personal Care,0.273
+C2297,Delhi,7,1014.07,0.458,Dairy Alternatives,0.512
+C2298,Mumbai,4,500.75,0.536,Dairy Alternatives,0.778
+C2299,Pune,3,943.67,0.631,Dairy Alternatives,0.715
+C2300,Delhi,4,1011.41,0.264,Dairy Alternatives,0.277
+C2301,Hyderabad,7,814.49,0.354,Beauty & Personal Care,0.678
+C2302,Delhi,3,750.85,0.72,Plant-Based Food,0.632
+C2303,Chennai,5,858.87,0.697,Plant-Based Food,0.694
+C2304,Delhi,4,809.53,0.46,Health & Wellness,0.658
+C2305,Kochi,2,673.55,0.774,Beauty & Personal Care,0.739
+C2306,Bengaluru,5,609.73,0.334,Eco-Friendly Home,0.809
+C2307,Mumbai,2,728.33,0.686,Health & Wellness,0.782
+C2308,Kochi,4,882.99,0.579,Health & Wellness,0.511
+C2309,Bengaluru,4,402.46,0.687,Plant-Based Food,0.736
+C2310,Bengaluru,2,803.45,0.426,Beauty & Personal Care,0.255
+C2311,Bengaluru,1,1301.09,0.639,Beauty & Personal Care,0.75
+C2312,Coimbatore,4,732.87,0.463,Beauty & Personal Care,0.861
+C2313,Chennai,6,954.96,0.693,Beauty & Personal Care,0.66
+C2314,Kochi,3,1146.95,0.416,Dairy Alternatives,0.795
+C2315,Mumbai,6,949.18,0.247,Eco-Friendly Home,0.87
+C2316,Coimbatore,3,931.35,0.772,Plant-Based Food,0.381
+C2317,Coimbatore,2,581.87,0.406,Beauty & Personal Care,0.56
+C2318,Bengaluru,2,669.05,0.539,Dairy Alternatives,0.464
+C2319,Coimbatore,2,727.07,0.518,Plant-Based Food,0.663
+C2320,Mumbai,5,802.61,0.814,Dairy Alternatives,0.656
+C2321,Delhi,1,563.34,0.393,Beauty & Personal Care,0.779
+C2322,Coimbatore,5,970.0,0.664,Health & Wellness,0.398
+C2323,Pune,5,962.92,0.426,Dairy Alternatives,0.44
+C2324,Chennai,2,604.57,0.381,Health & Wellness,0.726
+C2325,Mumbai,2,1035.43,0.316,Plant-Based Food,0.527
+C2326,Hyderabad,6,310.14,0.427,Dairy Alternatives,0.742
+C2327,Coimbatore,6,827.12,0.753,Dairy Alternatives,0.687
+C2328,Delhi,5,591.43,0.179,Plant-Based Food,0.497
+C2329,Bengaluru,5,571.65,0.566,Dairy Alternatives,0.605
+C2330,Hyderabad,3,687.35,0.433,Health & Wellness,0.342
+C2331,Bengaluru,4,1042.68,0.404,Beauty & Personal Care,0.763
+C2332,Delhi,4,548.16,0.486,Eco-Friendly Home,0.6
+C2333,Kochi,2,700.1,0.432,Dairy Alternatives,0.791
+C2334,Coimbatore,2,402.8,0.231,Dairy Alternatives,0.503
+C2335,Delhi,2,995.84,0.288,Eco-Friendly Home,0.82
+C2336,Chennai,4,880.1,0.649,Dairy Alternatives,0.703
+C2337,Pune,4,664.02,0.398,Health & Wellness,0.575
+C2338,Delhi,4,773.6,0.654,Beauty & Personal Care,0.288
+C2339,Pune,4,1235.59,0.702,Beauty & Personal Care,0.573
+C2340,Coimbatore,6,616.75,0.699,Dairy Alternatives,0.681
+C2341,Pune,4,1292.05,0.494,Beauty & Personal Care,0.783
+C2342,Delhi,7,1051.48,0.548,Health & Wellness,0.765
+C2343,Kochi,8,1329.7,0.385,Plant-Based Food,0.582
+C2344,Kochi,4,964.59,0.592,Plant-Based Food,0.509
+C2345,Bengaluru,1,927.38,0.598,Health & Wellness,0.502
+C2346,Hyderabad,4,768.59,0.378,Beauty & Personal Care,0.821
+C2347,Kochi,1,384.28,0.792,Plant-Based Food,0.886
+C2348,Kochi,5,614.31,0.529,Dairy Alternatives,0.213
+C2349,Hyderabad,2,1293.94,0.771,Eco-Friendly Home,0.376
+C2350,Kochi,1,865.17,0.269,Health & Wellness,0.64
+C2351,Mumbai,7,977.62,0.523,Health & Wellness,0.843
+C2352,Coimbatore,6,813.41,0.499,Health & Wellness,0.626
+C2353,Chennai,2,466.29,0.544,Health & Wellness,0.611
+C2354,Delhi,3,628.67,0.204,Health & Wellness,0.664
+C2355,Chennai,6,357.23,0.4,Plant-Based Food,0.436
+C2356,Hyderabad,1,650.96,0.355,Eco-Friendly Home,0.797
+C2357,Delhi,1,1053.16,0.65,Health & Wellness,0.356
+C2358,Kochi,4,739.09,0.539,Plant-Based Food,0.557
+C2359,Pune,2,733.9,0.525,Dairy Alternatives,0.395
+C2360,Bengaluru,4,1603.27,0.516,Plant-Based Food,0.436
+C2361,Chennai,6,1060.05,0.377,Dairy Alternatives,0.631
+C2362,Hyderabad,5,981.53,0.728,Dairy Alternatives,0.715
+C2363,Mumbai,3,1054.14,0.264,Health & Wellness,0.625
+C2364,Kochi,2,598.28,0.291,Eco-Friendly Home,0.573
+C2365,Delhi,6,221.63,0.436,Dairy Alternatives,0.762
+C2366,Hyderabad,2,630.43,0.288,Beauty & Personal Care,0.398
+C2367,Coimbatore,3,471.12,0.446,Plant-Based Food,0.552
+C2368,Coimbatore,7,553.7,0.412,Beauty & Personal Care,0.881
+C2369,Mumbai,5,1029.28,0.797,Dairy Alternatives,0.647
+C2370,Delhi,5,630.44,0.54,Beauty & Personal Care,0.748
+C2371,Chennai,2,880.84,0.416,Dairy Alternatives,0.338
+C2372,Bengaluru,6,487.98,0.716,Health & Wellness,0.411
+C2373,Mumbai,9,614.18,0.197,Beauty & Personal Care,0.447
+C2374,Kochi,3,722.76,0.466,Plant-Based Food,0.734
+C2375,Kochi,3,545.63,0.503,Health & Wellness,0.402
+C2376,Kochi,3,1000.97,0.401,Eco-Friendly Home,0.674
+C2377,Mumbai,2,864.65,0.531,Plant-Based Food,0.851
+C2378,Bengaluru,6,464.93,0.703,Plant-Based Food,0.797
+C2379,Kochi,3,972.64,0.208,Health & Wellness,0.676
+C2380,Coimbatore,4,900.69,0.532,Beauty & Personal Care,0.776
+C2381,Hyderabad,3,702.79,0.678,Beauty & Personal Care,0.845
+C2382,Hyderabad,1,879.32,0.642,Plant-Based Food,0.745
+C2383,Chennai,1,902.74,0.393,Eco-Friendly Home,0.688
+C2384,Chennai,7,571.96,0.565,Plant-Based Food,0.768
+C2385,Delhi,3,315.38,0.582,Dairy Alternatives,0.12
+C2386,Kochi,4,674.67,0.244,Health & Wellness,0.244
+C2387,Pune,1,881.03,0.614,Plant-Based Food,0.49
+C2388,Mumbai,3,598.72,0.498,Beauty & Personal Care,0.864
+C2389,Delhi,7,462.15,0.097,Beauty & Personal Care,0.567
+C2390,Chennai,4,808.26,0.851,Dairy Alternatives,0.89
+C2391,Chennai,2,1214.63,0.331,Eco-Friendly Home,0.597
+C2392,Delhi,9,749.66,0.906,Beauty & Personal Care,0.491
+C2393,Kochi,2,611.97,0.733,Health & Wellness,0.565
+C2394,Chennai,8,646.21,0.438,Beauty & Personal Care,0.757
+C2395,Hyderabad,3,1088.58,0.623,Health & Wellness,0.363
+C2396,Mumbai,2,1012.48,0.354,Health & Wellness,0.34
+C2397,Bengaluru,1,750.99,0.769,Health & Wellness,0.819
+C2398,Coimbatore,8,150.0,0.157,Beauty & Personal Care,0.739
+C2399,Coimbatore,3,563.42,0.472,Eco-Friendly Home,0.773
+C2400,Hyderabad,5,745.19,0.582,Beauty & Personal Care,0.545
+C2401,Delhi,7,637.52,0.221,Plant-Based Food,0.411
+C2402,Pune,5,643.74,0.457,Beauty & Personal Care,0.588
+C2403,Kochi,2,745.77,0.451,Beauty & Personal Care,0.818
+C2404,Kochi,5,863.36,0.802,Health & Wellness,0.551
+C2405,Kochi,6,512.04,0.635,Beauty & Personal Care,0.672
+C2406,Kochi,5,625.71,0.6,Health & Wellness,0.52
+C2407,Mumbai,1,521.14,0.492,Plant-Based Food,0.638
+C2408,Coimbatore,3,1114.98,0.552,Beauty & Personal Care,0.521
+C2409,Kochi,7,543.79,0.46,Eco-Friendly Home,0.732
+C2410,Mumbai,8,459.19,0.827,Plant-Based Food,0.551
+C2411,Pune,2,671.52,0.201,Plant-Based Food,0.949
+C2412,Kochi,4,615.06,0.316,Beauty & Personal Care,0.629
+C2413,Kochi,3,685.11,0.611,Health & Wellness,0.444
+C2414,Chennai,5,300.66,0.797,Eco-Friendly Home,0.811
+C2415,Delhi,2,649.66,0.41,Beauty & Personal Care,0.848
+C2416,Mumbai,4,509.1,0.454,Health & Wellness,0.529
+C2417,Coimbatore,3,150.0,0.902,Dairy Alternatives,0.658
+C2418,Hyderabad,1,643.7,0.565,Dairy Alternatives,0.957
+C2419,Bengaluru,1,766.76,0.493,Dairy Alternatives,0.763
+C2420,Kochi,5,662.83,0.469,Dairy Alternatives,0.596
+C2421,Chennai,2,530.43,0.44,Beauty & Personal Care,0.612
+C2422,Delhi,4,160.67,0.39,Beauty & Personal Care,0.605
+C2423,Delhi,2,889.55,0.249,Plant-Based Food,0.794
+C2424,Chennai,2,574.28,0.39,Eco-Friendly Home,0.325
+C2425,Mumbai,7,748.47,0.519,Dairy Alternatives,0.757
+C2426,Bengaluru,5,709.47,0.636,Health & Wellness,0.665
+C2427,Mumbai,3,767.65,0.686,Health & Wellness,0.609
+C2428,Delhi,5,904.41,0.59,Dairy Alternatives,0.593
+C2429,Bengaluru,3,585.44,0.229,Beauty & Personal Care,0.614
+C2430,Pune,10,1226.94,0.698,Beauty & Personal Care,0.422
+C2431,Chennai,5,612.62,0.607,Beauty & Personal Care,0.609
+C2432,Hyderabad,4,733.28,0.675,Health & Wellness,0.323
+C2433,Delhi,5,1147.28,0.299,Health & Wellness,0.939
+C2434,Coimbatore,2,809.16,0.265,Eco-Friendly Home,0.616
+C2435,Coimbatore,6,394.57,0.475,Health & Wellness,0.746
+C2436,Bengaluru,5,1160.08,0.576,Health & Wellness,0.584
+C2437,Chennai,3,348.55,0.521,Health & Wellness,0.443
+C2438,Mumbai,1,854.63,0.539,Dairy Alternatives,0.763
+C2439,Hyderabad,3,497.08,0.498,Dairy Alternatives,0.594
+C2440,Hyderabad,4,676.13,0.424,Health & Wellness,0.777
+C2441,Bengaluru,4,827.73,0.361,Beauty & Personal Care,0.327
+C2442,Bengaluru,3,150.0,0.334,Health & Wellness,0.601
+C2443,Delhi,2,932.78,0.348,Dairy Alternatives,0.56
+C2444,Bengaluru,4,886.17,0.5,Plant-Based Food,0.823
+C2445,Delhi,5,686.73,0.727,Eco-Friendly Home,0.843
+C2446,Pune,2,364.03,0.709,Eco-Friendly Home,0.846
+C2447,Hyderabad,3,781.21,0.662,Eco-Friendly Home,0.454
+C2448,Pune,6,994.93,0.463,Plant-Based Food,0.628
+C2449,Delhi,5,786.31,0.232,Health & Wellness,0.627
+C2450,Delhi,4,1327.2,0.749,Health & Wellness,0.796
+C2451,Bengaluru,3,472.44,0.814,Plant-Based Food,0.643
+C2452,Coimbatore,4,786.33,0.721,Eco-Friendly Home,0.912
+C2453,Mumbai,5,1001.54,0.854,Plant-Based Food,0.757
+C2454,Kochi,3,565.14,0.467,Plant-Based Food,0.86
+C2455,Mumbai,3,315.77,0.617,Health & Wellness,0.278
+C2456,Chennai,4,1529.94,0.516,Eco-Friendly Home,0.729
+C2457,Coimbatore,2,1267.01,0.644,Health & Wellness,0.886
+C2458,Delhi,1,243.36,0.532,Dairy Alternatives,0.751
+C2459,Kochi,4,223.01,0.741,Beauty & Personal Care,0.349
+C2460,Chennai,1,1099.66,0.344,Beauty & Personal Care,0.401
+C2461,Delhi,1,519.93,0.711,Eco-Friendly Home,0.599
+C2462,Mumbai,2,471.18,0.653,Plant-Based Food,0.655
+C2463,Chennai,4,712.98,0.271,Dairy Alternatives,0.695
+C2464,Pune,5,887.69,0.412,Eco-Friendly Home,0.423
+C2465,Chennai,3,233.6,0.566,Dairy Alternatives,0.633
+C2466,Bengaluru,4,771.58,0.608,Dairy Alternatives,0.767
+C2467,Kochi,2,446.57,0.593,Plant-Based Food,0.248
+C2468,Coimbatore,4,827.61,0.811,Health & Wellness,0.522
+C2469,Delhi,7,870.99,0.615,Plant-Based Food,0.332
+C2470,Delhi,2,533.48,0.295,Health & Wellness,0.418
+C2471,Mumbai,1,520.84,0.782,Beauty & Personal Care,0.788
+C2472,Coimbatore,5,944.12,0.414,Beauty & Personal Care,0.694
+C2473,Mumbai,1,668.05,0.53,Dairy Alternatives,0.78
+C2474,Hyderabad,1,595.32,0.382,Plant-Based Food,0.916
+C2475,Delhi,7,715.42,0.282,Dairy Alternatives,0.811
+C2476,Coimbatore,3,604.14,0.209,Beauty & Personal Care,0.816
+C2477,Pune,2,611.62,0.44,Health & Wellness,0.658
+C2478,Kochi,1,1085.57,0.819,Plant-Based Food,0.493
+C2479,Kochi,2,465.54,0.702,Health & Wellness,0.4
+C2480,Bengaluru,5,1081.23,0.409,Dairy Alternatives,0.638
+C2481,Coimbatore,1,500.95,0.217,Health & Wellness,0.612
+C2482,Chennai,5,638.1,0.854,Beauty & Personal Care,0.654
+C2483,Pune,2,632.25,0.519,Dairy Alternatives,0.307
+C2484,Pune,2,1049.03,0.508,Plant-Based Food,0.539
+C2485,Mumbai,1,636.53,0.6,Health & Wellness,0.795
+C2486,Chennai,4,587.23,0.356,Beauty & Personal Care,0.523
+C2487,Coimbatore,3,406.81,0.647,Plant-Based Food,0.505
+C2488,Kochi,4,150.0,0.826,Dairy Alternatives,0.736
+C2489,Chennai,3,411.72,0.427,Plant-Based Food,0.696
+C2490,Delhi,2,917.74,0.207,Beauty & Personal Care,0.559
+C2491,Bengaluru,4,1298.91,0.483,Plant-Based Food,0.723
+C2492,Coimbatore,4,299.43,0.485,Beauty & Personal Care,0.599
+C2493,Pune,5,531.69,0.632,Health & Wellness,0.634
+C2494,Hyderabad,4,585.34,0.65,Beauty & Personal Care,0.608
+C2495,Delhi,4,471.57,0.756,Eco-Friendly Home,0.817
+C2496,Bengaluru,2,772.19,0.45,Eco-Friendly Home,0.568
+C2497,Kochi,5,428.85,0.737,Eco-Friendly Home,0.647
+C2498,Kochi,1,1071.09,0.61,Beauty & Personal Care,0.713
+C2499,Kochi,6,511.19,0.254,Plant-Based Food,0.459
+C2500,Pune,2,663.6,0.485,Plant-Based Food,0.522
