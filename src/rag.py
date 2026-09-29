@@ -297,4 +297,136 @@ class VendorCopilot:
         return Evidence(table, ["Combined similarity = mean of factor-profile and catalogue similarity."], True,
                         [vid] + table["vendor_id"].tolist()), "\n".join(lines)
 
-    def _handle_
+        def _handle_factor_contrast(self, q: str):
+        conds = parse_factor_conditions(q)
+        cat = detect_category(q, self.categories)
+        base = pd.Series(True, index=self.P.index)
+        if cat:
+            base &= self.P["category"] == cat
+
+        def apply(hi: int, lo: int) -> pd.Series:
+            mask = base.copy()
+            for k, d in conds.items():
+                mask &= (self.P[f"{k}_pct"] >= hi) if d == "high" else (self.P[f"{k}_pct"] <= lo)
+            return mask
+
+        hi, lo, relaxed = 60, 40, False
+        mask = apply(hi, lo)
+        if not mask.any():
+            hi, lo, relaxed = 55, 45, True
+            mask = apply(hi, lo)
+        cond_text = " and ".join(f"{d} {FACTOR_LABELS[k]}" for k, d in conds.items())
+        notes = [f"Thresholds: high >= {hi}th percentile, low <= {lo}th percentile.",
+                 f"{int(mask.sum())} vendors meet the conditions."]
+        if relaxed:
+            notes.append("Thresholds were relaxed because no vendor met the 60/40 thresholds.")
+        if not mask.any():
+            return self._insufficient(f"No vendor shows {cond_text}, even with relaxed thresholds.", notes)
+        sel = self.P[mask]
+        score = sum((sel[f"{k}_pct"] if d == "high" else 100 - sel[f"{k}_pct"]) for k, d in conds.items())
+        ids = score.sort_values(ascending=False).index[:8].tolist()
+        table = self._vendor_table(ids)
+        lines = [f"{int(mask.sum())} vendor(s) show {cond_text} (high = at or above the {ordinal(hi)} percentile, "
+                 f"low = at or below the {ordinal(lo)}){' within ' + cat if cat else ''}. Closest matches:"]
+        lines += [self._line(v, list(conds)) for v in ids[:5]]
+        lines += ["", "Mixed profiles like these are candidates for targeted support rather than exclusion, for "
+                      "example fulfilment help for vendors with good catalogue fit but operational-risk signals.", CAVEAT]
+        return Evidence(table, notes, True, ids), "\n".join(lines)
+
+    def _handle_category_gaps(self, q: str):
+        t = self.system.category_table.copy()
+        t["median_reliability_pct"] = t["median_reliability_pct"].round().astype(int)
+        table = t[["category", "orders", "vendors", "order_share", "vendor_share", "demand_to_supply_ratio",
+                   "orders_per_vendor", "median_reliability_pct"]].round(3)
+        gaps = table[table["demand_to_supply_ratio"] >= 1.15]
+        sub = self.system.subcategory_table.head(3)
+        sub_notes = [f"Subcategory {r.subcategory} ({r.category}): {int(r.orders)} orders across "
+                     f"{int(r.vendors_covering)} covering vendors ({r.orders_per_covering_vendor:.1f} orders per vendor)."
+                     for r in sub.itertuples(index=False)]
+        notes = sub_notes + ["Gap threshold: demand-to-supply ratio of 1.15 or more."]
+        lines = ["Demand-to-supply ratio is a category's share of orders divided by its share of vendors; values above "
+                 "1 mean demand is concentrated on relatively few vendors."]
+        if gaps.empty:
+            lines.append("No category exceeds the 1.15 threshold, so vendor coverage is broadly proportional to demand.")
+        for r in gaps.itertuples(index=False):
+            lines.append(f"- **{r.category}**: {r.order_share:.1%} of orders vs {r.vendor_share:.1%} of vendors "
+                         f"(ratio {r.demand_to_supply_ratio:.2f}; {r.orders_per_vendor:.1f} orders per vendor; median "
+                         f"reliability {ordinal(r.median_reliability_pct)} pct)")
+        lines.append("Most concentrated subcategories:")
+        lines += [f"- {n}" for n in sub_notes]
+        lines += ["", CAVEAT]
+        return Evidence(table, notes, True, []), "\n".join(lines)
+
+    def _handle_premium_segment(self, q: str):
+        cat = detect_category(q, self.categories)
+        P = self.P if not cat else self.P[self.P["category"] == cat]
+        prem_pct = (self.P["premium_customer_share"].rank(pct=True) * 100).reindex(P.index)
+        mask = (prem_pct >= 60) & (P["customer_product_fit_pct"] >= 50)
+        rule = "premium-customer share at or above the 60th percentile and customer fit at or above the 50th percentile"
+        if not mask.any():
+            mask = prem_pct >= 60
+            rule = "premium-customer share at or above the 60th percentile"
+        if not mask.any():
+            return self._insufficient("No vendor shows a concentration of Premium-segment customers.")
+        sel = P[mask].sort_values("premium_customer_share", ascending=False).head(8)
+        table = self._vendor_table(sel.index.tolist(), {"premium_customer_share": "premium_customer_share",
+                                                        "price_index": "price_index"})
+        notes = ["Premium segment = top third of customers by the average price index of vendors they buy from.",
+                 f"Selection rule: {rule}.", f"{int(mask.sum())} vendors selected."]
+        lines = [f"Vendors whose orders skew toward Premium-segment customers{' in ' + cat if cat else ''} ({rule}):"]
+        for r in table.head(5).itertuples(index=False):
+            lines.append(f"- **{r.vendor_id} {r.vendor_name}** ({r.category}): {r.premium_customer_share:.1%} of orders "
+                         f"from Premium customers, price index {r.price_index:.2f}, Customer fit "
+                         f"{ordinal(getattr(r, '_10'))} pct" if False else
+                         f"- **{r.vendor_id} {r.vendor_name}** ({r.category}): {r.premium_customer_share:.1%} of orders "
+                         f"from Premium customers, price index {r.price_index:.2f}, Customer/Product Fit "
+                         f"{ordinal(self.P.at[r.vendor_id, 'customer_product_fit_pct'])} pct, Operational Reliability "
+                         f"{ordinal(self.P.at[r.vendor_id, 'operational_reliability_pct'])} pct")
+        lines += ["", CAVEAT]
+        return Evidence(table, notes, True, table["vendor_id"].tolist()), "\n".join(lines)
+
+    def _handle_prioritisation(self, q: str):
+        cat = detect_category(q, self.categories)
+        res, spec = prioritise_vendors(self.system.profile, category=cat,
+                                       min_percentiles={"operational_reliability": 30}, top_n=5)
+        if res.empty:
+            return self._insufficient("No vendors pass the reliability floor for this request.")
+        table = res[["vendor_id", "vendor_name", "category", "segment", "priority_index"]
+                    + [f"{k}_pct" for k in FACTOR_KEYS]].copy()
+        table["priority_index"] = table["priority_index"].round(1)
+        notes = ["Priority index = equal-weight mean of the four factor percentiles.",
+                 f"Filters: {', '.join(spec['filters'])}.", f"{spec['n_candidates']} vendors passed the filters."]
+        lines = [f"Vendors ranked by an equal-weight mean of factor percentiles{' within ' + cat if cat else ''}, "
+                 "after excluding vendors below the 30th reliability percentile:"]
+        for r, rationale in zip(table.itertuples(index=False), res["rationale"]):
+            lines.append(f"- **{r.vendor_id} {r.vendor_name}** ({r.category}): priority index {r.priority_index:.1f}. {rationale}")
+        lines += ["", "Adjust the weights on the Vendor Intelligence or Matching pages if some factors matter more "
+                      "for this decision.", CAVEAT]
+        return Evidence(table, notes, True, table["vendor_id"].tolist()), "\n".join(lines)
+
+    def _handle_semantic_search(self, q: str):
+        res = semantic_match(self.system, q, top_k=5)
+        thr = float(self.system.index.encoder.weak_threshold)
+        top = float(res["semantic_similarity"].max()) if not res.empty else 0.0
+        if res.empty or top < thr:
+            return self._insufficient(
+                f"The closest catalogue matches are weak (top similarity {top:.2f}, below the {thr:.2f} threshold), "
+                "so I can't identify vendors that supply this.", [f"Top similarity {top:.2f}; weak-match threshold {thr:.2f}."])
+        res = res[res["semantic_similarity"] >= thr]
+        table = res[["vendor_id", "vendor_name", "category", "top_product", "semantic_similarity",
+                     "catalogue_similarity"] + [f"{k}_pct" for k in FACTOR_KEYS]].round(3)
+        lines = ["Closest catalogue matches, ranked by semantic similarity of product listings to the request:"]
+        for r in table.itertuples(index=False):
+            lines.append(f"- **{r.vendor_id} {r.vendor_name}** ({r.category}): '{r.top_product}' (similarity "
+                         f"{r.semantic_similarity:.2f}); Reliability {ordinal(r.operational_reliability_pct)} pct, "
+                         f"Catalogue fit {ordinal(r.catalogue_market_fit_pct)} pct, Commercial "
+                         f"{ordinal(r.commercial_potential_pct)} pct")
+        lines += ["", CAVEAT]
+        return Evidence(table, [f"Weak-match threshold {thr:.2f}."], True, table["vendor_id"].tolist()), "\n".join(lines)
+
+    def _handle_out_of_scope(self, q: str):
+        return self._insufficient(
+            "This question asks for something the marketplace dataset does not contain. The repository uses "
+            "synthetic, anonymised vendor, product, order and customer records; it holds no company financials, and "
+            "no score can establish that a vendor will succeed. I can compare vendors, explain factor scores, "
+            "analyse category coverage or match products instead.")
